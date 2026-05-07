@@ -1,0 +1,52 @@
+<view class="page">
+  <view class="box_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="block_2"></view>
+      <view class="block_3"></view>
+      <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+    </view>
+    <view class="block_4">
+      <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_2">山海放心租</text>
+      <view class="section_1">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNG7540a5393597e3e9a6522b1cba4bc03c.png" class="label_2"></image>
+    <view class="text-group_1">
+      <text lines="1" decode="true" class="text_3">租用高端车&nbsp;就用山海放心租</text>
+      <text lines="1" class="text_4">slogansloganslogan...</text>
+    </view>
+    <view class="block_5"></view>
+    <view class="block_6"></view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_5">注册</text>
+    </view>
+    <view class="image-text_1">
+      <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNG31885314fc5d3c748de20f315b2e94af.png" class="thumbnail_2"></image>
+      <view class="text-group_2">
+        <text lines="1" class="text_6">我已阅读并同意</text>
+        <text lines="1" class="text_7">《用户协议》</text>
+        <text lines="1" class="text_8">和</text>
+        <text lines="1" class="text_9">《隐私政策》</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_4">
+    <view class="group_1">
+      <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNG94e3d02e96dd50ad39cf82d70b22cf90.png" class="image_2"></image>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_zhuce3/FigmaDDSSlicePNGc7eb6a3a7b176d47068760be53f77ed3.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="group_2">
+      <text lines="1" class="text_10">请先充分阅读《用户协议》和《隐私政策》并勾选同意</text>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_11">我知道了</text>
+      </view>
+    </view>
+  </view>
+</view>

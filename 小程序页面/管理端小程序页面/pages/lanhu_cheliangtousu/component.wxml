@@ -1,0 +1,142 @@
+<view class="page">
+  <view class="box_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_2">
+      <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">投诉管理</text>
+    </view>
+    <view class="box_3">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_4">车辆投诉</text>
+      </view>
+      <text lines="1" class="text_5">服务投诉</text>
+    </view>
+    <view class="box_4">
+      <view class="group_1">
+        <view class="image-text_1">
+          <text lines="1" class="text-group_1">请选择投诉问题</text>
+          <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_6">车牌号/车行名称搜索</text>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNG702576bc26ca7754deaac39d68b2ae72.png" class="thumbnail_2"></image>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNG601350237a2a674fffce0a7304532e49.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="box_5">
+      <view class="block_1">
+        <view class="section_1">
+          <view class="box_6"></view>
+        </view>
+        <view class="section_2">
+          <view class="group_2"></view>
+        </view>
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="block_2">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_7">
+    <view class="box_8">
+      <view class="group_5">
+        <view class="box_9">
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_7">湘</text>
+            <text lines="1" class="text_8">A783940</text>
+          </view>
+        </view>
+        <text lines="1" class="text_9">车辆清洁与卫生问题</text>
+      </view>
+      <text lines="1" decode="true" class="text_10">2025/8/10&nbsp;19:34</text>
+      <view class="group_6"></view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_11">被投诉</text>
+        <text lines="1" class="text_12">2</text>
+        <text lines="1" class="text_13">次</text>
+      </view>
+    </view>
+    <view class="box_10">
+      <view class="box_11">
+        <view class="box_12">
+          <view class="text-wrapper_6">
+            <text lines="1" class="text_14">湘</text>
+            <text lines="1" class="text_15">A783940</text>
+          </view>
+        </view>
+        <text lines="1" class="text_16">车辆性能与机械故障</text>
+      </view>
+      <text lines="1" decode="true" class="text_17">2025/8/10&nbsp;19:34</text>
+      <view class="box_13"></view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_18">被投诉</text>
+        <text lines="1" class="text_19">2</text>
+        <text lines="1" class="text_20">次</text>
+      </view>
+    </view>
+    <view class="box_14">
+      <view class="group_7">
+        <view class="group_8">
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_21">湘</text>
+            <text lines="1" class="text_22">A783940</text>
+          </view>
+        </view>
+        <text lines="1" class="text_23">车辆配备与功能问题</text>
+      </view>
+      <text lines="1" decode="true" class="text_24">2025/8/10&nbsp;19:34</text>
+      <view class="group_9"></view>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_25">被投诉</text>
+        <text lines="1" class="text_26">2</text>
+        <text lines="1" class="text_27">次</text>
+      </view>
+    </view>
+    <view class="box_15">
+      <view class="box_16">
+        <view class="group_10">
+          <view class="text-wrapper_10">
+            <text lines="1" class="text_28">湘</text>
+            <text lines="1" class="text_29">A783940</text>
+          </view>
+        </view>
+        <text lines="1" class="text_30">车辆安全隐患</text>
+      </view>
+      <text lines="1" decode="true" class="text_31">2025/8/10&nbsp;19:34</text>
+      <view class="box_17"></view>
+      <view class="text-wrapper_11">
+        <text lines="1" class="text_32">被投诉</text>
+        <text lines="1" class="text_33">2</text>
+        <text lines="1" class="text_34">次</text>
+      </view>
+    </view>
+    <view class="box_18">
+      <text lines="1" decode="true" class="text_35">2025/8/10&nbsp;19:34</text>
+      <view class="section_3"></view>
+      <view class="text-wrapper_12">
+        <text lines="1" class="text_36">被投诉</text>
+        <text lines="1" class="text_37">2</text>
+        <text lines="1" class="text_38">次</text>
+      </view>
+    </view>
+    <view class="box_19">
+      <view class="text-wrapper_13">
+        <text lines="1" class="text_39">添加投诉</text>
+      </view>
+      <image src="../../images/lanhu_cheliangtousu/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+  </view>
+</view>

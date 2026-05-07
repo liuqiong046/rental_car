@@ -1,0 +1,186 @@
+<view class="page">
+  <view class="box_1">
+    <view class="box_2">
+      <view class="group_1">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="section_1">
+          <view class="group_2"></view>
+        </view>
+        <view class="section_2">
+          <view class="section_3"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+    </view>
+    <view class="box_3">
+      <view class="group_3">
+        <view class="group_4">
+          <view class="box_4">
+            <view class="group_5"></view>
+          </view>
+          <text lines="1" class="text_3">品牌选择</text>
+        </view>
+      </view>
+      <view class="group_6">
+        <view class="group_7">
+          <view class="section_4">
+            <view class="image-text_1">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG2fd3c5bd9eff6cf7d5b1d3cbf77652b2.png" class="thumbnail_1"></image>
+              <text lines="1" class="text-group_1">阿尔法</text>
+            </view>
+          </view>
+          <view class="section_5">
+            <view class="image-text_2">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG6c83b5cc2e13e8f512c78f790460d072.png" class="thumbnail_2"></image>
+              <text lines="1" class="text-group_2">阿斯顿马丁</text>
+            </view>
+          </view>
+          <view class="section_6">
+            <view class="image-text_3">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNGbe3624539b8b5e92abb185c645ac4270.png" class="thumbnail_3"></image>
+              <text lines="1" class="text-group_3">阿维塔</text>
+            </view>
+          </view>
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_4">B</text>
+          </view>
+          <view class="section_7">
+            <view class="image-text_4">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_4"></image>
+              <text lines="1" class="text-group_4">保时捷</text>
+            </view>
+          </view>
+          <view class="section_8">
+            <view class="image-text_5">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG6246b4e2c506bd3fca487305fecaa95f.png" class="thumbnail_5"></image>
+              <text lines="1" class="text-group_5">别克</text>
+            </view>
+          </view>
+          <view class="section_9">
+            <view class="image-text_6">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG95466161e55ffdef19ada9ad2cfc31cf.png" class="thumbnail_6"></image>
+              <text lines="1" class="text-group_6">奔驰</text>
+            </view>
+          </view>
+          <view class="section_10">
+            <view class="image-text_7">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG6694bc2f8bae26c32e43fb53e5e35273.png" class="thumbnail_7"></image>
+              <text lines="1" class="text-group_7">宝马</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_8">
+          <view class="text-wrapper_2">
+            <text lines="1" decode="true" class="paragraph_1">特斯拉<br/>model&nbsp;3</text>
+            <text lines="1" class="paragraph_2">极氪<br/>001</text>
+          </view>
+          <view class="group_9">
+            <view class="image-text_8">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG002bb5768226ab4807720959dcb24de8.png" class="image_2"></image>
+              <text lines="1" decode="true" class="text-group_8">特斯拉<br/>model&nbsp;3</text>
+            </view>
+            <view class="image-text_9">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG24b213a9d674cf3977086f747c8b986f.png" class="image_3"></image>
+              <text lines="1" class="text-group_9">极氪<br/>001</text>
+            </view>
+            <view class="image-wrapper_2">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG002bb5768226ab4807720959dcb24de8.png" class="image_2-0"></image>
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG24b213a9d674cf3977086f747c8b986f.png" class="image_2-1"></image>
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG002bb5768226ab4807720959dcb24de8.png" class="image_2-2"></image>
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG24b213a9d674cf3977086f747c8b986f.png" class="image_2-3"></image>
+            </view>
+          </view>
+          <view class="text-wrapper_3">
+            <text lines="1" decode="true" class="paragraph_3">特斯拉<br/>model&nbsp;3</text>
+            <text lines="1" class="paragraph_4">极氪<br/>001</text>
+          </view>
+        </view>
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_5">I</text>
+          <text lines="1" class="text_6">J</text>
+          <text lines="1" class="text_7">K</text>
+          <text lines="1" class="text_8">L</text>
+          <text lines="1" class="text_9">M</text>
+          <text lines="1" class="text_10">N</text>
+          <text lines="1" class="text_11">O</text>
+          <text lines="1" class="text_12">P</text>
+          <text lines="1" class="text_13">Q</text>
+          <text lines="1" class="text_14">S</text>
+          <text lines="1" class="text_15">T</text>
+          <text lines="1" class="text_16">U</text>
+          <text lines="1" class="text_17">V</text>
+          <text lines="1" class="text_18">W</text>
+          <text lines="1" class="text_19">X</text>
+          <text lines="1" class="text_20">Y</text>
+          <text lines="1" class="text_21">Z</text>
+        </view>
+      </view>
+      <view class="group_10">
+        <view class="box_5">
+          <view class="block_1">
+            <view class="image-text_10">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNGf742d99d0af928ee7e017b50283c6378.png" class="thumbnail_8"></image>
+              <text lines="1" class="text-group_10">热门推荐</text>
+            </view>
+          </view>
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_22">A</text>
+          </view>
+          <view class="block_2">
+            <view class="image-text_11">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG6853419ff548f4986af900c86fa114b5.png" class="thumbnail_9"></image>
+              <text lines="1" class="text-group_11">AITO</text>
+            </view>
+          </view>
+          <view class="block_3">
+            <view class="image-text_12">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG326f40e592c839909c6a9199aa605ec1.png" class="thumbnail_10"></image>
+              <text lines="1" class="text-group_12">埃安</text>
+            </view>
+          </view>
+          <view class="block_4">
+            <view class="image-text_13">
+              <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG96def3fce7835a60aee6a1500b6c0a06.png" class="thumbnail_11"></image>
+              <text lines="1" class="text-group_13">奥迪</text>
+            </view>
+          </view>
+        </view>
+        <view class="image-text_14">
+          <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG002bb5768226ab4807720959dcb24de8.png" class="image_4"></image>
+          <text lines="1" decode="true" class="text-group_14">特斯拉<br/>model&nbsp;3</text>
+        </view>
+        <view class="image-text_15">
+          <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG24b213a9d674cf3977086f747c8b986f.png" class="image_5"></image>
+          <text lines="1" class="text-group_15">极氪<br/>001</text>
+        </view>
+        <view class="text-wrapper_6">
+          <text lines="1" class="text_23">热</text>
+          <text lines="1" class="text_24">A</text>
+          <text lines="1" class="text_25">B</text>
+          <text lines="1" class="text_26">C</text>
+          <text lines="1" class="text_27">D</text>
+          <text lines="1" class="text_28">E</text>
+          <text lines="1" class="text_29">F</text>
+          <text lines="1" class="text_30">G</text>
+          <text lines="1" class="text_31">H</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG002bb5768226ab4807720959dcb24de8.png" class="image_6"></image>
+      <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNG24b213a9d674cf3977086f747c8b986f.png" class="image_7"></image>
+      <view class="group_11">
+        <view class="group_12">
+          <view class="text-wrapper_7">
+            <text lines="1" class="text_32">清空</text>
+          </view>
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_33">查看筛选结果</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_pinpaixuanze/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_8"></image>
+      </view>
+    </view>
+  </view>
+</view>

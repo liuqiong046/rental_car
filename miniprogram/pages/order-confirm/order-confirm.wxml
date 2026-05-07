@@ -1,0 +1,78 @@
+<view class="page page-soft confirm-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="go" data-url="/pages/detail/detail">‹</button>
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">订单填写</text>
+  </view>
+
+  <view class="order-car card">
+    <view class="car-top">
+      <image class="order-img" src="/assets/order-car.jpg" mode="aspectFill" />
+      <view class="order-car-info">
+        <view class="line"><text>▣ {{car.plate}}</text><text>⌾ {{car.gearbox}}｜{{car.energy}}</text></view>
+        <view class="line muted">↱ 日均限 {{car.dailyMileageLimit || "300km"}}</view>
+      </view>
+    </view>
+    <view class="time-line">
+      <view><text class="label">取车时间</text><text class="strong">{{trip.pickupDateText}} {{trip.pickupTime}}</text></view>
+      <text class="duration">{{estimate.rental_days || trip.durationDays}} 天</text>
+      <view class="right"><text class="label">还车时间</text><text class="strong">{{trip.returnDateText}} {{trip.returnTime}}</text></view>
+    </view>
+    <view class="fee-line"><text>租车费</text><text class="weak">（按价格日历快照）</text><text class="amount">{{estimate.rent_fee || order.rentFee}} 元</text></view>
+  </view>
+
+  <view class="delivery card">
+    <view class="switch-head">
+      <button class="{{pickupMode === 'delivery' ? 'active' : ''}}" bindtap="chooseDoorService">上门送收</button>
+      <button class="{{pickupMode === 'self_pickup' ? 'active' : ''}}" bindtap="chooseSelfService">自取自还</button>
+    </view>
+    <view class="address-row"><text class="tag yellow">取</text><text class="label-name">{{pickupMode === 'delivery' ? '送车上门' : '门店自取'}}</text><text class="muted">{{pickupAddressSummary}}</text><text>›</text></view>
+    <view class="address-row"><text class="tag dark">还</text><text class="label-name">{{returnMode === 'pickup' ? '上门收车' : '门店自还'}}</text><text class="muted">{{returnAddressSummary}}</text><text>›</text></view>
+    <view class="delivery-tip">{{deliveryTip}}</view>
+    <view class="fee-line"><text>上门送收服务费</text><text class="weak">（按城市规则）</text><text class="amount">{{estimate.delivery_service_fee || 0}} 元</text></view>
+  </view>
+
+  <view class="user-card card">
+    <text class="block-title">用车人信息</text>
+    <button class="verify-btn" bindtap="verifyIdentity">进行身份验证 ›</button>
+  </view>
+
+  <view class="remark-card card">
+    <text class="block-title">行程备注</text>
+    <textarea class="remark-area" value="{{remark}}" bindinput="changeRemark" placeholder="可输入订单备注，如特殊要求（必须满油或满电、特定车况要求等）" />
+  </view>
+
+  <view class="notice-card">
+    <view class="notice-title">车行保障</view>
+    <view class="notice-body">
+      <view wx:for="{{protections}}" wx:key="*this"><text>{{item[0]}}</text><text class="muted">{{item[1]}}</text></view>
+    </view>
+  </view>
+
+  <view class="deposit card">
+    <text class="block-title">押金</text>
+    <view class="credit-tip"><text>芝麻信用550分，有机会享免租车及违章押金</text><button>免押流程 ›</button></view>
+    <view class="deposit-box">
+      <view><text class="muted">车辆押金</text><text>¥{{estimate.vehicle_deposit_amount || order.deposit}}</text><text class="muted">取车前处理</text><text class="reduce">可申请免押</text></view>
+      <view><text class="muted">违章押金</text><text>¥{{estimate.violation_deposit_amount || order.violationDeposit}}</text><text class="muted">取车前处理</text><text class="reduce">可申请免押</text></view>
+    </view>
+    <view class="weak deposit-note">若您放弃或不能免押，您也可以取车时支付押金</view>
+  </view>
+
+  <view class="fee-card card">
+    <view class="fee-head" bindtap="toggleFeeDetail">
+      <text class="block-title">费用明细</text>
+      <text class="fee-switch">{{feeDetailOpen ? '收起' : '展开'}} ›</text>
+    </view>
+    <view wx:if="{{feeDetailOpen}}" class="fee-detail">
+      <view class="fee-detail-row"><text>租车费</text><text>{{estimate.rent_fee || order.rentFee}} 元</text></view>
+      <view class="fee-detail-row"><text>送收车服务费</text><text>{{estimate.delivery_service_fee || 0}} 元</text></view>
+      <view class="fee-detail-row"><text>优惠</text><text>-{{estimate.discount_amount || 0}} 元</text></view>
+      <view class="fee-detail-row total-row"><text>待支付</text><text>{{estimate.payable_amount || order.total}} 元</text></view>
+    </view>
+  </view>
+
+  <view class="pay-bottom">
+    <view class="pay-price"><text class="pay-num">{{estimate.payable_amount || order.total}}</text><text> 元</text><view class="fee-tag">待支付金额</view></view>
+    <button class="btn-dark pay-btn" bindtap="pay">{{submitting ? '支付中' : '提交并支付'}}</button>
+  </view>
+</view>

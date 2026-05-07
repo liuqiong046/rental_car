@@ -1,0 +1,22 @@
+<view class="page">
+  <view class="group_1">
+    <text lines="1" class="text_1">状态修改</text>
+    <image src="../../images/lanhu_zhuangtai/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_zhuangtai/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="group_2">
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <text lines="1" class="text_2-0">正常</text>
+        <image src="../../images/lanhu_zhuangtai/FigmaDDSSlicePNGe1e483afa309520ab6d9a51808440645.png" class="thumbnail_1-0"></image>
+      </view>
+      <view class="list-items_1-1">
+        <text lines="1" class="text_2-1">冻结</text>
+        <image src="../../images/lanhu_zhuangtai/FigmaDDSSlicePNGb5e1773e767839037b9e1c8f8bc25c8d.png" class="thumbnail_1-1"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_3">确定</text>
+    </view>
+  </view>
+</view>

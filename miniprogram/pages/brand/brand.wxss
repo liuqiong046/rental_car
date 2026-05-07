@@ -1,0 +1,79 @@
+.brand-page {
+  padding-bottom: 48rpx;
+}
+
+.brand-search {
+  width: 686rpx;
+  height: 80rpx;
+  margin: -70rpx auto 32rpx;
+  padding-left: 32rpx;
+  border-radius: 24rpx;
+  background: #fff;
+  color: rgba(43, 38, 39, 0.4);
+  line-height: 80rpx;
+}
+
+.brand-grid {
+  width: 686rpx;
+  margin: 20rpx auto 36rpx;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16rpx;
+}
+
+.brand-cell {
+  height: 148rpx;
+  border-radius: 24rpx;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12rpx;
+  font-size: 24rpx;
+}
+
+.brand-logo {
+  width: 56rpx;
+  height: 56rpx;
+  border-radius: 50%;
+  background: #fcd41d;
+  border: 8rpx solid #f8f8f7;
+  line-height: 40rpx;
+  text-align: center;
+  font-weight: 600;
+}
+
+.brand-logo.small {
+  width: 48rpx;
+  height: 48rpx;
+  border-width: 6rpx;
+  line-height: 36rpx;
+}
+
+.all-title {
+  margin-bottom: 20rpx;
+}
+
+.brand-list {
+  padding: 0 24rpx;
+}
+
+.brand-row {
+  height: 104rpx;
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+  border-bottom: 1rpx solid #f5f5f5;
+  font-size: 28rpx;
+}
+
+.brand-row:last-child {
+  border-bottom: none;
+}
+
+.row-arrow {
+  margin-left: auto;
+  color: rgba(43, 38, 39, 0.28);
+  font-size: 42rpx;
+}

@@ -1,0 +1,21 @@
+.DS_Store
+
+# Node / frontend artifacts
+node_modules/
+dist/
+build/
+
+# Python caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+*.egg-info/
+
+# Environment files
+.env
+.env.*
+
+# WeChat DevTools local config
+project.private.config.json

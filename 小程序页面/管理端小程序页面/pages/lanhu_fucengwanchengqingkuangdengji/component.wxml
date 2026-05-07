@@ -1,0 +1,16 @@
+<view class="page">
+  <view class="group_1">
+    <text lines="1" class="text_1">工单情况登记</text>
+    <image src="../../images/lanhu_fucengwanchengqingkuangdengji/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_fucengwanchengqingkuangdengji/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="group_2">
+    <text lines="1" class="text_2">完成备注</text>
+    <text lines="1" class="text_3">完成备注完成备注完成备注完成备注完成备注完成备注完成备注完成备注完成备注完成备注完成备注完成备注完成备注</text>
+    <text lines="1" class="text_4">上传照片</text>
+    <image src="../../images/lanhu_fucengwanchengqingkuangdengji/FigmaDDSSlicePNG07734276782e68ccc33a2a84f8579b68.png" class="image_2"></image>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_5">提交</text>
+    </view>
+  </view>
+</view>

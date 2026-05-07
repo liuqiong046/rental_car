@@ -1,0 +1,32 @@
+<view class="page">
+  <view class="image-wrapper_1">
+    <image src="../../images/lanhu_chuangjianbianji/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <view class="group_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">应收应付</text>
+    </view>
+    <text lines="1" class="text_2">分类颜色</text>
+    <view class="block_1">
+      <view class="box_1">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_chuangjianbianji/FigmaDDSSlicePNGdeb2c0373e910e8f44eb9d38190cd386.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="box_2"></view>
+      <view class="box_3"></view>
+      <view class="box_4"></view>
+      <view class="box_5"></view>
+    </view>
+    <view class="block_2">
+      <view class="box_6"></view>
+      <view class="box_7"></view>
+      <view class="box_8"></view>
+      <view class="box_9"></view>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_3">确认修改</text>
+    </view>
+  </view>
+  <image src="../../images/lanhu_chuangjianbianji/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+</view>

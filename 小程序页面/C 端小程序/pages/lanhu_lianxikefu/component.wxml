@@ -1,0 +1,24 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">联系客服</text>
+      <view class="image-text_1">
+        <image src="../../images/lanhu_lianxikefu/FigmaDDSSlicePNGd9ce39cba36d7c6a88b67fd1e1100d86.png" class="image_1"></image>
+        <text lines="1" class="text-group_1">扫二维码联系官方客服~</text>
+      </view>
+      <view class="group_2"></view>
+      <view class="group_3">
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_lianxikefu/FigmaDDSSlicePNGc3ce964241ddc2f1e54a4dcacc50e4bf.png" class="label_1"></image>
+        </view>
+        <view class="text-group_2">
+          <text lines="1" class="text_2">或拨打</text>
+          <text lines="1" decode="true" class="text_3">400&nbsp;7899&nbsp;8966</text>
+        </view>
+      </view>
+    </view>
+    <view class="image-wrapper_2">
+      <image src="../../images/lanhu_lianxikefu/FigmaDDSSlicePNGc7eb6a3a7b176d47068760be53f77ed3.png" class="thumbnail_1"></image>
+    </view>
+  </view>
+</view>

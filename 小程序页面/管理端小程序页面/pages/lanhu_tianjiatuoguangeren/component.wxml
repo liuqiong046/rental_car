@@ -1,0 +1,89 @@
+<view class="page">
+  <view class="group_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="block_2"></view>
+      </view>
+      <view class="group_3">
+        <view class="box_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_3">
+      <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">车价控制器</text>
+      <view class="block_4">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_4">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">提交</text>
+    </view>
+    <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="group_5">
+    <view class="box_4">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_5">*</text>
+        <text lines="1" decode="true" class="text_6">&nbsp;归属运营中心</text>
+      </view>
+      <text lines="1" class="text_7">三亚运营中心</text>
+      <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_2"></image>
+    </view>
+    <view class="box_5">
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_8">*</text>
+        <text lines="1" decode="true" class="text_9">&nbsp;归属车行</text>
+      </view>
+      <text lines="1" class="text_10">请选择</text>
+      <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_3"></image>
+    </view>
+    <view class="box_6">
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_11">*</text>
+        <text lines="1" decode="true" class="text_12">&nbsp;车主姓名</text>
+      </view>
+      <text lines="1" class="text_13">请输入托管车主真实姓名</text>
+    </view>
+    <view class="box_7">
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_14">*</text>
+        <text lines="1" decode="true" class="text_15">&nbsp;联系电话</text>
+      </view>
+      <text lines="1" class="text_16">请输入联系电话</text>
+    </view>
+    <view class="box_8">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNG31092df812c2e72ad40f83d70447568c.png" class="thumbnail_4"></image>
+        <text lines="1" class="text-group_1">注：托管车主可用此手机号登录，密码为手机号后六位</text>
+      </view>
+    </view>
+    <view class="box_9">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_17">*</text>
+        <text lines="1" decode="true" class="text_18">&nbsp;服务费用(%)</text>
+      </view>
+      <text lines="1" class="text_19">请输入0-100的整数值</text>
+    </view>
+    <view class="box_10">
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_20">*</text>
+        <text lines="1" decode="true" class="text_21">&nbsp;当前状态</text>
+      </view>
+      <view class="image-text_2">
+        <image src="../../images/lanhu_tianjiatuoguangeren/FigmaDDSSlicePNG6615a30ab20c9019df67fd05d14a91e0.png" class="thumbnail_5"></image>
+        <text lines="1" class="text-group_2">正常</text>
+      </view>
+      <view class="box_11"></view>
+      <text lines="1" class="text_22">停用</text>
+    </view>
+  </view>
+</view>

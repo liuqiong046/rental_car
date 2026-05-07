@@ -1,0 +1,379 @@
+<view class="page">
+  <view class="group_1">
+    <text lines="1" class="text_1">全部订单</text>
+    <view class="section_1">
+      <view class="image-text_1">
+        <view class="text-group_1">
+          <text lines="1" class="text_2">小米</text>
+          <text lines="1" class="text_3">SU7</text>
+          <text lines="1" decode="true" class="text_4">&nbsp;&nbsp;&nbsp;&nbsp;湘</text>
+          <text lines="1" class="text_5">L12745</text>
+        </view>
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_6">9:41</text>
+      <text lines="1" class="text_7">9:41</text>
+    </view>
+    <view class="section_2">
+      <view class="box_1">
+        <view class="section_3"></view>
+        <view class="section_4"></view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="box_2">
+        <view class="box_3">
+          <view class="box_4"></view>
+          <view class="box_5"></view>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_2"></image>
+        </view>
+      </view>
+      <view class="box_6">
+        <view class="box_7">
+          <text lines="1" class="text_8">全部</text>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_3"></image>
+        </view>
+        <view class="box_8">
+          <view class="image-wrapper_2">
+            <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_4"></image>
+          </view>
+          <text lines="1" class="text_9">今日订单</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="group_2">
+    <view class="group_3">
+      <view class="box_9">
+        <view class="section_5">
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_10">订单编号：</text>
+            <text lines="1" class="text_11">YC20250717125645</text>
+          </view>
+          <view class="text-wrapper_3">
+            <text lines="1" class="text_12">待支付</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_2"></image>
+        <view class="section_6">
+          <view class="text-group_2">
+            <view class="text-wrapper_4">
+              <text lines="1" class="text_13">7</text>
+              <text lines="1" class="text_14">月</text>
+              <text lines="1" class="text_15">18</text>
+              <text lines="1" class="text_16">日</text>
+            </view>
+            <view class="text-wrapper_5">
+              <text lines="1" class="text_17">周五</text>
+              <text lines="1" class="text_18">9:30</text>
+            </view>
+          </view>
+          <view class="box_10">
+            <view class="text-wrapper_6">
+              <text lines="1" class="text_19">2</text>
+              <text lines="1" class="text_20" />
+              <text lines="1" class="text_21">天</text>
+              <text lines="1" class="text_22">13</text>
+              <text lines="1" decode="true" class="text_23">&nbsp;小时</text>
+            </view>
+          </view>
+          <view class="text-group_3">
+            <view class="text-wrapper_7">
+              <text lines="1" class="text_24">7</text>
+              <text lines="1" class="text_25">月</text>
+              <text lines="1" class="text_26">18</text>
+              <text lines="1" class="text_27">日</text>
+            </view>
+            <view class="text-wrapper_8">
+              <text lines="1" class="text_28">周日</text>
+              <text lines="1" class="text_29">9:30</text>
+            </view>
+          </view>
+        </view>
+        <view class="section_7">
+          <text lines="1" class="text_30">小米汽车SU7</text>
+          <view class="text-wrapper_9">
+            <text lines="1" class="text_31">琼B894J9X</text>
+          </view>
+        </view>
+        <view class="section_8">
+          <text lines="1" decode="true" class="text_32">2025-05-25&nbsp;13:31</text>
+          <text lines="1" class="text_33">订单佣金</text>
+          <view class="text-wrapper_10">
+            <text lines="1" class="text_34">100</text>
+            <text lines="1" class="text_35">元</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="group_4-0">
+          <view class="text-wrapper_11-0">
+            <text lines="1" class="text_36-0">订单编号：</text>
+            <text lines="1" class="text_37-0">YC20250717125645</text>
+          </view>
+          <view class="text-wrapper_12-0">
+            <text lines="1" class="text_38-0">待送车</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_3-0"></image>
+        <view class="group_5-0">
+          <view class="text-group_4-0">
+            <view class="text-wrapper_13-0">
+              <text lines="1" class="text_39-0">7</text>
+              <text lines="1" class="text_40-0">月</text>
+              <text lines="1" class="text_41-0">18</text>
+              <text lines="1" class="text_42-0">日</text>
+            </view>
+            <view class="text-wrapper_14-0">
+              <text lines="1" class="text_43-0">周五</text>
+              <text lines="1" class="text_44-0">9:30</text>
+            </view>
+          </view>
+          <view class="box_11-0">
+            <view class="text-wrapper_15-0">
+              <text lines="1" class="text_45-0">2</text>
+              <text lines="1" class="text_46-0" />
+              <text lines="1" class="text_47-0">天</text>
+              <text lines="1" class="text_48-0">13</text>
+              <text lines="1" class="text_49-0">item.lanhutext11</text>
+            </view>
+          </view>
+          <view class="text-group_5-0">
+            <view class="text-wrapper_16-0">
+              <text lines="1" class="text_50-0">7</text>
+              <text lines="1" class="text_51-0">月</text>
+              <text lines="1" class="text_52-0">18</text>
+              <text lines="1" class="text_53-0">日</text>
+            </view>
+            <view class="text-wrapper_17-0">
+              <text lines="1" class="text_54-0">周日</text>
+              <text lines="1" class="text_55-0">9:30</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-0">
+          <text lines="1" class="text_56-0">小米汽车SU7</text>
+          <view class="text-wrapper_18-0">
+            <text lines="1" class="text_57-0">琼B894J9X</text>
+          </view>
+        </view>
+        <view class="group_7-0">
+          <text lines="1" decode="true" class="text_58-0">2025-05-25&nbsp;13:31</text>
+          <text lines="1" class="text_59-0">订单佣金</text>
+          <view class="text-wrapper_19-0">
+            <text lines="1" class="text_60-0">540</text>
+            <text lines="1" class="text_61-0">元</text>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="group_4-1">
+          <view class="text-wrapper_11-1">
+            <text lines="1" class="text_36-1">订单编号：</text>
+            <text lines="1" class="text_37-1">YC20250717125645</text>
+          </view>
+          <view class="text-wrapper_12-1">
+            <text lines="1" class="text_38-1">用车中</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_3-1"></image>
+        <view class="group_5-1">
+          <view class="text-group_4-1">
+            <view class="text-wrapper_13-1">
+              <text lines="1" class="text_39-1">7</text>
+              <text lines="1" class="text_40-1">月</text>
+              <text lines="1" class="text_41-1">18</text>
+              <text lines="1" class="text_42-1">日</text>
+            </view>
+            <view class="text-wrapper_14-1">
+              <text lines="1" class="text_43-1">周五</text>
+              <text lines="1" class="text_44-1">9:30</text>
+            </view>
+          </view>
+          <view class="box_11-1">
+            <view class="text-wrapper_15-1">
+              <text lines="1" class="text_45-1">2</text>
+              <text lines="1" class="text_46-1" />
+              <text lines="1" class="text_47-1">item.lanhutext13</text>
+              <text lines="1" class="text_48-1">13</text>
+              <text lines="1" class="text_49-1">item.lanhutext11</text>
+            </view>
+          </view>
+          <view class="text-group_5-1">
+            <view class="text-wrapper_16-1">
+              <text lines="1" class="text_50-1">7</text>
+              <text lines="1" class="text_51-1">月</text>
+              <text lines="1" class="text_52-1">18</text>
+              <text lines="1" class="text_53-1">日</text>
+            </view>
+            <view class="text-wrapper_17-1">
+              <text lines="1" class="text_54-1">周日</text>
+              <text lines="1" class="text_55-1">9:30</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-1">
+          <text lines="1" class="text_56-1">小米汽车SU7</text>
+          <view class="text-wrapper_18-1">
+            <text lines="1" class="text_57-1">琼B894J9X</text>
+          </view>
+        </view>
+        <view class="group_7-1">
+          <text lines="1" decode="true" class="text_58-1">2025-05-25&nbsp;13:31</text>
+          <text lines="1" class="text_59-1">订单佣金</text>
+          <view class="text-wrapper_19-1">
+            <text lines="1" class="text_60-1">540</text>
+            <text lines="1" class="text_61-1">元</text>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-2">
+        <view class="group_4-2">
+          <view class="text-wrapper_11-2">
+            <text lines="1" class="text_36-2">订单编号：</text>
+            <text lines="1" class="text_37-2">YC20250717125645</text>
+          </view>
+          <view class="text-wrapper_12-2">
+            <text lines="1" class="text_38-2">已取消</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_3-2"></image>
+        <view class="group_5-2">
+          <view class="text-group_4-2">
+            <view class="text-wrapper_13-2">
+              <text lines="1" class="text_39-2">7</text>
+              <text lines="1" class="text_40-2">月</text>
+              <text lines="1" class="text_41-2">18</text>
+              <text lines="1" class="text_42-2">日</text>
+            </view>
+            <view class="text-wrapper_14-2">
+              <text lines="1" class="text_43-2">周五</text>
+              <text lines="1" class="text_44-2">9:30</text>
+            </view>
+          </view>
+          <view class="box_11-2">
+            <view class="text-wrapper_15-2">
+              <text lines="1" class="text_45-2">2</text>
+              <text lines="1" class="text_46-2" />
+              <text lines="1" class="text_47-2">天</text>
+              <text lines="1" class="text_48-2">13</text>
+              <text lines="1" class="text_49-2">item.lanhutext11</text>
+            </view>
+          </view>
+          <view class="text-group_5-2">
+            <view class="text-wrapper_16-2">
+              <text lines="1" class="text_50-2">7</text>
+              <text lines="1" class="text_51-2">月</text>
+              <text lines="1" class="text_52-2">18</text>
+              <text lines="1" class="text_53-2">日</text>
+            </view>
+            <view class="text-wrapper_17-2">
+              <text lines="1" class="text_54-2">周日</text>
+              <text lines="1" class="text_55-2">9:30</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-2">
+          <text lines="1" class="text_56-2">小米汽车SU7</text>
+          <view class="text-wrapper_18-2">
+            <text lines="1" class="text_57-2">琼B894J9X</text>
+          </view>
+        </view>
+        <view class="group_7-2">
+          <text lines="1" decode="true" class="text_58-2">2025-05-25&nbsp;13:31</text>
+          <text lines="1" class="text_59-2">订单佣金</text>
+          <view class="text-wrapper_19-2">
+            <text lines="1" class="text_60-2">540</text>
+            <text lines="1" class="text_61-2">元</text>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-3">
+        <view class="group_4-3">
+          <view class="text-wrapper_11-3">
+            <text lines="1" class="text_36-3">订单编号：</text>
+            <text lines="1" class="text_37-3">YC20250717125645</text>
+          </view>
+          <view class="text-wrapper_12-3">
+            <text lines="1" class="text_38-3">已完成</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_3-3"></image>
+        <view class="group_5-3">
+          <view class="text-group_4-3">
+            <view class="text-wrapper_13-3">
+              <text lines="1" class="text_39-3">7</text>
+              <text lines="1" class="text_40-3">月</text>
+              <text lines="1" class="text_41-3">18</text>
+              <text lines="1" class="text_42-3">日</text>
+            </view>
+            <view class="text-wrapper_14-3">
+              <text lines="1" class="text_43-3">周五</text>
+              <text lines="1" class="text_44-3">9:30</text>
+            </view>
+          </view>
+          <view class="box_11-3">
+            <view class="text-wrapper_15-3">
+              <text lines="1" class="text_45-3">2</text>
+              <text lines="1" class="text_46-3" />
+              <text lines="1" class="text_47-3">天</text>
+              <text lines="1" class="text_48-3">13</text>
+              <text lines="1" class="text_49-3">item.lanhutext11</text>
+            </view>
+          </view>
+          <view class="text-group_5-3">
+            <view class="text-wrapper_16-3">
+              <text lines="1" class="text_50-3">7</text>
+              <text lines="1" class="text_51-3">月</text>
+              <text lines="1" class="text_52-3">18</text>
+              <text lines="1" class="text_53-3">日</text>
+            </view>
+            <view class="text-wrapper_17-3">
+              <text lines="1" class="text_54-3">周日</text>
+              <text lines="1" class="text_55-3">9:30</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-3">
+          <text lines="1" class="text_56-3">小米汽车SU7</text>
+          <view class="text-wrapper_18-3">
+            <text lines="1" class="text_57-3">琼B894J9X</text>
+          </view>
+        </view>
+        <view class="group_7-3">
+          <text lines="1" decode="true" class="text_58-3">2025-05-25&nbsp;13:31</text>
+          <text lines="1" class="text_59-3">订单佣金</text>
+          <view class="text-wrapper_19-3">
+            <text lines="1" class="text_60-3">540</text>
+            <text lines="1" class="text_61-3">元</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="group_8">
+    <view class="box_12"></view>
+    <view class="box_13">
+      <view class="image-text_2">
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG04b5157374598e1a156b988457db0559.png" class="label_1"></image>
+        <text lines="1" class="text-group_6">价格助手</text>
+      </view>
+      <view class="group_9">
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG2b1eedf6873878fc7507216d29e3c785.png" class="thumbnail_5"></image>
+        </view>
+        <text lines="1" class="text_62">订单</text>
+      </view>
+      <view class="image-text_3">
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGd06f910d3e1bbda5a96c5d99ff6c03cb.png" class="label_2"></image>
+        <text lines="1" class="text-group_7">我的</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_4"></image>
+  </view>
+</view>

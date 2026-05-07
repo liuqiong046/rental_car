@@ -1,0 +1,296 @@
+<view class="page">
+  <view class="section_1">
+    <view class="group_1">
+      <view class="group_2">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="box_1"></view>
+        <view class="box_2"></view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+      <view class="group_3">
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+        <text lines="1" class="text_3">订单详情</text>
+        <view class="block_1">
+          <view class="group_4"></view>
+          <view class="group_5"></view>
+          <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="group_6">
+        <view class="group_7"></view>
+        <view class="group_8"></view>
+        <view class="group_9"></view>
+        <view class="group_10"></view>
+        <view class="group_11"></view>
+        <view class="group_12"></view>
+        <view class="group_13"></view>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="paragraph_1">待支付<br/>租车费用</text>
+        <text lines="1" class="paragraph_2">待商家<br/>接单</text>
+        <text lines="1" class="paragraph_3">待支付<br/>押金</text>
+        <text lines="1" class="text_4">待取车</text>
+        <text lines="1" class="text_5">用车中</text>
+        <text lines="1" class="text_6">待还车</text>
+      </view>
+      <view class="group_14">
+        <view class="image-text_1">
+          <view class="text-group_1">
+            <text lines="1" class="text_7">订单编号：</text>
+            <text lines="1" class="text_8">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2"></image>
+        </view>
+        <view class="group_15">
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_9">C端</text>
+          </view>
+          <text lines="1" class="text_10">张三</text>
+          <text lines="1" class="text_11">19578012123</text>
+          <view class="image-wrapper_2">
+            <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_3"></image>
+          </view>
+        </view>
+        <view class="group_16">
+          <view class="group_17">
+            <view class="group_18"></view>
+            <text lines="1" class="paragraph_4">送车<br/>上门</text>
+            <view class="group_19">
+              <text lines="1" decode="true" class="text_12">2024-01-08&nbsp;17:59</text>
+              <view class="block_2">
+                <text lines="1" class="text_13">海南省三亚市山海放心租运营中心</text>
+                <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_4"></image>
+              </view>
+            </view>
+          </view>
+          <view class="group_20">
+            <view class="box_3"></view>
+            <text lines="1" class="paragraph_5">上门<br/>收车</text>
+            <view class="box_4">
+              <text lines="1" decode="true" class="text_14">2024-01-08&nbsp;17:59</text>
+              <view class="section_2">
+                <text lines="1" class="text_15">海南省三亚市山海放心租运营中心</text>
+                <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_5"></image>
+              </view>
+            </view>
+          </view>
+        </view>
+        <view class="group_21">
+          <text lines="1" class="text_16">小米汽车SU7</text>
+          <view class="group_22">
+            <text lines="1" class="text_17">琼B894J9X（捷达租车）</text>
+            <view class="image-wrapper_3">
+              <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGdf0fd30f3f2484db084e54b4d284ef0c.png" class="thumbnail_6"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="group_23"></view>
+      <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG47bae9f80d6cfa0878b4f6d9ddf420b3.png" class="label_2"></image>
+      <view class="image-wrapper_4">
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG3485c7410ba97654b6511b10addb0daf.png" class="label_3"></image>
+      </view>
+      <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGeda0ded75d1fa089ed4d45af71db9a85.png" class="label_4"></image>
+      <view class="image-wrapper_5">
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG3485c7410ba97654b6511b10addb0daf.png" class="label_5"></image>
+      </view>
+      <view class="image-wrapper_6">
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG3485c7410ba97654b6511b10addb0daf.png" class="label_6"></image>
+      </view>
+      <view class="image-wrapper_7">
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG3485c7410ba97654b6511b10addb0daf.png" class="label_7"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_3">
+    <text lines="1" class="text_18">关联工单</text>
+    <view class="box_5">
+      <view class="group_24">
+        <view class="text-group_2">
+          <text lines="1" decode="true" class="text_19">2024-01-08&nbsp;17:59</text>
+          <text lines="1" class="text_20">山海放心租三亚运营中心</text>
+        </view>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_21">取借车</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG6feede7503527960062ff19dfd1db303.png" class="image_2"></image>
+      <view class="group_25">
+        <text lines="1" class="text_22">胡可</text>
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_23">已完成</text>
+        </view>
+      </view>
+    </view>
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="block_3-0">
+          <text lines="1" decode="true" class="text_24-0">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_5-0">
+            <text lines="1" class="text_25-0">送车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_26-0">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG6feede7503527960062ff19dfd1db303.png" class="image_3-0"></image>
+        <view class="block_4-0">
+          <text lines="1" class="text_27-0">胡可</text>
+          <view class="text-wrapper_7-0">
+            <text lines="1" class="text_29-0">已完成</text>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="block_3-1">
+          <text lines="1" decode="true" class="text_24-1">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_5-1">
+            <text lines="1" class="text_25-1">收车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_26-1">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG6feede7503527960062ff19dfd1db303.png" class="image_3-1"></image>
+        <view class="block_4-1">
+          <text lines="1" decode="true" class="text_27-1">王可可&nbsp;&nbsp;张三</text>
+          <view class="text-wrapper_6-1">
+            <text lines="1" class="text_28-1">已完成</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="box_6">
+      <view class="box_7">
+        <text lines="1" decode="true" class="text_30">2024-01-08&nbsp;17:59</text>
+        <view class="text-wrapper_8">
+          <text lines="1" class="text_31">还借车</text>
+        </view>
+      </view>
+      <text lines="1" class="text_32">三亚捷达租车行凤凰机场店</text>
+      <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG6feede7503527960062ff19dfd1db303.png" class="image_4"></image>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_33">待排单</text>
+      </view>
+    </view>
+  </view>
+  <view class="section_4">
+    <view class="section_5">
+      <view class="text-wrapper_10">
+        <text lines="1" class="text_34">无售后还车完成</text>
+      </view>
+      <view class="text-wrapper_11">
+        <text lines="1" class="text_35">转售后还车完成</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_5"></image>
+  </view>
+  <view class="section_6">
+    <view class="text-wrapper_12">
+      <text lines="1" class="text_36">行程备注</text>
+      <text lines="1" class="text_37">特殊要求特殊要求特殊要求特殊要求特殊要求特殊要求特殊要求特殊要求内容</text>
+    </view>
+    <view class="list_2">
+      <view class="list-items_2-0">
+        <view class="section_7-0">
+          <text lines="1" class="text_38-0">渠道信息</text>
+        </view>
+        <view class="section_9-0">
+          <text lines="1" class="text_50-0">渠道名称</text>
+          <text lines="1" class="text_51-0">xxx酒店</text>
+          <view class="image-wrapper_9-0">
+            <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGdf0fd30f3f2484db084e54b4d284ef0c.png" class="thumbnail_8-0"></image>
+          </view>
+        </view>
+        <view class="section_10-0">
+          <text lines="1" class="text_52-0">车辆押金</text>
+          <view class="text-wrapper_18-0">
+            <text lines="1" class="text_53-0">900</text>
+            <text lines="1" class="text_54-0">元</text>
+          </view>
+        </view>
+        <view class="section_11-0">
+          <text lines="1" class="text_55-0">违章押金</text>
+          <view class="text-wrapper_19-0">
+            <text lines="1" class="text_56-0">100</text>
+            <text lines="1" class="text_57-0">元</text>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_2-1">
+        <view class="section_7-1">
+          <text lines="1" class="text_38-1">费用明细</text>
+          <view class="image-wrapper_8-1">
+            <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGeac64ecc75b5521a192d18e5c415b4e6.png" class="thumbnail_7-1"></image>
+          </view>
+        </view>
+        <view class="section_8-1">
+          <view class="text-wrapper_13-1">
+            <text lines="1" class="text_39-1">租金总额</text>
+            <text lines="1" class="text_40-1">车辆押金</text>
+            <text lines="1" class="text_41-1">违章押金</text>
+          </view>
+          <view class="text-wrapper_14-1">
+            <text lines="1" class="text_42-1">预计07月19日全部退还</text>
+            <text lines="1" class="text_43-1">预计08月20日全部退还</text>
+          </view>
+          <view class="text-group_3-1">
+            <view class="text-wrapper_15-1">
+              <text lines="1" class="text_44-1">1100</text>
+              <text lines="1" class="text_45-1">元</text>
+            </view>
+            <view class="text-wrapper_16-1">
+              <text lines="1" class="text_46-1">8000</text>
+              <text lines="1" class="text_47-1">元</text>
+            </view>
+            <view class="text-wrapper_17-1">
+              <text lines="1" class="text_48-1">3000</text>
+              <text lines="1" class="text_49-1">元</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="box_8">
+      <view class="image-text_2">
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNG38fd11d46d7631ba3e91db30a98c94d3.png" class="thumbnail_9"></image>
+        <text lines="1" class="text-group_4">请及时告知客户支付相关费用</text>
+      </view>
+      <view class="box_9">
+        <view class="section_12">
+          <text lines="1" class="text_58">油费/电费</text>
+          <view class="image-text_3">
+            <view class="text-group_5">
+              <text lines="1" decode="true" class="text_59">已支付&nbsp;</text>
+              <text lines="1" class="text_60">50</text>
+              <text lines="1" class="text_61">元</text>
+            </view>
+            <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_10"></image>
+          </view>
+        </view>
+        <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGb9ef14ec7cbe2c99001577ef25442dc6.png" class="image_6"></image>
+        <view class="section_13">
+          <text lines="1" class="text_62">超里程费</text>
+          <view class="image-text_4">
+            <view class="text-group_6">
+              <text lines="1" decode="true" class="text_63">待支付&nbsp;</text>
+              <text lines="1" class="text_64">200</text>
+              <text lines="1" class="text_65">元</text>
+            </view>
+            <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_11"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="box_10">
+      <text lines="1" class="text_66">取还车况记录</text>
+      <image src="../../images/lanhu_daihaiche/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_12"></image>
+    </view>
+    <view class="box_11">
+      <text lines="1" class="text_67">关联批发订单</text>
+      <text lines="1" class="text_68">PF8932954395743969</text>
+      <view class="text-wrapper_20">
+        <text lines="1" class="text_69">待取车</text>
+      </view>
+    </view>
+  </view>
+</view>

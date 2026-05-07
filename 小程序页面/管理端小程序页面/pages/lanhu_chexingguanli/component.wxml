@@ -1,0 +1,101 @@
+<view class="page">
+  <view class="group_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_1">
+      <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">车辆审核</text>
+    </view>
+    <view class="section_2">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_4">正常</text>
+      </view>
+      <text lines="1" class="text_5">停用</text>
+    </view>
+    <view class="section_3">
+      <view class="group_2">
+        <view class="image-text_1">
+          <text lines="1" class="text-group_1">三亚</text>
+          <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_6">输入车牌号搜索</text>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG702576bc26ca7754deaac39d68b2ae72.png" class="thumbnail_2"></image>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG601350237a2a674fffce0a7304532e49.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="section_4">
+      <view class="box_1">
+        <view class="group_3">
+          <view class="section_5"></view>
+        </view>
+        <view class="group_4">
+          <view class="group_5"></view>
+        </view>
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="box_2">
+        <view class="group_6"></view>
+        <view class="group_7"></view>
+        <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_8">
+    <view class="box_3">
+      <text lines="1" class="text_7">马多商旅</text>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_8">核心</text>
+      </view>
+      <view class="section_6">
+        <view class="image-text_2">
+          <text lines="1" class="text-group_2">操作</text>
+          <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_5"></image>
+        </view>
+      </view>
+    </view>
+    <view class="box_4">
+      <text lines="1" class="text_9">赫兹租车</text>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_10">核心</text>
+      </view>
+      <view class="block_1">
+        <view class="image-text_3">
+          <text lines="1" class="text-group_3">操作</text>
+          <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_6"></image>
+        </view>
+      </view>
+    </view>
+    <view class="box_5">
+      <text lines="1" class="text_11">车源租车</text>
+      <view class="section_7">
+        <view class="image-text_4">
+          <text lines="1" class="text-group_4">操作</text>
+          <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_7"></image>
+        </view>
+      </view>
+    </view>
+    <view class="box_6">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_12">新增车行</text>
+      </view>
+      <image src="../../images/lanhu_chexingguanli/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+    <view class="box_7">
+      <view class="text-group_5">
+        <text lines="1" class="text_13">编辑</text>
+        <text lines="1" class="text_14">停用</text>
+        <text lines="1" class="text_15">车辆库</text>
+      </view>
+    </view>
+  </view>
+</view>

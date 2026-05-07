@@ -1,0 +1,369 @@
+<view class="page">
+  <view class="block_1">
+    <view class="group_1">
+      <view class="box_1">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+      <view class="box_4">
+        <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+        <text lines="1" class="text_3">选择车辆</text>
+        <view class="box_5">
+          <view class="group_2"></view>
+          <view class="group_3"></view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="box_6">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG68944dd637e070b58e248fb02514feaf.png" class="image_2"></image>
+        </view>
+        <view class="block_2">
+          <view class="text-group_1">
+            <view class="text-wrapper_1">
+              <text lines="1" class="text_4">7</text>
+              <text lines="1" class="text_5">月</text>
+              <text lines="1" class="text_6">18</text>
+              <text lines="1" class="text_7">日</text>
+            </view>
+            <view class="text-wrapper_2">
+              <text lines="1" class="text_8">周五</text>
+              <text lines="1" decode="true" class="text_9">&nbsp;10:00</text>
+            </view>
+          </view>
+          <view class="box_7">
+            <view class="text-wrapper_3">
+              <text lines="1" class="text_10">2</text>
+              <text lines="1" class="text_11" />
+              <text lines="1" class="text_12">天</text>
+              <text lines="1" class="text_13">13</text>
+              <text lines="1" class="text_14">小时</text>
+            </view>
+          </view>
+          <view class="text-group_2">
+            <view class="text-wrapper_4">
+              <text lines="1" class="text_15">7</text>
+              <text lines="1" class="text_16">月</text>
+              <text lines="1" class="text_17">20</text>
+              <text lines="1" class="text_18">日</text>
+            </view>
+            <view class="text-wrapper_5">
+              <text lines="1" class="text_19">周日</text>
+              <text lines="1" decode="true" class="text_20">&nbsp;10:00</text>
+            </view>
+          </view>
+          <view class="image-wrapper_3">
+            <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG66357a5405526713451fb49540e9cfad.png" class="thumbnail_2"></image>
+            <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG1912fc08faf33f2a93071d85cac125d3.png" class="thumbnail_3"></image>
+          </view>
+        </view>
+      </view>
+      <view class="box_8">
+        <view class="section_1">
+          <text lines="1" class="text_21">当前空闲</text>
+          <view class="group_4">
+            <view class="box_9"></view>
+          </view>
+        </view>
+        <view class="text-wrapper_6">
+          <text lines="1" class="text_22">3小时后空闲</text>
+        </view>
+        <view class="text-wrapper_7">
+          <text lines="1" class="text_23">8小时后空闲</text>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_8">
+      <text lines="1" class="text_24">12小时后空闲</text>
+    </view>
+  </view>
+  <view class="block_3">
+    <view class="group_5">
+      <text lines="1" class="paragraph_1">当前<br/>库存</text>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_25">455</text>
+        <text lines="1" class="text_26">辆</text>
+      </view>
+      <view class="box_10">
+        <text lines="1" class="text_27">品牌</text>
+        <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG9269b9991ec1e70e67b4ab5055e4852c.png" class="thumbnail_4"></image>
+      </view>
+      <view class="box_11">
+        <text lines="1" class="text_28">搜索</text>
+        <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGbc815dfcac71c8592e354c66402b5ba8.png" class="thumbnail_5"></image>
+      </view>
+    </view>
+    <view class="group_6">
+      <view class="box_12">
+        <view class="image-text_1">
+          <text lines="1" class="text-group_3">小米</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG6a4861eda7d3392e818a429d716fda0b.png" class="thumbnail_6"></image>
+        </view>
+      </view>
+      <view class="box_13">
+        <view class="image-text_2">
+          <text lines="1" class="text-group_4">4座</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG6a4861eda7d3392e818a429d716fda0b.png" class="thumbnail_7"></image>
+        </view>
+      </view>
+      <view class="box_14">
+        <view class="image-text_3">
+          <text lines="1" class="text-group_5">100-299</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG6a4861eda7d3392e818a429d716fda0b.png" class="thumbnail_8"></image>
+        </view>
+      </view>
+    </view>
+    <view class="group_7">
+      <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG14cc6904117d84f050fcdca6cd2fa6cb.png" class="image_3"></image>
+      <view class="box_15">
+        <view class="text-wrapper_10">
+          <text lines="1" class="text_29">SUV</text>
+          <text lines="1" class="text_30">5</text>
+          <text lines="1" class="text_31">座</text>
+        </view>
+        <text lines="1" class="text_32">197</text>
+      </view>
+      <view class="box_16">
+        <view class="box_17">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_9"></image>
+          <text lines="1" class="text_33">紫色</text>
+        </view>
+        <view class="text-wrapper_11">
+          <text lines="1" class="text_34">元</text>
+          <text lines="1" decode="true" class="text_35">&nbsp;/&nbsp;天</text>
+        </view>
+      </view>
+      <view class="box_18">
+        <view class="text-wrapper_12">
+          <text lines="1" class="text_36">小米</text>
+          <text lines="1" class="text_37">SU7</text>
+        </view>
+        <view class="box_19">
+          <view class="text-wrapper_13">
+            <text lines="1" class="text_38">湘</text>
+            <text lines="1" class="text_39">A</text>
+            <text lines="1" decode="true" class="text_40">&nbsp;••••</text>
+            <text lines="1" class="text_41">29</text>
+          </view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_10"></image>
+        </view>
+        <view class="box_20">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_11"></image>
+          <text lines="1" class="text_42">自动挡</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_12"></image>
+          <text lines="1" class="text_43">纯电动</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_8">
+      <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG14cc6904117d84f050fcdca6cd2fa6cb.png" class="image_4"></image>
+      <view class="section_2">
+        <view class="text-wrapper_14">
+          <text lines="1" class="text_44">SUV</text>
+          <text lines="1" class="text_45">5</text>
+          <text lines="1" class="text_46">座</text>
+        </view>
+        <text lines="1" class="text_47">197</text>
+      </view>
+      <view class="section_3">
+        <view class="box_21">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_13"></image>
+          <text lines="1" class="text_48">紫色</text>
+        </view>
+        <view class="text-wrapper_15">
+          <text lines="1" class="text_49">元</text>
+          <text lines="1" decode="true" class="text_50">&nbsp;/&nbsp;天</text>
+        </view>
+      </view>
+      <view class="section_4">
+        <view class="text-wrapper_16">
+          <text lines="1" class="text_51">小米</text>
+          <text lines="1" class="text_52">SU7</text>
+        </view>
+        <view class="group_9">
+          <view class="text-wrapper_17">
+            <text lines="1" class="text_53">湘</text>
+            <text lines="1" class="text_54">A</text>
+            <text lines="1" decode="true" class="text_55">&nbsp;••••</text>
+            <text lines="1" class="text_56">29</text>
+          </view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_14"></image>
+        </view>
+        <view class="group_10">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_15"></image>
+          <text lines="1" class="text_57">自动挡</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_16"></image>
+          <text lines="1" class="text_58">纯电动</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_11">
+      <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG14cc6904117d84f050fcdca6cd2fa6cb.png" class="image_5"></image>
+      <view class="box_22">
+        <view class="text-wrapper_18">
+          <text lines="1" class="text_59">SUV</text>
+          <text lines="1" class="text_60">5</text>
+          <text lines="1" class="text_61">座</text>
+        </view>
+        <text lines="1" class="text_62">197</text>
+      </view>
+      <view class="box_23">
+        <view class="block_4">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_17"></image>
+          <text lines="1" class="text_63">紫色</text>
+        </view>
+        <view class="text-wrapper_19">
+          <text lines="1" class="text_64">元</text>
+          <text lines="1" decode="true" class="text_65">&nbsp;/&nbsp;天</text>
+        </view>
+      </view>
+      <view class="box_24">
+        <view class="text-wrapper_20">
+          <text lines="1" class="text_66">小米</text>
+          <text lines="1" class="text_67">SU7</text>
+        </view>
+        <view class="section_5">
+          <view class="text-wrapper_21">
+            <text lines="1" class="text_68">湘</text>
+            <text lines="1" class="text_69">A</text>
+            <text lines="1" decode="true" class="text_70">&nbsp;••••</text>
+            <text lines="1" class="text_71">29</text>
+          </view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_18"></image>
+        </view>
+        <view class="section_6">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_19"></image>
+          <text lines="1" class="text_72">自动挡</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_20"></image>
+          <text lines="1" class="text_73">纯电动</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_12">
+      <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG14cc6904117d84f050fcdca6cd2fa6cb.png" class="image_6"></image>
+      <view class="group_13">
+        <view class="text-wrapper_22">
+          <text lines="1" class="text_74">SUV</text>
+          <text lines="1" class="text_75">5</text>
+          <text lines="1" class="text_76">座</text>
+        </view>
+        <text lines="1" class="text_77">197</text>
+      </view>
+      <view class="group_14">
+        <view class="group_15">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_21"></image>
+          <text lines="1" class="text_78">紫色</text>
+        </view>
+        <view class="text-wrapper_23">
+          <text lines="1" class="text_79">元</text>
+          <text lines="1" decode="true" class="text_80">&nbsp;/&nbsp;天</text>
+        </view>
+      </view>
+      <view class="group_16">
+        <view class="text-wrapper_24">
+          <text lines="1" class="text_81">小米</text>
+          <text lines="1" class="text_82">SU7</text>
+        </view>
+        <view class="group_17">
+          <view class="text-wrapper_25">
+            <text lines="1" class="text_83">湘</text>
+            <text lines="1" class="text_84">A</text>
+            <text lines="1" decode="true" class="text_85">&nbsp;••••</text>
+            <text lines="1" class="text_86">29</text>
+          </view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_22"></image>
+        </view>
+        <view class="group_18">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_23"></image>
+          <text lines="1" class="text_87">自动挡</text>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_24"></image>
+          <text lines="1" class="text_88">纯电动</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_19">
+      <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG14cc6904117d84f050fcdca6cd2fa6cb.png" class="image_7"></image>
+      <view class="group_20">
+        <view class="text-wrapper_26">
+          <text lines="1" class="text_89">SUV</text>
+          <text lines="1" class="text_90">5</text>
+          <text lines="1" class="text_91">座</text>
+        </view>
+        <text lines="1" class="text_92">197</text>
+      </view>
+      <view class="group_21">
+        <view class="box_25">
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_25"></image>
+          <text lines="1" class="text_93">紫色</text>
+        </view>
+        <view class="text-wrapper_27">
+          <text lines="1" class="text_94">元</text>
+          <text lines="1" decode="true" class="text_95">&nbsp;/&nbsp;天</text>
+        </view>
+      </view>
+      <view class="group_22">
+        <view class="text-wrapper_28">
+          <text lines="1" class="text_96">小米</text>
+          <text lines="1" class="text_97">SU7</text>
+        </view>
+        <view class="section_7">
+          <view class="text-wrapper_29">
+            <text lines="1" class="text_98">湘</text>
+            <text lines="1" class="text_99">A</text>
+            <text lines="1" decode="true" class="text_100">&nbsp;••••</text>
+            <text lines="1" class="text_101">29</text>
+          </view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_26"></image>
+        </view>
+        <view class="section_8">
+          <view class="image-text_4">
+            <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_27"></image>
+            <text lines="1" class="text-group_6">自动挡</text>
+          </view>
+          <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_28"></image>
+          <text lines="1" class="text_102">纯电动</text>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_30">
+      <text lines="1" class="text_103">自动挡</text>
+      <text lines="1" class="text_104">纯电动</text>
+      <text lines="1" class="text_105">197</text>
+      <text lines="1" class="text_106">元</text>
+      <text lines="1" decode="true" class="text_107">&nbsp;/&nbsp;天</text>
+    </view>
+    <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG14cc6904117d84f050fcdca6cd2fa6cb.png" class="image_8"></image>
+    <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_29"></image>
+    <view class="group_23">
+      <view class="text-wrapper_31">
+        <text lines="1" class="text_108">全部</text>
+      </view>
+      <view class="text-wrapper_32">
+        <text lines="1" class="text_109">经济型</text>
+      </view>
+      <view class="text-wrapper_33">
+        <text lines="1" class="text_110">舒适型</text>
+      </view>
+      <view class="text-wrapper_34">
+        <text lines="1" class="text_111">豪华型</text>
+      </view>
+      <view class="text-wrapper_35">
+        <text lines="1" class="text_112">SUV</text>
+      </view>
+      <view class="text-wrapper_36">
+        <text lines="1" class="text_113">行政型</text>
+      </view>
+      <view class="text-wrapper_37">
+        <text lines="1" class="text_114">商务型</text>
+      </view>
+    </view>
+    <view class="image-wrapper_4">
+      <image src="../../images/lanhu_xuanzecheliangcduanyonghuyoushaixuan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_9"></image>
+    </view>
+  </view>
+</view>

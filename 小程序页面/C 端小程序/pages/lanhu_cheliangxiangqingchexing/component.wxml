@@ -1,0 +1,252 @@
+<view class="page">
+  <view class="group_1">
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+    <text lines="1" class="text_1">车辆详情</text>
+    <view class="section_1">
+      <view class="section_2"></view>
+      <view class="section_3"></view>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+    </view>
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGcb19b625af1988586102897458ab8116.png" class="label_2"></image>
+  </view>
+  <view class="group_2">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_2">3/10</text>
+    </view>
+  </view>
+  <view class="group_3">
+    <view class="box_1">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG8c3f6563df302f5499e41e2848dec770.png" class="thumbnail_2"></image>
+      </view>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG7f50c3c3431688e4ebb8d0bab201d861.png" class="image_1"></image>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG907e636f6eef3307e6c22ab41f58643f.png" class="image_2"></image>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG81314f9bfb36994c41702f618b55c126.png" class="image_3"></image>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG25da576d3d224b54bbb6f0ab18ef6cce.png" class="image_4"></image>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG861147ba6cba354dfc6ef0b5f5dcff5b.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_3">小米汽车</text>
+      <text lines="1" class="text_4">SU7</text>
+      <text lines="1" class="text_5">￥</text>
+      <text lines="1" class="text_6">500</text>
+      <text lines="1" decode="true" class="text_7">&nbsp;/&nbsp;天</text>
+    </view>
+    <view class="box_2">
+      <text lines="1" class="text_8">海湾蓝</text>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG71303be1d21fa46e0afaac1bee6b7434.png" class="thumbnail_4"></image>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_9">轿车</text>
+        <text lines="1" class="text_10">5</text>
+        <text lines="1" class="text_11">座</text>
+      </view>
+      <view class="group_4">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG71303be1d21fa46e0afaac1bee6b7434.png" class="thumbnail_5"></image>
+        <text lines="1" class="text_12">10.4km</text>
+      </view>
+    </view>
+    <view class="box_3">
+      <view class="group_5">
+        <view class="image-text_1">
+          <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_6"></image>
+          <view class="text-group_1">
+            <text lines="1" class="text_13">湘</text>
+            <text lines="1" class="text_14">A</text>
+            <text lines="1" decode="true" class="text_15">&nbsp;••••</text>
+            <text lines="1" class="text_16">29</text>
+          </view>
+        </view>
+      </view>
+      <view class="group_6">
+        <view class="image-text_2">
+          <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_7"></image>
+          <text lines="1" class="text-group_2">自动挡</text>
+        </view>
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_8"></image>
+        <text lines="1" class="text_17">纯电动</text>
+      </view>
+    </view>
+    <view class="box_4">
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG2116a0cfcffca6ef80f9d8d177dbc251.png" class="thumbnail_9"></image>
+      <view class="image-text_3">
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_18">信任</text>
+        </view>
+        <text lines="1" decode="true" class="text-group_3">鑫辉租车&nbsp;张三</text>
+      </view>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG9a35d0d9926ca5c1aded2910c094bbde.png" class="thumbnail_10"></image>
+      </view>
+    </view>
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_5"></image>
+    <view class="box_5">
+      <text lines="1" class="text_19">价格日历</text>
+      <view class="image-wrapper_4">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_11"></image>
+      </view>
+    </view>
+    <view class="box_6">
+      <view class="block_1">
+        <view class="text-group_4">
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_20">7</text>
+            <text lines="1" class="text_21">月</text>
+            <text lines="1" class="text_22">18</text>
+            <text lines="1" class="text_23">日</text>
+          </view>
+          <view class="text-wrapper_6">
+            <text lines="1" class="text_24">周五</text>
+            <text lines="1" decode="true" class="text_25">&nbsp;10:00</text>
+          </view>
+        </view>
+        <view class="box_7">
+          <view class="text-wrapper_7">
+            <text lines="1" class="text_26">2</text>
+            <text lines="1" class="text_27" />
+            <text lines="1" class="text_28">天</text>
+          </view>
+        </view>
+        <view class="text-group_5">
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_29">7</text>
+            <text lines="1" class="text_30">月</text>
+            <text lines="1" class="text_31">21</text>
+            <text lines="1" class="text_32">日</text>
+          </view>
+          <view class="text-wrapper_9">
+            <text lines="1" class="text_33">周日</text>
+            <text lines="1" decode="true" class="text_34">&nbsp;10:00</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_10">
+      <text lines="1" class="text_35">五</text>
+      <text lines="1" class="text_36">六</text>
+      <text lines="1" class="text_37">日</text>
+      <text lines="1" class="text_38">一</text>
+      <text lines="1" class="text_39">二</text>
+      <text lines="1" class="text_40">三</text>
+      <text lines="1" class="text_41">四</text>
+    </view>
+    <view class="box_8">
+      <view class="box_9">
+        <view class="text-wrapper_11">
+          <text lines="1" class="text_42">18</text>
+        </view>
+        <view class="text-wrapper_12">
+          <text lines="1" class="text_43">19</text>
+        </view>
+        <view class="text-wrapper_13">
+          <text lines="1" class="text_44">20</text>
+        </view>
+      </view>
+      <view class="text-wrapper_14">
+        <text lines="1" class="text_45">21</text>
+      </view>
+      <view class="text-wrapper_15">
+        <text lines="1" class="text_46">22</text>
+      </view>
+      <view class="box_10">
+        <view class="text-wrapper_16">
+          <text lines="1" class="text_47">23</text>
+        </view>
+      </view>
+      <view class="text-wrapper_17">
+        <text lines="1" class="text_48">24</text>
+      </view>
+    </view>
+    <view class="text-wrapper_18">
+      <text lines="1" class="text_49">￥500</text>
+      <text lines="1" class="text_50">￥500</text>
+      <text lines="1" class="text_51">￥500</text>
+      <text lines="1" class="text_52">￥400</text>
+      <text lines="1" class="text_53">￥400</text>
+      <text lines="1" class="text_54">￥400</text>
+      <text lines="1" class="text_55">￥400</text>
+    </view>
+    <view class="box_11">
+      <view class="box_12"></view>
+      <text lines="1" class="text_56">全天可租</text>
+      <view class="box_13"></view>
+      <text lines="1" class="text_57">不可租</text>
+      <view class="image-text_4">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGfaff807249c8d1bdf476fa991b1ef6fd.png" class="thumbnail_12"></image>
+        <text lines="1" class="text-group_6">部分时段可租</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_6"></image>
+    <text lines="1" class="text_58">车辆详情</text>
+    <view class="box_14">
+      <view class="text-group_7">
+        <text lines="1" class="text_59">车牌号</text>
+        <view class="text-wrapper_19">
+          <text lines="1" class="text_60">琼</text>
+          <text lines="1" class="text_61">B2384JX</text>
+        </view>
+      </view>
+      <view class="text-group_8">
+        <text lines="1" class="text_62">颜色</text>
+        <text lines="1" class="text_63">黄色</text>
+      </view>
+      <view class="text-group_9">
+        <text lines="1" class="text_64">座位数</text>
+        <text lines="1" class="text_65">5</text>
+      </view>
+      <view class="text-group_10">
+        <text lines="1" class="text_66">燃油类型</text>
+        <text lines="1" class="text_67">纯电动</text>
+      </view>
+    </view>
+    <view class="box_15">
+      <view class="box_16"></view>
+      <text lines="1" decode="true" class="text_68">&nbsp;新款保时捷718&nbsp;&nbsp;高配&nbsp;&nbsp;SC组件&nbsp;&nbsp;bose音响</text>
+    </view>
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGf23c5d0d0cd199057c5f289f3438f5e2.png" class="image_7"></image>
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGff5c43c22968d7c7c302ade9af04856e.png" class="image_8"></image>
+    <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGe4b1844a2597263639d765609497da38.png" class="image_9"></image>
+    <view class="box_17">
+      <view class="group_7"></view>
+      <view class="group_8">
+        <view class="section_4">
+          <view class="text-wrapper_20">
+            <text lines="1" class="text_69">1000</text>
+            <text lines="1" class="text_70">元</text>
+          </view>
+          <view class="text-wrapper_21">
+            <text lines="1" class="text_71">预估费用</text>
+          </view>
+        </view>
+        <view class="text-wrapper_22">
+          <text lines="1" class="text_72">预定</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_10"></image>
+    </view>
+    <view class="box_18">
+      <view class="image-text_5">
+        <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG6b02febe8061501e8142872f9192e4a4.png" class="thumbnail_13"></image>
+        <text lines="1" decode="true" class="text-group_11">三亚市&nbsp;xxxxxx&nbsp;鑫辉租车行</text>
+      </view>
+      <image src="../../images/lanhu_cheliangxiangqingchexing/FigmaDDSSlicePNG38edde81e12cdc9d9212f8fc5713ee2e.png" class="thumbnail_14"></image>
+    </view>
+    <view class="box_19">
+      <view class="list_1">
+        <view class="text-group_12-0">
+          <text lines="1" class="text_73-0">年款</text>
+          <text lines="1" class="text_74-0">2024</text>
+        </view>
+        <view class="text-group_12-1">
+          <text lines="1" class="text_73-1">座位数</text>
+          <text lines="1" class="text_74-1">1000km</text>
+        </view>
+        <view class="text-group_12-2">
+          <text lines="1" class="text_73-2">油箱容积</text>
+          <text lines="1" class="text_74-2">64L</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

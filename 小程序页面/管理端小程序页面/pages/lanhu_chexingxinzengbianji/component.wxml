@@ -1,0 +1,103 @@
+<view class="page">
+  <view class="group_1">
+    <view class="box_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="box_2"></view>
+      </view>
+      <view class="group_3">
+        <view class="section_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_3">
+      <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">车行编辑</text>
+      <view class="group_4">
+        <view class="section_2"></view>
+        <view class="section_3"></view>
+        <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_5">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">提交</text>
+    </view>
+    <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="group_6">
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_5">运营中心</text>
+      <text lines="1" class="text_6">三亚运营中心</text>
+    </view>
+    <view class="box_4">
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_7">*</text>
+        <text lines="1" decode="true" class="text_8">&nbsp;车行名称</text>
+      </view>
+      <text lines="1" class="text_9">赫兹租车</text>
+    </view>
+    <view class="box_5">
+      <view class="box_6">
+        <view class="box_7">
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_10">*</text>
+            <text lines="1" decode="true" class="text_11">&nbsp;商户地址</text>
+          </view>
+          <text lines="1" class="text_12">请输入</text>
+        </view>
+        <view class="box_8">
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_13">*</text>
+            <text lines="1" decode="true" class="text_14">&nbsp;取还车地址</text>
+          </view>
+          <text lines="1" class="text_15">三亚市凤凰机场</text>
+        </view>
+        <view class="box_9">
+          <view class="block_1">
+            <view class="text-wrapper_6">
+              <text lines="1" class="text_16">*</text>
+              <text lines="1" decode="true" class="text_17">&nbsp;联系人</text>
+            </view>
+            <view class="text-wrapper_7">
+              <text lines="1" class="text_18">*</text>
+              <text lines="1" decode="true" class="text_19">&nbsp;联系电话</text>
+            </view>
+          </view>
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_20">请输入</text>
+            <text lines="1" class="text_21">请输入</text>
+          </view>
+        </view>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNG3927d4c718c31b305cbfddb6d3618adc.png" class="thumbnail_2"></image>
+        <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNG3927d4c718c31b305cbfddb6d3618adc.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="image-text_1">
+      <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNG31092df812c2e72ad40f83d70447568c.png" class="thumbnail_4"></image>
+      <text lines="1" class="text-group_1">注：员工可用此手机号登录，密码默认手机号后六位</text>
+    </view>
+    <view class="text-wrapper_9">
+      <text lines="1" class="text_22">微信号</text>
+      <text lines="1" class="text_23">请输入</text>
+    </view>
+    <view class="box_10">
+      <view class="text-wrapper_10">
+        <text lines="1" class="text_24">*</text>
+        <text lines="1" decode="true" class="text_25">&nbsp;联系电话</text>
+      </view>
+      <view class="image-text_2">
+        <image src="../../images/lanhu_chexingxinzengbianji/FigmaDDSSlicePNG6615a30ab20c9019df67fd05d14a91e0.png" class="thumbnail_5"></image>
+        <text lines="1" class="text-group_2">普通商家</text>
+      </view>
+      <view class="block_2"></view>
+      <text lines="1" class="text_26">核心商家</text>
+    </view>
+  </view>
+</view>

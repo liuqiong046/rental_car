@@ -1,0 +1,80 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">自助送取</text>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_2">自取自还</text>
+      </view>
+    </view>
+    <view class="group_2">
+      <text lines="1" class="text_3">取还地址</text>
+      <text lines="1" class="text_4">三亚市山海放心租运营中心</text>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_qitakapianzhuangtai/FigmaDDSSlicePNG10e6cdf0c9ef26c509f3ae7351aa5657.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_2">
+    <text lines="1" class="text_5">用车人信息</text>
+    <view class="box_3">
+      <view class="box_4">
+        <text lines="1" class="text_6">张三</text>
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_qitakapianzhuangtai/FigmaDDSSlicePNGa9833a43d3b07b6015d62be08ab84777.png" class="thumbnail_2"></image>
+          <image src="../../images/lanhu_qitakapianzhuangtai/FigmaDDSSlicePNG4cae5b91afb573a66da66a90b16b63aa.png" class="thumbnail_3"></image>
+        </view>
+        <text lines="1" class="text_7">18670054633</text>
+      </view>
+      <view class="box_5">
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_8">身份证</text>
+        </view>
+        <text lines="1" class="text_9">432526456987589658</text>
+      </view>
+    </view>
+    <view class="image-text_1">
+      <image src="../../images/lanhu_qitakapianzhuangtai/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_4"></image>
+      <text lines="1" class="text-group_1">证件及驾驶证需在有效期内，凭有效证件原件+中国驾驶证（原件或12123电子驾照）取车</text>
+    </view>
+  </view>
+  <view class="box_6">
+    <text lines="1" class="text_10">押金</text>
+    <view class="image-text_2">
+      <image src="../../images/lanhu_qitakapianzhuangtai/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_5"></image>
+      <text lines="1" class="text-group_2">取车前需支付如下押金</text>
+    </view>
+    <view class="box_7">
+      <view class="group_3">
+        <text lines="1" class="text_11">车辆押金</text>
+        <view class="box_8">
+          <view class="text-wrapper_3">
+            <text lines="1" class="text_12">可退</text>
+          </view>
+          <text lines="1" class="text_13">¥8000</text>
+        </view>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_14">取车前支付，若无车损，还车后15天左右退车损，还车后30天左右还</text>
+      </view>
+    </view>
+    <view class="box_9">
+      <view class="box_10">
+        <text lines="1" class="text_15">违章押金</text>
+        <view class="section_1">
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_16">可退</text>
+          </view>
+          <text lines="1" class="text_17">¥8000</text>
+        </view>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_18">取车前支付，若无车损，还车后15天左右退车损，还车后30天左右还</text>
+      </view>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_19">车辆+违章押金</text>
+      <text lines="1" class="text_20">11000</text>
+      <text lines="1" class="text_21">元</text>
+    </view>
+  </view>
+</view>

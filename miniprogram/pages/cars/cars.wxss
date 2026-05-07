@@ -1,0 +1,233 @@
+.cars-page {
+  padding-bottom: 40rpx;
+}
+
+.filter-card {
+  margin-top: -70rpx;
+  padding: 28rpx 28rpx 24rpx;
+}
+
+.date-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 22rpx;
+  border-bottom: 1rpx solid #f5f5f5;
+}
+
+.date-main {
+  font-size: 30rpx;
+  font-weight: 600;
+}
+
+.right {
+  text-align: right;
+}
+
+.day-pill-small {
+  min-width: 88rpx;
+  height: 48rpx;
+  line-height: 46rpx;
+  border: 1rpx solid #eaeaea;
+  border-radius: 24rpx;
+  text-align: center;
+  font-size: 22rpx;
+}
+
+.brand-line {
+  padding-top: 22rpx;
+  font-weight: 600;
+  line-height: 40rpx;
+}
+
+.brand-entry {
+  margin-top: 18rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand-jump {
+  min-width: 176rpx;
+  height: 56rpx;
+  border-radius: 18rpx;
+  background: #fff7df;
+  color: #2b2627;
+  line-height: 56rpx;
+  font-size: 24rpx;
+}
+
+.filter-tabs {
+  white-space: nowrap;
+  height: 88rpx;
+  padding-left: 32rpx;
+  margin-top: 20rpx;
+}
+
+.filter-pill {
+  display: inline-block;
+  height: 64rpx;
+  line-height: 62rpx;
+  padding: 0 28rpx;
+  margin-right: 14rpx;
+  border-radius: 32rpx;
+  background: #fff;
+  border: 1rpx solid #eaeaea;
+}
+
+.result-count {
+  padding: 0 32rpx 18rpx;
+  color: rgba(43, 38, 39, 0.5);
+  font-size: 24rpx;
+}
+
+.list-card {
+  position: relative;
+  min-height: 224rpx;
+  margin-bottom: 16rpx;
+  padding: 24rpx;
+  display: flex;
+  gap: 20rpx;
+}
+
+.list-image {
+  width: 176rpx;
+  height: 132rpx;
+  border-radius: 16rpx;
+  border: 2rpx solid #fff;
+}
+
+.list-content {
+  flex: 1;
+  min-width: 0;
+  font-size: 22rpx;
+  line-height: 32rpx;
+}
+
+.list-name {
+  font-size: 32rpx;
+  font-weight: 600;
+  line-height: 40rpx;
+}
+
+.spec-line {
+  margin-top: 8rpx;
+  color: rgba(43, 38, 39, 0.55);
+}
+
+.store-line {
+  margin-top: 10rpx;
+  color: rgba(43, 38, 39, 0.48);
+  font-size: 22rpx;
+  line-height: 30rpx;
+}
+
+.list-price {
+  position: absolute;
+  left: 220rpx;
+  bottom: 22rpx;
+}
+
+.price {
+  font-size: 36rpx;
+  font-weight: 700;
+}
+
+.per {
+  color: rgba(43, 38, 39, 0.55);
+}
+
+.book-small {
+  position: absolute;
+  right: 24rpx;
+  bottom: 20rpx;
+  width: 116rpx;
+  height: 72rpx;
+  border-radius: 22rpx;
+  background: #2b2627;
+  color: #fff;
+  line-height: 72rpx;
+}
+
+.empty-card {
+  min-height: 180rpx;
+  padding: 56rpx 32rpx;
+  color: rgba(43, 38, 39, 0.52);
+  text-align: center;
+  line-height: 40rpx;
+}
+
+.mask {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: rgba(43, 38, 39, 0.36);
+}
+
+.more-sheet {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 32rpx 32rpx calc(32rpx + env(safe-area-inset-bottom));
+  border-radius: 32rpx 32rpx 0 0;
+  background: #fff;
+}
+
+.sheet-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+
+.sheet-reset {
+  height: 56rpx;
+  padding: 0 18rpx;
+  border-radius: 16rpx;
+  background: #f5f5f5;
+  color: rgba(43, 38, 39, 0.72);
+  line-height: 56rpx;
+  font-size: 22rpx;
+}
+
+.sheet-group {
+  margin-top: 28rpx;
+}
+
+.sheet-title {
+  display: block;
+  margin-bottom: 14rpx;
+  font-size: 24rpx;
+  color: rgba(43, 38, 39, 0.72);
+}
+
+.sheet-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14rpx;
+}
+
+.sheet-pill {
+  min-width: 140rpx;
+  height: 60rpx;
+  padding: 0 22rpx;
+  border-radius: 20rpx;
+  background: #f5f5f5;
+  color: rgba(43, 38, 39, 0.72);
+  line-height: 60rpx;
+  font-size: 24rpx;
+}
+
+.sheet-pill-active {
+  background: #fcd41d;
+  color: #2b2627;
+  font-weight: 600;
+}
+
+.apply-btn {
+  width: 100%;
+  height: 88rpx;
+  margin-top: 32rpx;
+}

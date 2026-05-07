@@ -1,0 +1,47 @@
+<view class="page page-soft detail-order-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="go" data-url="/pages/orders/orders">‹</button>
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">订单详情</text>
+  </view>
+  <view class="status-panel card">
+    <view class="status-title">{{pendingOrder.order_status === 'closed' ? '订单已取消' : (pendingOrder.payment_status === 'paid' ? '待门店接单' : '待支付租车费用')}}</view>
+    <view class="muted">{{pendingOrder.order_status === 'closed' ? '您已取消该待支付订单，车辆名额已释放。' : (pendingOrder.payment_status === 'paid' ? '支付已完成，门店确认后将同步履约进度' : '锁车截止：' + (pendingOrder.lock_expires_at || '请尽快完成支付') + '，超时订单将自动取消')}}</view>
+    <button wx:if="{{pendingOrder.payment_status !== 'paid' && pendingOrder.order_status !== 'closed'}}" class="btn-yellow status-btn" bindtap="continuePay">{{paying ? '支付中' : '继续支付'}}</button>
+    <button wx:if="{{pendingOrder.payment_status !== 'paid' && pendingOrder.order_status !== 'closed'}}" class="status-link" bindtap="cancelOrder">{{cancelling ? '取消中' : '取消订单'}}</button>
+  </view>
+  <view class="steps card">
+    <view wx:for="{{steps}}" wx:key="*this" class="step {{(pendingOrder.payment_status === 'paid' && index <= 1) || (pendingOrder.payment_status !== 'paid' && pendingOrder.order_status !== 'closed' && index === 0) ? 'step-on' : ''}}">
+      <text class="step-dot"></text>
+      <text>{{item}}</text>
+    </view>
+  </view>
+  <view class="summary card">
+    <view class="summary-head">
+      <image class="summary-img" src="{{car.image}}" mode="aspectFill" />
+      <view>
+        <view class="car-title">{{car.fullName}}</view>
+        <view class="muted">{{car.color}}｜{{car.type}} {{car.seats}}座｜{{car.distance}}</view>
+        <view class="muted">▣ {{car.plate}}　⌾ {{car.gearbox}}｜{{car.energy}}</view>
+      </view>
+    </view>
+    <view class="time-pair">
+      <view><text class="label">取车时间</text><text>{{trip.pickupDateText}} {{trip.pickupTime}}</text></view>
+      <text class="duration">{{pendingOrder.rental_days || trip.durationDays}} 天</text>
+      <view class="right"><text class="label">还车时间</text><text>{{trip.returnDateText}} {{trip.returnTime}}</text></view>
+    </view>
+    <view class="address-line"><text class="tag yellow">取</text><text>{{pendingOrder.pickup_address_summary || order.pickupAddress}}</text></view>
+    <view class="address-line"><text class="tag dark">还</text><text>{{pendingOrder.return_address_summary || order.returnAddress}}</text></view>
+  </view>
+  <view class="fee-card card">
+    <view class="fee-head" bindtap="toggleFeeDetail">
+      <view class="block-title">费用明细</view>
+      <text class="fee-switch">{{feeDetailOpen ? '收起' : '展开'}} ›</text>
+    </view>
+    <view wx:if="{{feeDetailOpen}}">
+      <view class="fee-row"><text>租车费</text><text>{{pendingOrder.rent_fee || order.rentFee}}元</text></view>
+      <view class="fee-row"><text>上门送收服务费</text><text>{{pendingOrder.delivery_service_fee || order.serviceFee}}元</text></view>
+      <view class="fee-row"><text>优惠</text><text>-{{pendingOrder.discount_amount || 0}}元</text></view>
+      <view class="fee-row total"><text>{{pendingOrder.payment_status === 'paid' ? '已支付' : (pendingOrder.order_status === 'closed' ? '已关闭' : '待支付')}}</text><text>{{pendingOrder.payable_amount || order.total}}元</text></view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,73 @@
+<view class="page">
+  <view class="block_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_1">
+      <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">选择车型</text>
+    </view>
+    <view class="section_2">
+      <text lines="1" class="text_4">保时捷</text>
+      <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_1"></image>
+    </view>
+    <view class="section_3">
+      <view class="box_1">
+        <view class="section_4">
+          <view class="group_1"></view>
+        </view>
+        <view class="section_5">
+          <view class="group_2"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="box_2">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_2"></image>
+      </view>
+    </view>
+  </view>
+  <view class="block_2">
+    <view class="block_3">
+      <view class="list_1">
+        <view class="list-items_1-0">
+          <view class="image-wrapper_2-0">
+            <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_3-0"></image>
+          </view>
+          <text lines="1" class="text_5-0">卡宴</text>
+        </view>
+        <view class="list-items_1-1">
+          <view class="image-wrapper_2-1">
+            <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_3-1"></image>
+          </view>
+          <text lines="1" class="text_5-1">Macan</text>
+        </view>
+        <view class="list-items_1-2">
+          <view class="image-wrapper_2-2">
+            <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_3-2"></image>
+          </view>
+          <text lines="1" class="text_5-2">奥迪</text>
+        </view>
+      </view>
+    </view>
+    <view class="block_4">
+      <view class="box_3">
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_4"></image>
+        </view>
+        <text lines="1" class="text_6">全选</text>
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_7">确认</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_bianjichexing/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_8">已选择3个车型</text>
+    </view>
+  </view>
+</view>

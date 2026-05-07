@@ -1,0 +1,95 @@
+<view class="page">
+  <view class="box_1">
+    <view class="box_2">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="section_1">
+        <view class="group_1"></view>
+      </view>
+      <view class="section_2">
+        <view class="section_3"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNGbaf649d94dc5dec258c59ca243461cbd.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_3">
+      <text lines="1" class="text_3">我的</text>
+      <view class="box_4">
+        <view class="box_5"></view>
+        <view class="box_6"></view>
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <view class="box_7">
+      <view class="image-text_1">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_wode/FigmaDDSSlicePNGa2c367c96da2be0c2866fc75893f198c.png" class="image_2"></image>
+        </view>
+        <view class="text-group_1">
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_4">186</text>
+            <text lines="1" decode="true" class="text_5">&nbsp;••••</text>
+            <text lines="1" class="text_6">4633</text>
+          </view>
+          <text lines="1" class="text_7">昵称昵称昵称</text>
+        </view>
+      </view>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG28b6f18fb11a86b5fcebd6fe63dd3ad5.png" class="thumbnail_2"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_8">
+    <view class="group_2">
+      <view class="image-text_2">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG37e9353b8fab09946b12a89383c10f8f.png" class="thumbnail_3"></image>
+        <text lines="1" class="text-group_2">身份验证</text>
+      </view>
+      <image src="../../images/lanhu_wode/FigmaDDSSlicePNG6843c91b71a4a22f1d0656921cbc820c.png" class="label_1"></image>
+    </view>
+    <view class="group_3">
+      <view class="image-text_3">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG9d3d8eda4eee377d18d92aacdf758efe.png" class="thumbnail_4"></image>
+        <text lines="1" class="text-group_3">个人信息</text>
+      </view>
+      <image src="../../images/lanhu_wode/FigmaDDSSlicePNG6843c91b71a4a22f1d0656921cbc820c.png" class="label_2"></image>
+    </view>
+    <view class="group_4">
+      <view class="image-text_4">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG159cad379e77fc036f670555b4d06958.png" class="thumbnail_5"></image>
+        <text lines="1" class="text-group_4">渠道工作台</text>
+      </view>
+      <image src="../../images/lanhu_wode/FigmaDDSSlicePNG6843c91b71a4a22f1d0656921cbc820c.png" class="label_3"></image>
+    </view>
+    <view class="group_5">
+      <view class="image-text_5">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG6e738867f78d17e67917b6a5254d8010.png" class="thumbnail_6"></image>
+        <text lines="1" class="text-group_5">联系客服</text>
+      </view>
+      <image src="../../images/lanhu_wode/FigmaDDSSlicePNG6843c91b71a4a22f1d0656921cbc820c.png" class="label_4"></image>
+    </view>
+    <image src="../../images/lanhu_wode/FigmaDDSSlicePNG943d2896ccac7bde76ec7a53c93a8b8a.png" class="image_3"></image>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_8">退出登录</text>
+    </view>
+  </view>
+  <view class="box_9">
+    <view class="list_1">
+      <view class="image-text_6-0">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG2abb6e035ee69ed96cec68447230a235.png" class="label_5-0"></image>
+        <text lines="1" class="text-group_6-0">首页</text>
+      </view>
+      <view class="image-text_6-1">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNGb72c9df845cc1b6fcc50ce465fbd13ce.png" class="label_5-1"></image>
+        <text lines="1" class="text-group_6-1">订单</text>
+      </view>
+      <view class="image-text_6-2">
+        <image src="../../images/lanhu_wode/FigmaDDSSlicePNG6c4891dd30546f519304d279b49bcbf7.png" class="label_5-2"></image>
+        <text lines="1" class="text-group_6-2">我的</text>
+      </view>
+    </view>
+    <view class="group_6"></view>
+    <image src="../../images/lanhu_wode/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_4"></image>
+  </view>
+</view>

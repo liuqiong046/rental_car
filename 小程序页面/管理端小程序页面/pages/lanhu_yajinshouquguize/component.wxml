@@ -1,0 +1,133 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="group_3"></view>
+      </view>
+      <view class="group_4">
+        <view class="group_5"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_6">
+      <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">押金收取规则</text>
+      <view class="box_2">
+        <view class="box_3"></view>
+        <view class="box_4"></view>
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_5">
+    <view class="box_6">
+      <text lines="1" class="text_4">收取方式</text>
+      <text lines="1" class="text_5">芝麻信用免押</text>
+      <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_2"></image>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_6">租车押金</text>
+      <text lines="1" class="text_7">3000</text>
+      <text lines="1" class="text_8">元</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_9">违章押金</text>
+      <text lines="1" class="text_10">3000</text>
+      <text lines="1" class="text_11">元</text>
+    </view>
+    <view class="box_7">
+      <text lines="1" class="text_12">涵盖车型</text>
+      <view class="image-text_1">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGd4ac450cdbea3b136f6e10213e5c84b3.png" class="thumbnail_3"></image>
+        <text lines="1" class="text-group_1">添加一行</text>
+      </view>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_13">品牌</text>
+      <text lines="1" class="text_14">车型</text>
+      <text lines="1" class="text_15">操作</text>
+    </view>
+    <view class="box_8">
+      <view class="text-group_2">
+        <text lines="1" class="text_16">兰博基尼</text>
+        <text lines="1" class="text_17">劳斯莱斯</text>
+        <text lines="1" class="text_18">保时捷</text>
+      </view>
+      <view class="text-group_3">
+        <text lines="1" class="text_19">大牛</text>
+        <text lines="1" class="text_20">幻影、库里南</text>
+        <text lines="1" class="text_21">卡宴、Macan、帕拉梅拉、992、911、718、博思特</text>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGa893e1b1ad72c6b2205d11b32ef4e6af.png" class="thumbnail_4"></image>
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGa893e1b1ad72c6b2205d11b32ef4e6af.png" class="thumbnail_5"></image>
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGa893e1b1ad72c6b2205d11b32ef4e6af.png" class="thumbnail_6"></image>
+      </view>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG81658edf67063246d0df4511f2cb42b1.png" class="thumbnail_7"></image>
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG81658edf67063246d0df4511f2cb42b1.png" class="thumbnail_8"></image>
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG81658edf67063246d0df4511f2cb42b1.png" class="thumbnail_9"></image>
+      </view>
+    </view>
+    <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG26abf96aab9348acbd05a813ed71ecc1.png" class="image_2"></image>
+    <view class="box_9">
+      <view class="image-text_2">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGf5b8dc55ff99607f4d7deb624485a4cf.png" class="thumbnail_10"></image>
+        <text lines="1" class="text-group_4">删除</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_10">
+    <view class="group_7">
+      <text lines="1" class="text_22">收取方式</text>
+      <text lines="1" class="text_23">请选择</text>
+      <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_11"></image>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_24">租车押金</text>
+      <text lines="1" class="text_25">请输入</text>
+      <text lines="1" class="text_26">元</text>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_27">违章押金</text>
+      <text lines="1" class="text_28">请输入</text>
+      <text lines="1" class="text_29">元</text>
+    </view>
+    <view class="group_8">
+      <text lines="1" class="text_30">涵盖车型</text>
+      <view class="image-text_3">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGd4ac450cdbea3b136f6e10213e5c84b3.png" class="thumbnail_12"></image>
+        <text lines="1" class="text-group_5">添加一行</text>
+      </view>
+    </view>
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_31">品牌</text>
+      <text lines="1" class="text_32">车型</text>
+      <text lines="1" class="text_33">操作</text>
+    </view>
+    <text lines="1" class="text_34">空数据</text>
+    <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNG26abf96aab9348acbd05a813ed71ecc1.png" class="image_3"></image>
+    <view class="group_9">
+      <view class="image-text_4">
+        <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGf5b8dc55ff99607f4d7deb624485a4cf.png" class="thumbnail_13"></image>
+        <text lines="1" class="text-group_6">删除</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_11">
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_35">保存</text>
+    </view>
+    <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_4"></image>
+  </view>
+  <view class="box_12">
+    <view class="image-wrapper_4">
+      <image src="../../images/lanhu_yajinshouquguize/FigmaDDSSlicePNGa9ef801a7942ac86572a1683e0377631.png" class="thumbnail_14"></image>
+    </view>
+    <text lines="1" class="text_36">添加押金设置</text>
+  </view>
+</view>

@@ -1,0 +1,68 @@
+.profile-phone-page {
+  background: #fff;
+  padding-bottom: calc(176rpx + env(safe-area-inset-bottom));
+}
+
+.edit-card {
+  margin-top: 24rpx;
+  padding: 0 32rpx 32rpx;
+}
+
+.row {
+  min-height: 108rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24rpx;
+}
+
+.row-label {
+  color: #2b2627;
+  font-size: 28rpx;
+}
+
+.row input,
+.row-value {
+  flex: 1;
+  min-width: 0;
+  color: rgba(43, 38, 39, 0.42);
+  font-size: 28rpx;
+  text-align: right;
+}
+
+.row-code input {
+  text-align: left;
+}
+
+.divider {
+  height: 1rpx;
+  background: #f5f5f5;
+}
+
+.profile-phone-page button.code-btn {
+  flex: 0 0 auto;
+  width: 164rpx;
+  margin: 0;
+  height: 64rpx;
+  border-radius: 20rpx;
+  background: #fef2b8;
+  color: #8e6f00;
+  line-height: 64rpx;
+  text-align: center;
+  font-size: 24rpx;
+}
+
+.fixed-action {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  padding: 20rpx 32rpx calc(20rpx + env(safe-area-inset-bottom));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fff 32%);
+}
+
+.fixed-btn {
+  width: 686rpx;
+  margin: 0 auto;
+}

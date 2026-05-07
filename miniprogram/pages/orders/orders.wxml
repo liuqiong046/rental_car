@@ -1,0 +1,28 @@
+<view class="page page-soft orders-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">全部订单</text>
+  </view>
+  <scroll-view class="order-tabs" scroll-x>
+    <text wx:for="{{tabs}}" wx:key="*this" data-index="{{index}}" bindtap="switchTab" class="order-tab {{activeTab === index ? 'order-tab-active' : ''}}">{{item}}</text>
+  </scroll-view>
+  <view class="order-list">
+    <view wx:for="{{orders}}" wx:key="key" class="order-card card" bindtap="go" data-url="/pages/order-detail/order-detail">
+      <view class="order-head"><text class="order-no">订单编号：{{item.no}}</text><text class="status">{{item.status}}</text></view>
+      <view class="order-user"><text class="avatar">用车</text><text>{{item.renter}}</text><text class="muted">{{item.phone}}</text><button class="phone">☎</button></view>
+      <view class="trip-mini">
+        <view><text>{{item.pickupDate}}</text><text class="muted">周五 9:30</text></view>
+        <text class="duration">{{item.duration}}</text>
+        <view class="right"><text>{{item.returnDate}}</text><text class="muted">周日 9:30</text></view>
+      </view>
+      <view class="car-strip"><text>{{car.fullName}}</text><text class="plate">{{car.plate}}</text></view>
+      <view class="order-foot"><text class="muted">2025-05-25 13:31</text><text>订单金额</text><text class="fee">{{item.total}}元</text></view>
+    </view>
+  </view>
+  <view class="bottom-bar">
+    <view class="tabbar">
+      <button class="tab-item" data-url="/pages/home/home" bindtap="redirect"><text class="tab-icon">⌂</text>首页</button>
+      <button class="tab-item tab-active" data-url="/pages/orders/orders" bindtap="redirect"><text class="tab-icon">□</text>订单</button>
+      <button class="tab-item" data-url="/pages/profile/profile" bindtap="redirect"><text class="tab-icon">○</text>我的</button>
+    </view>
+  </view>
+</view>

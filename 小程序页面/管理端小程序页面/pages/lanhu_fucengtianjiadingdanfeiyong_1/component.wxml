@@ -1,0 +1,43 @@
+<view class="page">
+  <view class="section_1">
+    <text lines="1" class="text_1">添加订单费用</text>
+    <image src="../../images/lanhu_fucengtianjiadingdanfeiyong_1/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_fucengtianjiadingdanfeiyong_1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="section_2">
+    <view class="group_1">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_fucengtianjiadingdanfeiyong_1/FigmaDDSSlicePNG5352a661d52e2086e766fbb826ab339e.png" class="thumbnail_1"></image>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_2">请输入费用名称</text>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_3">请输入金额</text>
+      </view>
+      <text lines="1" class="text_4">元</text>
+    </view>
+    <view class="group_2">
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_fucengtianjiadingdanfeiyong_1/FigmaDDSSlicePNG5352a661d52e2086e766fbb826ab339e.png" class="thumbnail_2"></image>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_5">请输入费用名称</text>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_6">请输入金额</text>
+      </view>
+      <text lines="1" class="text_7">元</text>
+    </view>
+    <view class="group_3"></view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_8">保存</text>
+    </view>
+    <view class="group_4">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_fucengtianjiadingdanfeiyong_1/FigmaDDSSlicePNG8757a78465fc64746e4b469485bc0b82.png" class="thumbnail_3"></image>
+        <text lines="1" class="text-group_1">添加费用项</text>
+      </view>
+    </view>
+  </view>
+</view>

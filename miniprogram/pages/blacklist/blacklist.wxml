@@ -1,0 +1,18 @@
+<view class="blacklist-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <text class="nav-title" style="margin-top: {{nav.menuOffset}}px;">账号受限</text>
+  </view>
+
+  <view class="limit-card card">
+    <view class="limit-icon">!</view>
+    <view class="limit-title">当前账号暂不可继续使用</view>
+    <view class="limit-desc">
+      {{profile.phone_mask || "该账号"}}存在用车风险记录，已暂停下单、订单和我的等敏感功能。请联系客服核实处理结果。
+    </view>
+  </view>
+
+  <view class="action-panel">
+    <button class="btn-yellow action-btn" bindtap="contactService">联系客服</button>
+    <button class="switch-btn" bindtap="switchAccount">切换账号</button>
+  </view>
+</view>

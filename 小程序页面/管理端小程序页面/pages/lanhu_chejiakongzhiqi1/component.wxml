@@ -1,0 +1,136 @@
+<view class="page">
+  <view class="group_1">
+    <view class="group_2">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_3">
+        <view class="block_1"></view>
+      </view>
+      <view class="group_4">
+        <view class="box_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_5">
+      <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">车价控制器</text>
+      <view class="section_1">
+        <view class="group_6"></view>
+        <view class="group_7"></view>
+        <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_8">
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="section_2-0">
+          <view class="text-wrapper_1-0">
+            <text lines="1" class="text_4-0">请输入</text>
+          </view>
+          <text lines="1" class="text_5-0">至</text>
+          <view class="text-wrapper_2-0">
+            <text lines="1" class="text_6-0">请输入</text>
+          </view>
+          <view class="image-text_1-0">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNGcfd83ccc16b1818f915f9d26ff27c0f6.png" class="thumbnail_2-0"></image>
+            <text lines="1" class="text-group_1-0">删除</text>
+          </view>
+        </view>
+        <view class="text-wrapper_3-0">
+          <text lines="1" class="text_7-0">本地渠道价</text>
+          <text lines="1" class="text_8-0">C端普通用户价</text>
+          <text lines="1" class="text_9-0">渠道高档用户价</text>
+          <text lines="1" class="text_10-0">异地运营中心价</text>
+        </view>
+        <view class="section_3-0">
+          <view class="group_9-0">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_3-0"></image>
+            <view class="text-wrapper_4-0">
+              <text lines="1" class="text_11-0">50</text>
+            </view>
+          </view>
+          <view class="group_10-0">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_4-0"></image>
+            <view class="text-wrapper_5-0">
+              <text lines="1" class="text_12-0">100</text>
+            </view>
+          </view>
+          <view class="group_11-0">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_5-0"></image>
+            <view class="text-wrapper_6-0">
+              <text lines="1" class="text_13-0">120</text>
+            </view>
+          </view>
+          <view class="group_12-0">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_6-0"></image>
+            <view class="text-wrapper_7-0">
+              <text lines="1" class="text_14-0">150</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="section_2-1">
+          <view class="text-wrapper_1-1">
+            <text lines="1" class="text_4-1">请输入</text>
+          </view>
+          <text lines="1" class="text_5-1">至</text>
+          <view class="text-wrapper_2-1">
+            <text lines="1" class="text_6-1">请输入</text>
+          </view>
+          <view class="image-text_1-1">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNGcfd83ccc16b1818f915f9d26ff27c0f6.png" class="thumbnail_2-1"></image>
+            <text lines="1" class="text-group_1-1">删除</text>
+          </view>
+        </view>
+        <view class="text-wrapper_3-1">
+          <text lines="1" class="text_7-1">本地渠道价</text>
+          <text lines="1" class="text_8-1">C端普通用户价</text>
+          <text lines="1" class="text_9-1">渠道高档用户价</text>
+          <text lines="1" class="text_10-1">异地运营中心价</text>
+        </view>
+        <view class="section_3-1">
+          <view class="group_9-1">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_3-1"></image>
+            <view class="text-wrapper_4-1">
+              <text lines="1" class="text_11-1">请输入加价金额/元</text>
+            </view>
+          </view>
+          <view class="group_10-1">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_4-1"></image>
+            <view class="text-wrapper_5-1">
+              <text lines="1" class="text_12-1">请输入加价金额/元</text>
+            </view>
+          </view>
+          <view class="group_11-1">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_5-1"></image>
+            <view class="text-wrapper_6-1">
+              <text lines="1" class="text_13-1">请输入加价金额/元</text>
+            </view>
+          </view>
+          <view class="group_12-1">
+            <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNG4c051a297c4895dc0b291f2c659317de.png" class="thumbnail_6-1"></image>
+            <view class="text-wrapper_7-1">
+              <text lines="1" class="text_14-1">请输入加价金额/元</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="block_2">
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_15">保存</text>
+      </view>
+      <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+    <view class="block_3">
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_chejiakongzhiqi1/FigmaDDSSlicePNGa9ef801a7942ac86572a1683e0377631.png" class="thumbnail_7"></image>
+      </view>
+      <text lines="1" class="text_16">添加</text>
+    </view>
+  </view>
+</view>

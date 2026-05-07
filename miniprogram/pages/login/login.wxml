@@ -1,0 +1,105 @@
+<view class="page login-page">
+  <view class="login-bg">
+    <view class="ring ring-top ring-top-main"></view>
+    <view class="ring ring-top ring-top-second"></view>
+    <view class="ring ring-top ring-top-third"></view>
+    <view class="ring ring-bottom ring-bottom-main"></view>
+    <view class="ring ring-bottom ring-bottom-second"></view>
+    <view class="ring ring-bottom ring-bottom-third"></view>
+  </view>
+
+  <view class="nav login-nav" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back login-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="goBack">
+      <image class="login-back-icon" src="../../assets/login/back.png" mode="aspectFit"></image>
+    </button>
+    <text
+      class="nav-title login-title"
+      style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px;"
+    >
+      山海放心租
+    </text>
+  </view>
+
+  <view class="login-content">
+    <image class="brand-logo" src="../../assets/login/logo.png" mode="aspectFit"></image>
+    <text class="hero-title">租用高端车 就用山海放心租</text>
+    <text class="hero-desc">slogansloganslogan...</text>
+
+    <view class="form-group">
+      <view class="field">
+        <view class="field-main">
+          <image class="field-icon-image" src="../../assets/login/phone.png" mode="aspectFit"></image>
+          <view class="field-divider"></view>
+          <input
+            class="field-input"
+            value="{{phone}}"
+            maxlength="11"
+            type="number"
+            placeholder="请输入手机号"
+            placeholder-class="field-placeholder"
+            bindinput="onPhoneInput"
+          />
+        </view>
+        <view wx:if="{{phone}}" class="field-clear" bindtap="clearPhone">×</view>
+      </view>
+
+      <view class="field field-code">
+        <input
+          class="field-input code-input"
+          value="{{verificationCode}}"
+          maxlength="6"
+          type="number"
+          placeholder="请输入验证码"
+          placeholder-class="field-placeholder"
+          bindinput="onCodeInput"
+        />
+        <view class="code-divider"></view>
+        <button
+          class="code-btn {{codeSending || codeCountdown > 0 ? 'code-btn-disabled' : ''}}"
+          size="mini"
+          loading="{{codeSending}}"
+          bindtap="requestCode"
+        >
+          {{codeCountdown > 0 ? codeCountdown + "s" : "发送验证码"}}
+        </button>
+      </view>
+    </view>
+
+    <button
+      class="submit-btn {{canSubmit ? 'submit-btn-active' : 'submit-btn-disabled'}}"
+      style="width: 100%;"
+      loading="{{loading}}"
+      bindtap="submit"
+    >
+      注册
+    </button>
+
+    <view class="agreement-row">
+      <view class="agreement-checker" bindtap="toggleAgree">
+        <view class="agreement-circle {{agree ? 'agreement-circle-checked' : ''}}">
+          <text wx:if="{{agree}}" class="agreement-tick">✓</text>
+        </view>
+      </view>
+      <view class="agreement-copy" bindtap="toggleAgree">
+        <text class="agreement-copy-muted">我已阅读并同意</text>
+        <text class="agreement-copy-link">《用户协议》</text>
+        <text class="agreement-copy-muted">和</text>
+        <text class="agreement-copy-link">《隐私政策》</text>
+      </view>
+    </view>
+  </view>
+
+  <view wx:if="{{showAgreementModal}}" class="agreement-modal-mask">
+    <view class="agreement-modal">
+      <view class="agreement-modal-warning">
+        <text class="warning-mark">!</text>
+      </view>
+
+      <text class="agreement-modal-title">请先阅读并同意协议</text>
+      <text class="agreement-modal-content">请先充分阅读《用户协议》和《隐私政策》</text>
+      <text class="agreement-modal-content agreement-modal-content-second">勾选同意后再继续注册</text>
+
+      <button class="agreement-modal-btn" style="width: 100%;" bindtap="hideAgreementModal">我知道了</button>
+    </view>
+  </view>
+</view>

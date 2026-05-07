@@ -1,0 +1,59 @@
+<view class="page">
+  <view class="group_1">
+    <view class="box_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="block_1">
+        <view class="group_2"></view>
+      </view>
+      <view class="block_2">
+        <view class="section_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_piliangshezhimorenzhuangtaipiliangriqi/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_2">
+      <image src="../../images/lanhu_piliangshezhimorenzhuangtaipiliangriqi/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">批量设置</text>
+      <view class="section_2">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_piliangshezhimorenzhuangtaipiliangriqi/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_5">
+    <view class="box_3">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">提交</text>
+      </view>
+      <image src="../../images/lanhu_piliangshezhimorenzhuangtaipiliangriqi/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+    <view class="box_4">
+      <view class="block_3">
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_5">类型</text>
+          <text lines="1" class="text_6">价格</text>
+        </view>
+        <view class="text-group_1">
+          <text lines="1" class="text_7">指定日期</text>
+          <text lines="1" class="text_8">70</text>
+        </view>
+      </view>
+      <view class="block_4">
+        <view class="group_6">
+          <view class="image-text_1">
+            <image src="../../images/lanhu_piliangshezhimorenzhuangtaipiliangriqi/FigmaDDSSlicePNGe8f72c3ee36c26442d8dffe4a4d4cd56.png" class="thumbnail_2"></image>
+            <text lines="1" class="text-group_2">此车型价格不能低于80元/天</text>
+          </view>
+        </view>
+      </view>
+      <view class="block_5">
+        <text lines="1" class="text_9">价格</text>
+        <text lines="1" class="text_10">2025-07-31</text>
+        <image src="../../images/lanhu_piliangshezhimorenzhuangtaipiliangriqi/FigmaDDSSlicePNG3d7506a6321628a83524fb6608267ade.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+  </view>
+</view>

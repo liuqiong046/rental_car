@@ -1,0 +1,22 @@
+<view class="page page-soft brand-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="go" data-url="/pages/home/home">‹</button>
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">品牌选择</text>
+  </view>
+  <view class="brand-search">搜索品牌或车型</view>
+  <view class="section-title">热门品牌</view>
+  <view class="brand-grid">
+    <button wx:for="{{hotBrands}}" wx:key="name" class="brand-cell" bindtap="go" data-url="/pages/cars/cars?brand={{item.name}}">
+      <view class="brand-logo">{{item.short}}</view>
+      <text>{{item.name}}</text>
+    </button>
+  </view>
+  <view class="section-title all-title">全部品牌</view>
+  <view class="brand-list card">
+    <button wx:for="{{brands}}" wx:key="name" class="brand-row" bindtap="go" data-url="/pages/cars/cars?brand={{item.name}}">
+      <view class="brand-logo small">{{item.short}}</view>
+      <text>{{item.name}}</text>
+      <text class="row-arrow">›</text>
+    </button>
+  </view>
+</view>

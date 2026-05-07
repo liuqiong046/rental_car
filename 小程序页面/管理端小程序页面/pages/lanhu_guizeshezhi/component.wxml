@@ -1,0 +1,52 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="box_2">
+        <view class="section_1"></view>
+      </view>
+      <view class="box_3">
+        <view class="box_4"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_2">
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">规则设置</text>
+      <view class="box_5">
+        <view class="box_6"></view>
+        <view class="box_7"></view>
+        <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_8">
+    <view class="group_3">
+      <text lines="1" class="text_4">押金收取规则</text>
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_2"></image>
+    </view>
+    <view class="group_4">
+      <text lines="1" class="text_5">续租提醒规则</text>
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_3"></image>
+    </view>
+    <view class="group_5">
+      <text lines="1" class="text_6">c端小程序设置</text>
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_4"></image>
+    </view>
+    <view class="group_6">
+      <text lines="1" class="text_7">用车规则设置</text>
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_5"></image>
+    </view>
+    <view class="group_7">
+      <text lines="1" class="text_8">节假日设置</text>
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_6"></image>
+    </view>
+    <view class="group_8">
+      <text lines="1" class="text_9">出行保障设置</text>
+      <image src="../../images/lanhu_guizeshezhi/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_7"></image>
+    </view>
+  </view>
+</view>

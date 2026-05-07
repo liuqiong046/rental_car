@@ -1,0 +1,111 @@
+.identity-page {
+  background: #f8f8f7;
+  min-height: 100vh;
+}
+
+.status-card,
+.form-card {
+  margin-top: 24rpx;
+  padding: 28rpx;
+}
+
+.status-title {
+  margin-bottom: 12rpx;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+
+.status-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20rpx;
+}
+
+.status-pill {
+  min-width: 128rpx;
+  padding: 10rpx 18rpx;
+  border-radius: 8rpx;
+  background: #f0f0ef;
+  color: #2b2627;
+  text-align: center;
+  font-size: 24rpx;
+  font-weight: 600;
+}
+
+.status-pill.approved {
+  background: #e8f7ec;
+  color: #16833a;
+}
+
+.status-pill.rejected {
+  background: #fff0eb;
+  color: #fc511d;
+}
+
+.status-pill.pending {
+  background: #fff8d7;
+  color: #8a6a00;
+}
+
+.reject {
+  margin-top: 18rpx;
+  padding: 18rpx;
+  border-radius: 8rpx;
+  background: #fff0eb;
+  color: #fc511d;
+}
+
+.reject-title {
+  margin-bottom: 6rpx;
+  color: #2b2627;
+  font-weight: 600;
+}
+
+.form-card input {
+  height: 96rpx;
+  border-bottom: 1rpx solid #f0f0ef;
+  color: #2b2627;
+}
+
+.upload-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18rpx;
+  margin-top: 28rpx;
+}
+
+.upload-card {
+  min-height: 132rpx;
+  padding: 22rpx;
+  border: 1rpx solid #ecebe8;
+  border-radius: 8rpx;
+  background: #fff;
+}
+
+.upload-title {
+  color: #2b2627;
+  font-size: 28rpx;
+  font-weight: 600;
+}
+
+.upload-value {
+  margin-top: 10rpx;
+  color: #77716f;
+  font-size: 24rpx;
+}
+
+.preview-btn {
+  width: 150rpx;
+  height: 56rpx;
+  margin: 16rpx 0 0;
+  border-radius: 8rpx;
+  background: #2b2627;
+  color: #fff;
+  font-size: 24rpx;
+  line-height: 56rpx;
+}
+
+.submit-btn {
+  margin-top: 32rpx;
+}

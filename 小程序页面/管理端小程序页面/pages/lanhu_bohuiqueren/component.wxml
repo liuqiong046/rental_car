@@ -1,0 +1,20 @@
+<view class="page">
+  <view class="image-wrapper_1">
+    <image src="../../images/lanhu_bohuiqueren/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <view class="block_1">
+    <view class="image-text_1">
+      <image src="../../images/lanhu_bohuiqueren/FigmaDDSSlicePNGa52e9edf49774239ce1d8f5be2cb338c.png" class="image_1"></image>
+      <text lines="1" class="text-group_1">确认驳回此车辆吗？</text>
+    </view>
+    <view class="group_1">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_1">确定驳回</text>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_2">再想想</text>
+      </view>
+    </view>
+  </view>
+  <image src="../../images/lanhu_bohuiqueren/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

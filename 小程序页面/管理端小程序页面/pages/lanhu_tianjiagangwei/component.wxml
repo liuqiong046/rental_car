@@ -1,0 +1,197 @@
+<view class="page">
+  <view class="section_1">
+    <view class="section_2">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_1"></view>
+      <view class="group_2"></view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_3">
+      <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">添加岗位</text>
+      <view class="box_1">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_4">
+    <view class="box_2">
+      <view class="group_5"></view>
+      <view class="image-text_1">
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_2"></image>
+        <text lines="1" class="text-group_1">首页</text>
+      </view>
+      <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_3"></image>
+    </view>
+    <view class="box_3">
+      <view class="block_1">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_4"></image>
+        </view>
+        <view class="image-text_2">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_5"></image>
+          <text lines="1" class="text-group_2">控制台</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_6"></image>
+      </view>
+      <view class="block_2">
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_7"></image>
+        </view>
+        <view class="image-text_3">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_8"></image>
+          <text lines="1" class="text-group_3">今日待办</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_9"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_10"></image>
+      </view>
+      <view class="block_3">
+        <view class="image-wrapper_4">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_11"></image>
+        </view>
+        <view class="image-text_4">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_12"></image>
+          <text lines="1" class="text-group_4">添加</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_13"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_14"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_15"></image>
+      </view>
+      <view class="block_4">
+        <view class="image-wrapper_5">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_16"></image>
+        </view>
+        <view class="image-text_5">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_17"></image>
+          <text lines="1" class="text-group_5">修改</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_18"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_19"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_20"></image>
+      </view>
+      <view class="block_5">
+        <view class="image-wrapper_6">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_21"></image>
+        </view>
+        <view class="image-text_6">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_22"></image>
+          <text lines="1" class="text-group_6">删除</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_23"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_24"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_25"></image>
+      </view>
+      <view class="block_6">
+        <view class="image-wrapper_7">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_26"></image>
+        </view>
+        <view class="image-text_7">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_27"></image>
+          <text lines="1" class="text-group_7">查看</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_28"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_29"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_30"></image>
+      </view>
+      <view class="block_7">
+        <view class="image-wrapper_8">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_31"></image>
+        </view>
+        <view class="image-text_8">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_32"></image>
+          <text lines="1" class="text-group_8">通知公告</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_33"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_34"></image>
+      </view>
+      <view class="block_8">
+        <view class="image-wrapper_9">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_35"></image>
+        </view>
+        <view class="image-text_9">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_36"></image>
+          <text lines="1" class="text-group_9">报销</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_37"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_38"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_39"></image>
+      </view>
+      <view class="block_9">
+        <view class="image-wrapper_10">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_40"></image>
+        </view>
+        <view class="image-text_10">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_41"></image>
+          <text lines="1" class="text-group_10">发起报销</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_42"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_43"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_44"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_45"></image>
+      </view>
+      <view class="block_10">
+        <view class="image-wrapper_11">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_46"></image>
+        </view>
+        <view class="image-text_11">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_47"></image>
+          <text lines="1" class="text-group_11">查看报销</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_48"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_49"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_50"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_51"></image>
+      </view>
+      <view class="block_11">
+        <view class="image-wrapper_12">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_52"></image>
+        </view>
+        <view class="image-text_12">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_53"></image>
+          <text lines="1" class="text-group_12">报销审核</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_54"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_55"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_56"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG826ee6b7f03dd0e11696f89d88137db7.png" class="thumbnail_57"></image>
+      </view>
+      <view class="block_12">
+        <view class="block_13"></view>
+        <view class="image-text_13">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_58"></image>
+          <text lines="1" class="text-group_13">我家车库</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_59"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_60"></image>
+      </view>
+      <view class="block_14">
+        <view class="block_15"></view>
+        <view class="image-text_14">
+          <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG7f61c630635d21b29aff394754c9a533.png" class="thumbnail_61"></image>
+          <text lines="1" class="text-group_14">车辆排班</text>
+        </view>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_62"></image>
+        <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGd5641d1e15c6527558e8b267850a4202.png" class="thumbnail_63"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_5">
+    <view class="image-wrapper_13">
+      <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNG9a713e9edf7b435b22950852700697fd.png" class="thumbnail_64"></image>
+    </view>
+    <text lines="1" class="text_4">岗位名称</text>
+    <text lines="1" class="text_5">司机</text>
+    <image src="../../images/lanhu_tianjiagangwei/a70ae01c45a644e69d7ee626d43cfd14_mergeImage.png" class="image_2"></image>
+  </view>
+  <view class="section_6">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_6">提交</text>
+    </view>
+    <image src="../../images/lanhu_tianjiagangwei/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_3"></image>
+  </view>
+</view>

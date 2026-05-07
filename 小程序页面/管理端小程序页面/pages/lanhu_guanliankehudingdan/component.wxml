@@ -1,0 +1,337 @@
+<view class="page">
+  <view class="section_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_1">
+      <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">关联客户订单</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_4">输入订单号、车牌号、用车人姓名搜索</text>
+    </view>
+    <view class="group_2">
+      <view class="box_1">
+        <view class="block_1"></view>
+        <view class="block_2"></view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="box_2">
+        <view class="section_2"></view>
+        <view class="section_3"></view>
+        <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+      <view class="box_3">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG702576bc26ca7754deaac39d68b2ae72.png" class="thumbnail_2"></image>
+        </view>
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG601350237a2a674fffce0a7304532e49.png" class="thumbnail_3"></image>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="list_1">
+    <view class="list-items_1-0">
+      <view class="box_4-0">
+        <view class="text-wrapper_3-0">
+          <text lines="1" class="text_5-0">订单编号：</text>
+          <text lines="1" class="text_6-0">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_4-0">
+          <text lines="1" class="text_9-0">待接单</text>
+        </view>
+      </view>
+      <view class="box_5-0">
+        <view class="text-wrapper_5-0">
+          <text lines="1" class="text_10-0">C端</text>
+        </view>
+        <text lines="1" class="text_11-0">张三</text>
+        <text lines="1" class="text_12-0">19578012123</text>
+        <view class="image-wrapper_4-0">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_5-0"></image>
+        </view>
+      </view>
+      <view class="box_6-0">
+        <view class="group_3-0">
+          <view class="group_4-0"></view>
+          <text lines="1" class="text_13-0">自取</text>
+          <view class="group_5-0">
+            <view class="text-group_2-0">
+              <text lines="1" class="text_14-0">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_15-0">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-0">
+          <view class="box_7-0"></view>
+          <text lines="1" class="text_16-0">自还</text>
+          <view class="box_8-0">
+            <view class="text-group_3-0">
+              <text lines="1" class="text_17-0">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_18-0">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="box_9-0">
+        <text lines="1" class="text_19-0">小米汽车SU7</text>
+        <view class="text-wrapper_6-0">
+          <text lines="1" class="text_20-0">琼B894J9X（捷达租车）</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-1">
+      <view class="box_4-1">
+        <view class="text-wrapper_3-1">
+          <text lines="1" class="text_5-1">订单编号：</text>
+          <text lines="1" class="text_6-1">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_4-1">
+          <text lines="1" class="text_9-1">待取车</text>
+        </view>
+      </view>
+      <view class="box_5-1">
+        <view class="text-wrapper_5-1">
+          <text lines="1" class="text_10-1">C端</text>
+        </view>
+        <text lines="1" class="text_11-1">张三</text>
+        <text lines="1" class="text_12-1">19578012123</text>
+        <view class="image-wrapper_4-1">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_5-1"></image>
+        </view>
+      </view>
+      <view class="box_6-1">
+        <view class="group_3-1">
+          <view class="group_4-1"></view>
+          <text lines="1" class="text_13-1">送车上门</text>
+          <view class="group_5-1">
+            <view class="text-group_2-1">
+              <text lines="1" class="text_14-1">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_15-1">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-1">
+          <view class="box_7-1"></view>
+          <text lines="1" class="text_16-1">上门收车</text>
+          <view class="box_8-1">
+            <view class="text-group_3-1">
+              <text lines="1" class="text_17-1">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_18-1">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="box_9-1">
+        <text lines="1" class="text_19-1">小米汽车SU7</text>
+        <view class="text-wrapper_6-1">
+          <text lines="1" class="text_20-1">琼B894J9X（自有）</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-2">
+      <view class="box_4-2">
+        <view class="image-text_1-2">
+          <view class="text-group_1-2">
+            <text lines="1" class="text_7-2">订单编号：</text>
+            <text lines="1" class="text_8-2">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_4-2"></image>
+        </view>
+        <view class="text-wrapper_4-2">
+          <text lines="1" class="text_9-2">待还车</text>
+        </view>
+      </view>
+      <view class="box_5-2">
+        <view class="text-wrapper_5-2">
+          <text lines="1" class="text_10-2">C端</text>
+        </view>
+        <text lines="1" class="text_11-2">张三</text>
+        <text lines="1" class="text_12-2">19578012123</text>
+        <view class="image-wrapper_4-2">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_5-2"></image>
+        </view>
+      </view>
+      <view class="box_6-2">
+        <view class="group_3-2">
+          <view class="group_4-2"></view>
+          <text lines="1" class="text_13-2">送车上门</text>
+          <view class="group_5-2">
+            <view class="text-group_2-2">
+              <text lines="1" class="text_14-2">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_15-2">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-2">
+          <view class="box_7-2"></view>
+          <text lines="1" class="text_16-2">上门收车</text>
+          <view class="box_8-2">
+            <view class="text-group_3-2">
+              <text lines="1" class="text_17-2">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_18-2">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="box_9-2">
+        <text lines="1" class="text_19-2">小米汽车SU7</text>
+        <view class="text-wrapper_6-2">
+          <text lines="1" class="text_20-2">琼B894J9X（自有）</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-3">
+      <view class="box_4-3">
+        <view class="text-wrapper_3-3">
+          <text lines="1" class="text_5-3">订单编号：</text>
+          <text lines="1" class="text_6-3">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_4-3">
+          <text lines="1" class="text_9-3">售后中</text>
+        </view>
+      </view>
+      <view class="box_5-3">
+        <view class="text-wrapper_5-3">
+          <text lines="1" class="text_10-3">C端</text>
+        </view>
+        <text lines="1" class="text_11-3">张三</text>
+        <text lines="1" class="text_12-3">19578012123</text>
+        <view class="image-wrapper_4-3">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_5-3"></image>
+        </view>
+      </view>
+      <view class="box_6-3">
+        <view class="group_3-3">
+          <view class="group_4-3"></view>
+          <text lines="1" class="text_13-3">送车上门</text>
+          <view class="group_5-3">
+            <view class="text-group_2-3">
+              <text lines="1" class="text_14-3">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_15-3">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-3">
+          <view class="box_7-3"></view>
+          <text lines="1" class="text_16-3">上门收车</text>
+          <view class="box_8-3">
+            <view class="text-group_3-3">
+              <text lines="1" class="text_17-3">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_18-3">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="box_9-3">
+        <text lines="1" class="text_19-3">小米汽车SU7</text>
+        <view class="text-wrapper_6-3">
+          <text lines="1" class="text_20-3">琼B894J9X（自有）</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-4">
+      <view class="box_4-4">
+        <view class="text-wrapper_3-4">
+          <text lines="1" class="text_5-4">订单编号：</text>
+          <text lines="1" class="text_6-4">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_4-4">
+          <text lines="1" class="text_9-4">已完成</text>
+        </view>
+      </view>
+      <view class="box_5-4">
+        <view class="text-wrapper_5-4">
+          <text lines="1" class="text_10-4">C端</text>
+        </view>
+        <text lines="1" class="text_11-4">张三</text>
+        <text lines="1" class="text_12-4">19578012123</text>
+        <view class="image-wrapper_4-4">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_5-4"></image>
+        </view>
+      </view>
+      <view class="box_6-4">
+        <view class="group_3-4">
+          <view class="group_4-4"></view>
+          <text lines="1" class="text_13-4">送车上门</text>
+          <view class="group_5-4">
+            <view class="text-group_2-4">
+              <text lines="1" class="text_14-4">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_15-4">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-4">
+          <view class="box_7-4"></view>
+          <text lines="1" class="text_16-4">上门收车</text>
+          <view class="box_8-4">
+            <view class="text-group_3-4">
+              <text lines="1" class="text_17-4">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_18-4">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="box_9-4">
+        <text lines="1" class="text_19-4">小米汽车SU7</text>
+        <view class="text-wrapper_6-4">
+          <text lines="1" class="text_20-4">琼B894J9X（自有）</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-5">
+      <view class="box_4-5">
+        <view class="text-wrapper_3-5">
+          <text lines="1" class="text_5-5">订单编号：</text>
+          <text lines="1" class="text_6-5">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_4-5">
+          <text lines="1" class="text_9-5">已完成</text>
+        </view>
+      </view>
+      <view class="box_5-5">
+        <view class="text-wrapper_5-5">
+          <text lines="1" class="text_10-5">手动<br/>录入</text>
+        </view>
+        <text lines="1" class="text_11-5">张三</text>
+        <text lines="1" class="text_12-5">19578012123</text>
+        <view class="image-wrapper_4-5">
+          <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_5-5"></image>
+        </view>
+      </view>
+      <view class="box_6-5">
+        <view class="group_3-5">
+          <view class="group_4-5"></view>
+          <text lines="1" class="text_13-5">送车上门</text>
+          <view class="group_5-5">
+            <view class="text-group_2-5">
+              <text lines="1" class="text_14-5">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_15-5">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+        <view class="group_6-5">
+          <view class="box_7-5"></view>
+          <text lines="1" class="text_16-5">上门收车</text>
+          <view class="box_8-5">
+            <view class="text-group_3-5">
+              <text lines="1" class="text_17-5">海南省三亚市山海放心租运营中心</text>
+              <text lines="1" decode="true" class="text_18-5">2024-01-08&nbsp;17:59</text>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="box_9-5">
+        <text lines="1" class="text_19-5">小米汽车SU7</text>
+        <view class="text-wrapper_6-5">
+          <text lines="1" class="text_20-5">琼B894J9X（自有）</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <image src="../../images/lanhu_guanliankehudingdan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

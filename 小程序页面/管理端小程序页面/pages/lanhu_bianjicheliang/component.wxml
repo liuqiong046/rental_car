@@ -1,0 +1,240 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="group_3"></view>
+      </view>
+      <view class="group_4">
+        <view class="group_5"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_6">
+      <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">编辑车辆</text>
+      <view class="group_7">
+        <view class="section_1"></view>
+        <view class="section_2"></view>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_2">
+    <view class="box_3">
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG1e381e5c03ad69ab446f100780cb99d0.png" class="thumbnail_2"></image>
+      </view>
+      <text lines="1" class="text_4">图片上传</text>
+    </view>
+    <view class="box_4">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_5">*</text>
+        <text lines="1" class="text_6">车辆首图</text>
+      </view>
+      <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG4bb32bc6801a3838fb233f628d308d30.png" class="thumbnail_3"></image>
+    </view>
+    <view class="box_5">
+      <view class="group_8">
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG8c2a6b2fac016914b9bc659c250d4e85.png" class="thumbnail_4"></image>
+        </view>
+      </view>
+    </view>
+    <view class="box_6">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_7">*</text>
+        <text lines="1" class="text_8">车辆详情</text>
+      </view>
+      <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG4bb32bc6801a3838fb233f628d308d30.png" class="thumbnail_5"></image>
+    </view>
+    <view class="box_7">
+      <view class="box_8">
+        <view class="image-wrapper_4">
+          <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG8c2a6b2fac016914b9bc659c250d4e85.png" class="thumbnail_6"></image>
+        </view>
+      </view>
+      <view class="box_9">
+        <view class="image-wrapper_5">
+          <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGdec6fe689bceaba5ce7cca5aedebf4e0.png" class="thumbnail_7"></image>
+        </view>
+        <text lines="1" class="text_9">添加图片</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_10">
+    <view class="box_11">
+      <view class="image-wrapper_6">
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGae1ebd52b2fbc4fac4e80479bff8b3d6.png" class="thumbnail_8"></image>
+      </view>
+      <text lines="1" class="text_10">技术参数</text>
+    </view>
+    <view class="box_12">
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_11">*</text>
+        <text lines="1" class="text_12">车辆类型</text>
+      </view>
+      <text lines="1" class="text_13">请选择</text>
+      <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_9"></image>
+    </view>
+    <view class="box_13">
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_14">*</text>
+        <text lines="1" class="text_15">座位数</text>
+      </view>
+      <text lines="1" class="text_16">请输入</text>
+    </view>
+    <view class="box_14">
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_17">*</text>
+        <text lines="1" class="text_18">颜色</text>
+      </view>
+      <view class="image-text_1">
+        <text lines="1" class="text-group_1">请选择</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_10"></image>
+      </view>
+    </view>
+    <view class="box_15">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_19">*</text>
+        <text lines="1" class="text_20">公里数</text>
+      </view>
+      <view class="image-text_2">
+        <text lines="1" class="text-group_2">请选择</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_11"></image>
+      </view>
+    </view>
+    <view class="box_16">
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_21">*</text>
+        <text lines="1" class="text_22">燃油类型</text>
+      </view>
+      <view class="image-text_3">
+        <text lines="1" class="text-group_3">请选择</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_12"></image>
+      </view>
+    </view>
+    <view class="box_17">
+      <view class="text-group_4">
+        <view class="text-wrapper_8">
+          <text lines="1" class="text_23">*</text>
+          <text lines="1" class="text_24">油箱容积</text>
+        </view>
+        <text lines="1" class="text_25">满电续航公里数</text>
+      </view>
+      <view class="group_9">
+        <view class="text-wrapper_9">
+          <text lines="1" class="text_26">请选择</text>
+          <text lines="1" class="text_27">L</text>
+        </view>
+        <text lines="1" class="text_28">请输入</text>
+      </view>
+      <view class="group_10">
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_13"></image>
+        <text lines="1" class="text_29">Km</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_18">
+    <view class="text-wrapper_10">
+      <text lines="1" class="text_30">提交审核</text>
+    </view>
+    <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="box_19">
+    <view class="block_1">
+      <view class="image-wrapper_7">
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG2059de8bcdc43c938b0b32443c827edc.png" class="thumbnail_14"></image>
+      </view>
+      <text lines="1" class="text_31">基础信息</text>
+    </view>
+    <view class="block_2">
+      <view class="text-wrapper_11">
+        <text lines="1" class="text_32">*</text>
+        <text lines="1" class="text_33">所属运营商</text>
+      </view>
+      <view class="image-text_4">
+        <text lines="1" decode="true" class="text-group_5">登录账号所属运营商,&nbsp;不可修改</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGacf75cd575a69384d28e357b797938b7.png" class="thumbnail_15"></image>
+      </view>
+    </view>
+    <view class="block_3">
+      <view class="text-wrapper_12">
+        <text lines="1" class="text_34">*</text>
+        <text lines="1" class="text_35">所属车行</text>
+      </view>
+      <view class="image-text_5">
+        <text lines="1" class="text-group_6">登录账号的所属车行，不可修改</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGacf75cd575a69384d28e357b797938b7.png" class="thumbnail_16"></image>
+      </view>
+    </view>
+    <view class="block_4">
+      <view class="text-wrapper_13">
+        <text lines="1" class="text_36">*</text>
+        <text lines="1" class="text_37">品牌型号</text>
+      </view>
+      <text lines="1" class="text_38">请选择</text>
+      <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_17"></image>
+    </view>
+    <view class="block_5">
+      <view class="text-wrapper_14">
+        <text lines="1" class="text_39">*</text>
+        <text lines="1" class="text_40">车牌号</text>
+      </view>
+      <text lines="1" class="text_41">请输入</text>
+    </view>
+    <view class="block_6">
+      <view class="text-wrapper_15">
+        <text lines="1" class="text_42">*</text>
+        <text lines="1" class="text_43">年款</text>
+      </view>
+      <text lines="1" class="text_44">请输入</text>
+    </view>
+    <view class="block_7">
+      <view class="text-wrapper_16">
+        <text lines="1" class="text_45">*</text>
+        <text lines="1" class="text_46">保险状态</text>
+      </view>
+      <view class="image-text_6">
+        <text lines="1" class="text-group_7">未授权保险</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_18"></image>
+      </view>
+    </view>
+    <view class="block_8">
+      <view class="text-wrapper_17">
+        <text lines="1" class="text_47">*</text>
+        <text lines="1" class="text_48">车辆等级</text>
+      </view>
+      <view class="image-text_7">
+        <text lines="1" class="text-group_8">请选择</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_19"></image>
+      </view>
+    </view>
+    <view class="block_9">
+      <view class="text-wrapper_18">
+        <text lines="1" class="text_49">*</text>
+        <text lines="1" class="text_50">归属方</text>
+      </view>
+      <view class="image-text_8">
+        <text lines="1" class="text-group_9">自有</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGacf75cd575a69384d28e357b797938b7.png" class="thumbnail_20"></image>
+      </view>
+    </view>
+    <view class="block_10">
+      <view class="text-wrapper_19">
+        <text lines="1" class="text_51">*</text>
+        <text lines="1" class="text_52">托管个人</text>
+      </view>
+      <view class="image-text_9">
+        <text lines="1" class="text-group_10">托管个人姓名，不可修改</text>
+        <image src="../../images/lanhu_bianjicheliang/FigmaDDSSlicePNGacf75cd575a69384d28e357b797938b7.png" class="thumbnail_21"></image>
+      </view>
+    </view>
+    <text lines="1" class="text_53">车辆描述</text>
+    <view class="block_11"></view>
+    <text lines="1" class="paragraph_1">2022款奔驰E300L豪华版，搭载2.0T高功率发动机，最大功率258马力，峰值扭矩370牛·米。配备全景天窗、柏林之声音响、座椅加热通风、360度全景影像等豪华配置。车辆保养良好，无事故记录，内饰如新，是商务接待和家庭出行的理想选择。<br/></text>
+  </view>
+</view>

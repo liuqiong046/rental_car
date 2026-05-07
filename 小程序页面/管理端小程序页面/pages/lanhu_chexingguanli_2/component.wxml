@@ -1,0 +1,83 @@
+<view class="page">
+  <view class="group_1">
+    <view class="group_2">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_3">
+        <view class="box_1"></view>
+      </view>
+      <view class="group_4">
+        <view class="block_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_chexingguanli_2/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_5">
+      <image src="../../images/lanhu_chexingguanli_2/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">保时捷</text>
+      <view class="box_2">
+        <view class="group_6"></view>
+        <view class="group_7"></view>
+        <image src="../../images/lanhu_chexingguanli_2/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_8">
+    <view class="box_3">
+      <view class="box_4">
+        <view class="image-text_1">
+          <image src="../../images/lanhu_chexingguanli_2/FigmaDDSSlicePNG8c66761471ca8bc1b63755132cbd4a23.png" class="thumbnail_2"></image>
+          <text lines="1" class="text-group_1">批量删除</text>
+        </view>
+      </view>
+      <view class="box_5">
+        <view class="image-text_2">
+          <image src="../../images/lanhu_chexingguanli_2/FigmaDDSSlicePNGa9ef801a7942ac86572a1683e0377631.png" class="thumbnail_3"></image>
+          <text lines="1" class="text-group_2">新增品牌</text>
+        </view>
+      </view>
+    </view>
+    <image src="../../images/lanhu_chexingguanli_2/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="group_9">
+    <view class="box_6">
+      <view class="group_10">
+        <text lines="1" class="text_4">卡宴</text>
+        <view class="text-wrapper_1">
+          <text lines="1" class="text_5">车型设置</text>
+        </view>
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_6">编辑</text>
+        </view>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_7">删除</text>
+        </view>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_8">Macan</text>
+      </view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_9">保时捷</text>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_10">保时捷</text>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_11">保时捷</text>
+      </view>
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_12">保时捷</text>
+      </view>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_13">保时捷</text>
+      </view>
+      <view class="text-wrapper_10">
+        <text lines="1" class="text_14">保时捷</text>
+      </view>
+      <view class="text-wrapper_11">
+        <text lines="1" class="text_15">保时捷</text>
+      </view>
+    </view>
+  </view>
+</view>

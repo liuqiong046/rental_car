@@ -1,0 +1,77 @@
+<view class="page">
+  <view class="group_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="box_1"></view>
+      </view>
+      <view class="group_3">
+        <view class="box_2"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_2">
+      <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_3">提前还车</text>
+      <view class="group_4">
+        <view class="group_5"></view>
+        <view class="group_6"></view>
+        <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_7">
+    <view class="block_3">
+      <view class="group_8">
+        <view class="box_3">
+          <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_2"></image>
+          <text lines="1" class="text_4">原还车时间</text>
+          <view class="image-text_1">
+            <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_3"></image>
+            <text lines="1" class="text-group_1">提前还车时间</text>
+          </view>
+        </view>
+        <view class="box_4">
+          <view class="block_4">
+            <view class="text-wrapper_1">
+              <text lines="1" class="text_5">7</text>
+              <text lines="1" class="text_6">月</text>
+              <text lines="1" class="text_7">10</text>
+              <text lines="1" class="text_8">日</text>
+            </view>
+            <view class="text-wrapper_2">
+              <text lines="1" class="text_9">周五</text>
+              <text lines="1" decode="true" class="text_10">&nbsp;09:30</text>
+            </view>
+          </view>
+          <text lines="1" class="text_11">请设置</text>
+        </view>
+      </view>
+    </view>
+    <view class="image-text_2">
+      <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_4"></image>
+      <text lines="1" decode="true" class="text-group_2">用户提前还车的时间与原订单结束时间间隔≤4小时，不退还租金费用。<br/>用户提前还车的时间与原订单结束时间间隔&gt;4小时，订单租金按提前还车的租期计算并退还同原订单租金的租金差额；但用户需承担提前还车违约罚金租金差额的20%或30%(如果未使用租期中含节假日)。<br/>如果未使用租期中不含节假日，提前还车的违约罚金最高不超过租客更改订单时订单未使用天数的日均租金的2倍。</text>
+    </view>
+    <view class="block_5">
+      <view class="section_1"></view>
+      <view class="section_2">
+        <view class="group_9">
+          <view class="text-wrapper_3">
+            <text lines="1" class="text_12">0</text>
+            <text lines="1" class="text_13">元</text>
+          </view>
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_14">需补付</text>
+          </view>
+        </view>
+        <view class="text-wrapper_5">
+          <text lines="1" class="text_15">提交客服确认</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_tiqianhaiche1_1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+  </view>
+</view>

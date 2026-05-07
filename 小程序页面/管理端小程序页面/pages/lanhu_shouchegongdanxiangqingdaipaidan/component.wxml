@@ -1,0 +1,96 @@
+<view class="page">
+  <view class="section_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="box_1"></view>
+      </view>
+      <view class="group_3">
+        <view class="section_2"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_shouchegongdanxiangqingdaipaidan/FigmaDDSSlicePNG7dd97eef3a390f826438312de1a4a7c8.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_4">
+      <image src="../../images/lanhu_shouchegongdanxiangqingdaipaidan/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">工单详情</text>
+      <view class="group_5">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_shouchegongdanxiangqingdaipaidan/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_3">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">排单</text>
+    </view>
+    <image src="../../images/lanhu_shouchegongdanxiangqingdaipaidan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="section_4">
+    <view class="block_1">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_5">收车</text>
+      </view>
+      <view class="image-text_1">
+        <view class="text-group_1">
+          <text lines="1" class="text_6">订单编号：</text>
+          <text lines="1" class="text_7">YC20250717125645</text>
+        </view>
+        <image src="../../images/lanhu_shouchegongdanxiangqingdaipaidan/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2"></image>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_8">待排单</text>
+      </view>
+    </view>
+    <view class="block_2"></view>
+    <view class="block_3">
+      <text lines="1" class="text_9">关联订单</text>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_10">[客户订单]</text>
+        <text lines="1" class="text_11">YC20250711123215</text>
+      </view>
+    </view>
+    <view class="block_4">
+      <text lines="1" class="text_12">用车人</text>
+      <text lines="1" decode="true" class="text_13">张三&nbsp;133344445555</text>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_shouchegongdanxiangqingdaipaidan/FigmaDDSSlicePNGdf0fd30f3f2484db084e54b4d284ef0c.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="block_5">
+      <text lines="1" class="text_14">车型</text>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_15">小米汽车</text>
+        <text lines="1" class="text_16">Su7</text>
+      </view>
+    </view>
+    <view class="block_6">
+      <view class="text-group_2">
+        <text lines="1" class="text_17">车牌号</text>
+        <text lines="1" class="text_18">司机</text>
+        <text lines="1" class="text_19">收车地址</text>
+      </view>
+      <view class="group_6">
+        <view class="text-wrapper_6">
+          <text lines="1" class="text_20">琼</text>
+          <text lines="1" class="text_21">A1289755</text>
+        </view>
+        <text lines="1" class="text_22">—</text>
+        <text lines="1" class="text_23">大理自族自治州大理市大理镇七里桥苍海-墅1期</text>
+      </view>
+    </view>
+    <view class="block_7">
+      <view class="text-group_3">
+        <text lines="1" class="text_24">收车方式</text>
+        <text lines="1" class="text_25">收车时间</text>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_26">上门送收</text>
+        <text lines="1" decode="true" class="text_27">2025-07-12&nbsp;10:00</text>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,28 @@
+<view class="page profile-phone-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="goBack">‹</button>
+    <text class="nav-title" style="margin-top: {{nav.menuOffset}}px;">修改手机号</text>
+  </view>
+
+  <view class="edit-card card">
+    <view class="row">
+      <text class="row-label">当前手机号</text>
+      <text class="row-value">{{profile.phone_mask || "未登录"}}</text>
+    </view>
+    <view class="divider"></view>
+    <view class="row">
+      <text class="row-label">新手机号</text>
+      <input value="{{phone}}" maxlength="11" type="number" placeholder="请输入新手机号" bindinput="onPhoneInput" />
+    </view>
+    <view class="divider"></view>
+    <view class="row row-code">
+      <text class="row-label">验证码</text>
+      <input value="{{verificationCode}}" maxlength="6" type="number" placeholder="请输入验证码" bindinput="onCodeInput" />
+      <button class="code-btn" loading="{{codeSending}}" bindtap="requestCode">获取验证码</button>
+    </view>
+  </view>
+
+  <view class="fixed-action">
+    <button class="btn-dark fixed-btn" loading="{{savingPhone}}" bindtap="savePhone">确认修改手机号</button>
+  </view>
+</view>

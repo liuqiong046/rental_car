@@ -1,0 +1,33 @@
+<view class="page">
+  <view class="box_1">
+    <text lines="1" class="text_1">工单情况登记</text>
+    <image src="../../images/lanhu_fucenggongdanqingkuangdengji/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_fucenggongdanqingkuangdengji/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="box_2">
+    <text lines="1" class="text_2">完成备注</text>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_3">例：靠近后挡风玻璃边缘中央，距离边缘约10cm处</text>
+    </view>
+    <view class="group_1">
+      <view class="block_1"></view>
+      <text lines="1" class="text_4">工单执行人</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_5">章三</text>
+    </view>
+    <view class="group_2">
+      <view class="section_1"></view>
+      <text lines="1" class="text_6">本次任务获得积分</text>
+    </view>
+    <view class="group_3">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_fucenggongdanqingkuangdengji/FigmaDDSSlicePNGdec6fe689bceaba5ce7cca5aedebf4e0.png" class="thumbnail_1"></image>
+      </view>
+      <text lines="1" class="text_7">添加图片</text>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_8">提交</text>
+    </view>
+  </view>
+</view>

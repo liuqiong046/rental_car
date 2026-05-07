@@ -1,0 +1,61 @@
+<view class="page">
+  <view class="box_1">
+    <view class="box_2">
+      <text lines="1" class="text_1">提前还车</text>
+      <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_2">原还车时间</text>
+    </view>
+  </view>
+  <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="box_3">
+    <view class="group_1">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_3">7</text>
+        <text lines="1" class="text_4">月</text>
+        <text lines="1" class="text_5">20</text>
+        <text lines="1" class="text_6">日</text>
+      </view>
+      <view class="block_1">
+        <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNGac212f011cf5b10be29c5c418e0988c0.png" class="thumbnail_1"></image>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_7">周五</text>
+          <text lines="1" decode="true" class="text_8">&nbsp;09:30</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_2">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_2"></image>
+      </view>
+      <view class="text-group_1">
+        <text lines="1" class="text_9">提前还车时间</text>
+        <text lines="1" decode="true" class="text_10">&nbsp;年/月/日&nbsp;&nbsp;--:--</text>
+      </view>
+      <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_3"></image>
+    </view>
+    <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNGede07533acd0731bb514c5a71a900573.png" class="image_2"></image>
+    <view class="group_3">
+      <text lines="1" class="text_11">租车费</text>
+      <view class="block_2">
+        <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNG5e1711de361b1b9bde4eac489f9cf4bd.png" class="thumbnail_4"></image>
+        <text lines="1" class="text_12">加</text>
+      </view>
+      <view class="block_3">
+        <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNG08144acc01115f4de32fcb189a80483e.png" class="thumbnail_5"></image>
+        <text lines="1" class="text_13">减</text>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_14">1000</text>
+      </view>
+      <text lines="1" class="text_15">元</text>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_16">保存</text>
+    </view>
+    <view class="image-wrapper_2">
+      <image src="../../images/lanhu_tiqianhaiche/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_6"></image>
+    </view>
+  </view>
+</view>

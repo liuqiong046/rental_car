@@ -1,0 +1,128 @@
+<view class="page">
+  <view class="block_1">
+    <text lines="1" class="text_1">修改订单金额</text>
+    <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="block_2">
+    <text lines="1" class="text_2">租金</text>
+    <view class="box_1">
+      <view class="section_1">
+        <view class="section_2">
+          <text lines="1" class="text_3">租车费</text>
+          <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG9dfa46c1d2f80a322774efb2c88de5dd.png" class="thumbnail_1"></image>
+        </view>
+        <text lines="1" class="text_4">送车上门服务费</text>
+        <text lines="1" class="text_5">上门收车服务费</text>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_6">500</text>
+        <text lines="1" class="text_7">元</text>
+        <text lines="1" decode="true" class="text_8">&nbsp;x&nbsp;2.0</text>
+        <text lines="1" class="text_9">天</text>
+      </view>
+      <view class="text-group_1">
+        <text lines="1" class="text_10">1000</text>
+        <text lines="1" class="text_11">80</text>
+        <text lines="1" class="text_12">20</text>
+      </view>
+      <view class="text-group_2">
+        <text lines="1" class="text_13">元</text>
+        <text lines="1" class="text_14">元</text>
+        <text lines="1" class="text_15">元</text>
+      </view>
+    </view>
+    <view class="box_2">
+      <text lines="1" class="text_16">渠道优惠</text>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNGdd68c51ed01a302e1af9497fd9ea6f99.png" class="thumbnail_2"></image>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_17">100</text>
+      </view>
+      <text lines="1" class="text_18">元</text>
+    </view>
+    <view class="box_3">
+      <text lines="1" class="text_19">渠道优惠</text>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNGdd68c51ed01a302e1af9497fd9ea6f99.png" class="thumbnail_3"></image>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_20">100</text>
+      </view>
+      <text lines="1" class="text_21">元</text>
+    </view>
+    <view class="box_4">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG8757a78465fc64746e4b469485bc0b82.png" class="thumbnail_4"></image>
+        <text lines="1" class="text-group_3">添加费用项</text>
+      </view>
+    </view>
+    <view class="box_5">
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG5352a661d52e2086e766fbb826ab339e.png" class="thumbnail_5"></image>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_22">请输入费用名称</text>
+      </view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_23">请输入金额</text>
+      </view>
+      <text lines="1" class="text_24">元</text>
+    </view>
+    <view class="box_6">
+      <view class="image-wrapper_4">
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG5352a661d52e2086e766fbb826ab339e.png" class="thumbnail_6"></image>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_25">请输入费用名称</text>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_26">请输入金额</text>
+      </view>
+      <text lines="1" class="text_27">元</text>
+    </view>
+    <view class="box_7"></view>
+    <view class="box_8">
+      <view class="image-wrapper_5">
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG9455e97832acee8422fc4a2ba1f6e4bc.png" class="thumbnail_7"></image>
+      </view>
+      <text lines="1" class="text_28">押金</text>
+    </view>
+    <view class="box_9">
+      <text lines="1" class="text_29">费用类型</text>
+      <view class="image-text_2">
+        <text lines="1" class="text-group_4">无需押金</text>
+        <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_8"></image>
+      </view>
+    </view>
+    <view class="box_10">
+      <text lines="1" class="text_30">车辆押金</text>
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_31">8000</text>
+      </view>
+      <text lines="1" class="text_32">元</text>
+    </view>
+    <view class="box_11">
+      <text lines="1" class="text_33">违章押金</text>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_34">3000</text>
+      </view>
+      <text lines="1" class="text_35">元</text>
+    </view>
+    <view class="box_12"></view>
+    <view class="box_13">
+      <text lines="1" class="text_36">租金总额</text>
+      <view class="text-wrapper_10">
+        <text lines="1" class="text_37">1100</text>
+        <text lines="1" decode="true" class="text_38">&nbsp;元</text>
+      </view>
+    </view>
+    <view class="text-wrapper_11">
+      <text lines="1" class="text_39">保存</text>
+    </view>
+    <view class="image-wrapper_6">
+      <image src="../../images/lanhu_fucengxiugaidingdanjine/FigmaDDSSlicePNG9455e97832acee8422fc4a2ba1f6e4bc.png" class="thumbnail_9"></image>
+    </view>
+  </view>
+</view>

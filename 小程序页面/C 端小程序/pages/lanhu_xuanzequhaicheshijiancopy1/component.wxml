@@ -1,0 +1,234 @@
+<view class="page">
+  <view class="box_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="box_2"></view>
+      <view class="box_3"></view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_xuanzequhaicheshijiancopy1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_2">
+      <image src="../../images/lanhu_xuanzequhaicheshijiancopy1/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <view class="box_4">
+        <view class="section_1"></view>
+        <view class="section_2"></view>
+        <image src="../../images/lanhu_xuanzequhaicheshijiancopy1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_5">
+    <view class="text-group_1">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_3">7</text>
+        <text lines="1" class="text_4">月</text>
+        <text lines="1" class="text_5">1</text>
+        <text lines="1" class="text_6">日</text>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_7">周五</text>
+        <text lines="1" decode="true" class="text_8">&nbsp;09:30</text>
+      </view>
+    </view>
+    <view class="box_6">
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_9">2</text>
+        <text lines="1" class="text_10" />
+        <text lines="1" class="text_11">天</text>
+        <text lines="1" class="text_12">13</text>
+        <text lines="1" class="text_13" />
+        <text lines="1" class="text_14">小时</text>
+      </view>
+    </view>
+    <view class="text-group_2">
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_15">7</text>
+        <text lines="1" class="text_16">月</text>
+        <text lines="1" class="text_17">3</text>
+        <text lines="1" class="text_18">日</text>
+      </view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_19">周日</text>
+        <text lines="1" decode="true" class="text_20">&nbsp;14:45</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_7">
+    <view class="box_8">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_21">2025</text>
+        <text lines="1" class="text_22">年</text>
+        <text lines="1" class="text_23">7</text>
+        <text lines="1" class="text_24">月</text>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_xuanzequhaicheshijiancopy1/FigmaDDSSlicePNGb0bac7810646a6b53cd637287bb7e0c6.png" class="thumbnail_2"></image>
+      </view>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_xuanzequhaicheshijiancopy1/FigmaDDSSlicePNG72f519ff25a387e5edf93e4f5e6946c5.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_25">日</text>
+      <text lines="1" class="text_26">一</text>
+      <text lines="1" class="text_27">二</text>
+      <text lines="1" class="text_28">三</text>
+      <text lines="1" class="text_29">四</text>
+      <text lines="1" class="text_30">五</text>
+      <text lines="1" class="text_31">六</text>
+    </view>
+    <view class="box_9">
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_32">1</text>
+      </view>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_33">2</text>
+      </view>
+      <view class="text-wrapper_10">
+        <text lines="1" class="text_34">3</text>
+      </view>
+      <view class="text-wrapper_11">
+        <text lines="1" class="text_35">4</text>
+      </view>
+      <view class="text-wrapper_12">
+        <text lines="1" class="text_36">5</text>
+      </view>
+    </view>
+    <view class="box_10">
+      <view class="text-wrapper_13">
+        <text lines="1" class="text_37">6</text>
+      </view>
+      <view class="text-wrapper_14">
+        <text lines="1" class="text_38">7</text>
+      </view>
+      <view class="text-wrapper_15">
+        <text lines="1" class="text_39">8</text>
+      </view>
+      <view class="text-wrapper_16">
+        <text lines="1" class="text_40">9</text>
+      </view>
+      <view class="text-wrapper_17">
+        <text lines="1" class="text_41">10</text>
+      </view>
+      <view class="text-wrapper_18">
+        <text lines="1" class="text_42">11</text>
+      </view>
+      <view class="text-wrapper_19">
+        <text lines="1" class="text_43">12</text>
+      </view>
+    </view>
+    <view class="box_11">
+      <view class="text-wrapper_20">
+        <text lines="1" class="text_44">13</text>
+      </view>
+      <view class="text-wrapper_21">
+        <text lines="1" class="text_45">14</text>
+      </view>
+      <view class="text-wrapper_22">
+        <text lines="1" class="text_46">15</text>
+      </view>
+      <view class="text-wrapper_23">
+        <text lines="1" class="text_47">16</text>
+      </view>
+      <view class="text-wrapper_24">
+        <text lines="1" class="text_48">17</text>
+      </view>
+      <view class="text-wrapper_25">
+        <text lines="1" class="text_49">18</text>
+      </view>
+      <view class="text-wrapper_26">
+        <text lines="1" class="text_50">19</text>
+      </view>
+    </view>
+    <view class="box_12">
+      <view class="text-wrapper_27">
+        <text lines="1" class="text_51">20</text>
+      </view>
+      <view class="text-wrapper_28">
+        <text lines="1" class="text_52">21</text>
+      </view>
+      <view class="text-wrapper_29">
+        <text lines="1" class="text_53">22</text>
+      </view>
+      <view class="text-wrapper_30">
+        <text lines="1" class="text_54">23</text>
+      </view>
+      <view class="text-wrapper_31">
+        <text lines="1" class="text_55">24</text>
+      </view>
+      <view class="text-wrapper_32">
+        <text lines="1" class="text_56">25</text>
+      </view>
+      <view class="text-wrapper_33">
+        <text lines="1" class="text_57">26</text>
+      </view>
+    </view>
+    <view class="box_13">
+      <view class="text-wrapper_34">
+        <text lines="1" class="text_58">27</text>
+      </view>
+      <view class="text-wrapper_35">
+        <text lines="1" class="text_59">28</text>
+      </view>
+      <view class="text-wrapper_36">
+        <text lines="1" class="text_60">29</text>
+      </view>
+      <view class="text-wrapper_37">
+        <text lines="1" class="text_61">30</text>
+      </view>
+      <view class="text-wrapper_38">
+        <text lines="1" class="text_62">31</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_14">
+    <view class="text-wrapper_39">
+      <text lines="1" class="text_63">取车时间</text>
+      <text lines="1" class="text_64">还车时间</text>
+    </view>
+    <view class="text-wrapper_40">
+      <text lines="1" class="text_65">08</text>
+      <text lines="1" class="text_66">10</text>
+      <text lines="1" class="text_67">08</text>
+      <text lines="1" class="text_68">10</text>
+    </view>
+    <view class="section_3">
+      <view class="text-wrapper_41">
+        <text lines="1" class="text_69">09</text>
+      </view>
+      <view class="group_1"></view>
+      <view class="text-wrapper_42">
+        <text lines="1" class="text_70">20</text>
+      </view>
+      <view class="text-wrapper_43">
+        <text lines="1" class="text_71">09</text>
+      </view>
+      <view class="group_2"></view>
+      <view class="text-wrapper_44">
+        <text lines="1" class="text_72">20</text>
+      </view>
+    </view>
+    <view class="text-wrapper_45">
+      <text lines="1" class="text_73">10</text>
+      <text lines="1" class="text_74">30</text>
+      <text lines="1" class="text_75">10</text>
+      <text lines="1" class="text_76">30</text>
+    </view>
+    <view class="text-wrapper_46">
+      <text lines="1" class="text_77">11</text>
+      <text lines="1" class="text_78">30</text>
+      <text lines="1" class="text_79">11</text>
+      <text lines="1" class="text_80">30</text>
+    </view>
+    <image src="../../images/lanhu_xuanzequhaicheshijiancopy1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    <view class="section_4">
+      <view class="text-wrapper_47">
+        <text lines="1" class="text_81">清空</text>
+      </view>
+      <view class="text-wrapper_48">
+        <text lines="1" class="text_82">确定</text>
+      </view>
+    </view>
+  </view>
+</view>

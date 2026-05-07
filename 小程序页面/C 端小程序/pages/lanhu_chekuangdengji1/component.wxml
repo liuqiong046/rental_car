@@ -1,0 +1,46 @@
+<view class="page">
+  <view class="section_1">
+    <view class="block_1">
+      <view class="section_2">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="group_1">
+          <view class="group_2"></view>
+        </view>
+        <view class="group_3">
+          <view class="section_3"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_chekuangdengji1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+      <view class="section_4">
+        <image src="../../images/lanhu_chekuangdengji1/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+        <text lines="1" class="text_3">车况登记</text>
+        <view class="box_1">
+          <view class="group_4"></view>
+          <view class="group_5"></view>
+          <image src="../../images/lanhu_chekuangdengji1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="image-text_1">
+        <image src="../../images/lanhu_chekuangdengji1/FigmaDDSSlicePNGa2dd8b2919484c4bcf8cff40deb731fc.png" class="thumbnail_2"></image>
+        <text lines="1" class="text-group_1">预计费用仅供参考，请以订单结算后的实际费用为准</text>
+      </view>
+      <view class="section_5">
+        <view class="group_6">
+          <view class="image-wrapper_2">
+            <image src="../../images/lanhu_chekuangdengji1/FigmaDDSSlicePNG7f51ddf2065087a460750e21b8874c0a.png" class="thumbnail_3"></image>
+          </view>
+          <text lines="1" class="text_4">添加车辆外观问题</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="section_6">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_5">提交还车人确认</text>
+    </view>
+    <image src="../../images/lanhu_chekuangdengji1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+</view>

@@ -1,0 +1,119 @@
+<view class="page">
+  <view class="group_1">
+    <view class="box_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="box_2"></view>
+      </view>
+      <view class="group_3">
+        <view class="group_4"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_3">
+      <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">工单详情</text>
+      <view class="group_5">
+        <view class="group_6"></view>
+        <view class="group_7"></view>
+        <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_8">
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <text lines="1" class="text_4-0">油量/电量/里程数</text>
+        <view class="image-text_1-0">
+          <text lines="1" class="text-group_1-0">待完善</text>
+          <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_2-0"></image>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <text lines="1" class="text_4-1">交接车车况</text>
+        <view class="image-text_1-1">
+          <text lines="1" class="text-group_1-1">待完善</text>
+          <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNGb402439c344aa9e4bfd5c6a7b4997b16.png" class="thumbnail_2-1"></image>
+        </view>
+      </view>
+    </view>
+    <view class="section_1">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_5">完成工单</text>
+      </view>
+      <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+  </view>
+  <view class="group_9">
+    <view class="group_10">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_6">还借车</text>
+      </view>
+      <view class="image-text_2">
+        <view class="text-group_2">
+          <text lines="1" class="text_7">订单编号：</text>
+          <text lines="1" class="text_8">YC20250717125645</text>
+        </view>
+        <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_3"></image>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_9">进行中</text>
+      </view>
+    </view>
+    <view class="group_11"></view>
+    <view class="group_12">
+      <text lines="1" class="text_10">关联订单</text>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_11">[客户订单]</text>
+        <text lines="1" class="text_12">YC20250711123215</text>
+      </view>
+    </view>
+    <view class="group_13">
+      <text lines="1" class="text_13">用车方</text>
+      <text lines="1" class="text_14">盈顺租车</text>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNGdf0fd30f3f2484db084e54b4d284ef0c.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+    <view class="group_14">
+      <text lines="1" class="text_15">车主行</text>
+      <text lines="1" class="text_16">山与海三亚运营中心</text>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_haijiechejinxingzhong/FigmaDDSSlicePNGdf0fd30f3f2484db084e54b4d284ef0c.png" class="thumbnail_5"></image>
+      </view>
+    </view>
+    <view class="group_15">
+      <text lines="1" class="text_17">车型</text>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_18">小米汽车</text>
+        <text lines="1" class="text_19">Su7</text>
+      </view>
+    </view>
+    <view class="group_16">
+      <text lines="1" class="text_20">车牌号</text>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_21">琼</text>
+        <text lines="1" class="text_22">A1289755</text>
+      </view>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_23">司机</text>
+      <text lines="1" class="text_24">—</text>
+    </view>
+    <view class="text-wrapper_8">
+      <text lines="1" class="text_25">还车地址</text>
+      <text lines="1" class="text_26">山与海三亚运营中心</text>
+    </view>
+    <view class="text-wrapper_9">
+      <text lines="1" class="text_27">还车方式</text>
+      <text lines="1" class="text_28">上门送收</text>
+    </view>
+    <view class="text-wrapper_10">
+      <text lines="1" class="text_29">还车时间</text>
+      <text lines="1" decode="true" class="text_30">2025-07-12&nbsp;10:00</text>
+    </view>
+  </view>
+</view>

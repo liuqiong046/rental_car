@@ -1,0 +1,6 @@
+name: rental-car
+
+# WF-P0-02 will replace these placeholders with runnable api, worker, mysql,
+# redis, nginx, and admin-web services.
+services: {}
+

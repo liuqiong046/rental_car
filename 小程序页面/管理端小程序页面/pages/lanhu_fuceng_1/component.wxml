@@ -1,0 +1,55 @@
+<view class="page">
+  <view class="box_1">
+    <text lines="1" class="text_1">派工单</text>
+    <image src="../../images/lanhu_fuceng_1/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_fuceng_1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="box_2">
+    <view class="box_3">
+      <view class="block_1"></view>
+      <text lines="1" class="text_2">工单类型</text>
+    </view>
+    <view class="box_4">
+      <view class="section_1"></view>
+      <text lines="1" class="text_3">执行时间</text>
+      <view class="section_2">
+        <view class="text-wrapper_1">
+          <text lines="1" class="text_4">2015</text>
+          <text lines="1" class="text_5">年</text>
+          <text lines="1" class="text_6">7</text>
+          <text lines="1" class="text_7">月</text>
+          <text lines="1" class="text_8">26</text>
+          <text lines="1" class="text_9">日</text>
+        </view>
+      </view>
+    </view>
+    <view class="box_5">
+      <view class="box_6"></view>
+      <text lines="1" class="text_10">工单执行人</text>
+      <view class="box_7">
+        <text lines="1" class="text_11">章三</text>
+        <image src="../../images/lanhu_fuceng_1/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <view class="box_8">
+      <text lines="1" class="text_12">服务地址</text>
+      <view class="group_1">
+        <text lines="1" decode="true" class="text_13">三亚市&nbsp;xxxxxxxx&nbsp;机场</text>
+        <image src="../../images/lanhu_fuceng_1/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_2"></image>
+      </view>
+    </view>
+    <view class="box_9">
+      <text lines="1" class="text_14">备注</text>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_15">请输入备注</text>
+      </view>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_16">派工单</text>
+    </view>
+    <view class="box_10">
+      <text lines="1" class="text_17">接人</text>
+      <image src="../../images/lanhu_fuceng_1/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_3"></image>
+    </view>
+  </view>
+</view>

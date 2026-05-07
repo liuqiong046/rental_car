@@ -1,0 +1,502 @@
+<view class="page">
+  <view class="section_1">
+    <view class="group_1">
+      <view class="group_2">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="block_1"></view>
+        <view class="block_2"></view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+      <view class="group_3">
+        <text lines="1" class="text_3">订单填写</text>
+        <view class="block_3">
+          <view class="group_4"></view>
+          <view class="group_5"></view>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">全部</text>
+        <text lines="1" class="text_5">进行中</text>
+        <text lines="1" class="text_6">已完成</text>
+        <text lines="1" class="text_7">已取消</text>
+      </view>
+      <view class="group_6">
+        <view class="section_2"></view>
+      </view>
+    </view>
+  </view>
+  <view class="section_3">
+    <view class="block_4">
+      <view class="block_5">
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_8">订单编号：</text>
+          <text lines="1" class="text_9">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_10">待支付租金</text>
+        </view>
+      </view>
+      <view class="block_6">
+        <view class="image-text_1">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG58db0ec61b20aad5f53f38fd6f5c4b46.png" class="thumbnail_2"></image>
+          <view class="text-group_1">
+            <text lines="1" class="text_11">日均限</text>
+            <text lines="1" class="text_12">300km</text>
+          </view>
+        </view>
+        <view class="image-text_2">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_3"></image>
+          <view class="text-group_2">
+            <text lines="1" class="text_13">湘</text>
+            <text lines="1" class="text_14">A</text>
+            <text lines="1" decode="true" class="text_15">&nbsp;••••</text>
+            <text lines="1" class="text_16">29</text>
+          </view>
+        </view>
+        <view class="image-text_3">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGfce0747bb4e8fa915c830e92bdc7ca51.png" class="image_2"></image>
+          <view class="text-group_3">
+            <text lines="1" class="text_17">小米汽车</text>
+            <text lines="1" class="text_18">SU7</text>
+          </view>
+        </view>
+      </view>
+      <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_3"></image>
+      <view class="block_7">
+        <view class="text-group_4">
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_19">7</text>
+            <text lines="1" class="text_20">月</text>
+            <text lines="1" class="text_21">18</text>
+            <text lines="1" class="text_22">日</text>
+          </view>
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_23">周五</text>
+            <text lines="1" class="text_24">9:30</text>
+          </view>
+        </view>
+        <view class="box_1">
+          <view class="text-wrapper_6">
+            <text lines="1" class="text_25">2</text>
+            <text lines="1" class="text_26" />
+            <text lines="1" class="text_27">天</text>
+            <text lines="1" class="text_28">13</text>
+            <text lines="1" decode="true" class="text_29">&nbsp;小时</text>
+          </view>
+        </view>
+        <view class="text-group_5">
+          <view class="text-wrapper_7">
+            <text lines="1" class="text_30">7</text>
+            <text lines="1" class="text_31">月</text>
+            <text lines="1" class="text_32">18</text>
+            <text lines="1" class="text_33">日</text>
+          </view>
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_34">周日</text>
+            <text lines="1" class="text_35">9:30</text>
+          </view>
+        </view>
+      </view>
+      <view class="block_8">
+        <view class="image-text_4">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG1d7c1b69decb733a0c3a7127e9978e54.png" class="image_4"></image>
+          <view class="text-group_6">
+            <text lines="1" class="text_36">自取</text>
+            <text lines="1" class="text_37">自还</text>
+          </view>
+        </view>
+        <view class="text-wrapper_9">
+          <text lines="1" class="text_38">海南省三亚市山海放心租运营中心</text>
+          <text lines="1" class="text_39">海南省三亚市山海放心租运营中心</text>
+        </view>
+      </view>
+      <view class="block_9">
+        <view class="text-wrapper_10">
+          <text lines="1" class="text_40">待支付租金</text>
+        </view>
+        <view class="text-wrapper_11">
+          <text lines="1" class="text_41">常见问题</text>
+        </view>
+      </view>
+    </view>
+    <view class="block_10">
+      <view class="group_7">
+        <view class="text-wrapper_12">
+          <text lines="1" class="text_42">订单编号：</text>
+          <text lines="1" class="text_43">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_13">
+          <text lines="1" class="text_44">待支付租金</text>
+        </view>
+      </view>
+      <view class="group_8">
+        <view class="image-text_5">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG58db0ec61b20aad5f53f38fd6f5c4b46.png" class="thumbnail_4"></image>
+          <view class="text-group_7">
+            <text lines="1" class="text_45">日均限</text>
+            <text lines="1" class="text_46">300km</text>
+          </view>
+        </view>
+        <view class="image-text_6">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_5"></image>
+          <view class="text-group_8">
+            <text lines="1" class="text_47">湘</text>
+            <text lines="1" class="text_48">A</text>
+            <text lines="1" decode="true" class="text_49">&nbsp;••••</text>
+            <text lines="1" class="text_50">29</text>
+          </view>
+        </view>
+        <view class="image-text_7">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGfce0747bb4e8fa915c830e92bdc7ca51.png" class="image_5"></image>
+          <view class="text-group_9">
+            <text lines="1" class="text_51">小米汽车</text>
+            <text lines="1" class="text_52">SU7</text>
+          </view>
+        </view>
+      </view>
+      <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_6"></image>
+      <view class="group_9">
+        <view class="text-group_10">
+          <view class="text-wrapper_14">
+            <text lines="1" class="text_53">7</text>
+            <text lines="1" class="text_54">月</text>
+            <text lines="1" class="text_55">18</text>
+            <text lines="1" class="text_56">日</text>
+          </view>
+          <view class="text-wrapper_15">
+            <text lines="1" class="text_57">周五</text>
+            <text lines="1" class="text_58">9:30</text>
+          </view>
+        </view>
+        <view class="group_10">
+          <view class="text-wrapper_16">
+            <text lines="1" class="text_59">2</text>
+            <text lines="1" class="text_60" />
+            <text lines="1" class="text_61">天</text>
+            <text lines="1" class="text_62">13</text>
+            <text lines="1" decode="true" class="text_63">&nbsp;小时</text>
+          </view>
+        </view>
+        <view class="text-group_11">
+          <view class="text-wrapper_17">
+            <text lines="1" class="text_64">7</text>
+            <text lines="1" class="text_65">月</text>
+            <text lines="1" class="text_66">18</text>
+            <text lines="1" class="text_67">日</text>
+          </view>
+          <view class="text-wrapper_18">
+            <text lines="1" class="text_68">周日</text>
+            <text lines="1" class="text_69">9:30</text>
+          </view>
+        </view>
+      </view>
+      <view class="group_11">
+        <view class="group_12">
+          <view class="box_2"></view>
+          <text lines="1" class="text_70">自取</text>
+          <text lines="1" class="text_71">海南省三亚市山海放心租运营中心</text>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG7d34d47b5edb13b8e59575ce884fe017.png" class="thumbnail_6"></image>
+        </view>
+        <view class="group_13">
+          <view class="section_4"></view>
+          <text lines="1" class="text_72">自还</text>
+          <text lines="1" class="text_73">海南省三亚市山海放心租运营中心</text>
+        </view>
+      </view>
+      <view class="group_14">
+        <view class="text-wrapper_19">
+          <text lines="1" class="text_74">待支付押金</text>
+        </view>
+        <view class="text-wrapper_20">
+          <text lines="1" class="text_75">常见问题</text>
+        </view>
+      </view>
+    </view>
+    <view class="block_11">
+      <view class="box_3">
+        <view class="text-wrapper_21">
+          <text lines="1" class="text_76">订单编号：</text>
+          <text lines="1" class="text_77">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_22">
+          <text lines="1" class="text_78">待还车</text>
+        </view>
+      </view>
+      <view class="box_4">
+        <view class="image-text_8">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG58db0ec61b20aad5f53f38fd6f5c4b46.png" class="thumbnail_7"></image>
+          <view class="text-group_12">
+            <text lines="1" class="text_79">日均限</text>
+            <text lines="1" class="text_80">300km</text>
+          </view>
+        </view>
+        <view class="image-text_9">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_8"></image>
+          <view class="text-group_13">
+            <text lines="1" class="text_81">湘</text>
+            <text lines="1" class="text_82">A</text>
+            <text lines="1" decode="true" class="text_83">&nbsp;••••</text>
+            <text lines="1" class="text_84">29</text>
+          </view>
+        </view>
+        <view class="image-text_10">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGfce0747bb4e8fa915c830e92bdc7ca51.png" class="image_7"></image>
+          <view class="text-group_14">
+            <text lines="1" class="text_85">小米汽车</text>
+            <text lines="1" class="text_86">SU7</text>
+          </view>
+        </view>
+      </view>
+      <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_8"></image>
+      <view class="box_5">
+        <view class="text-group_15">
+          <view class="text-wrapper_23">
+            <text lines="1" class="text_87">7</text>
+            <text lines="1" class="text_88">月</text>
+            <text lines="1" class="text_89">18</text>
+            <text lines="1" class="text_90">日</text>
+          </view>
+          <view class="text-wrapper_24">
+            <text lines="1" class="text_91">周五</text>
+            <text lines="1" class="text_92">9:30</text>
+          </view>
+        </view>
+        <view class="section_5">
+          <view class="text-wrapper_25">
+            <text lines="1" class="text_93">2</text>
+            <text lines="1" class="text_94" />
+            <text lines="1" class="text_95">天</text>
+            <text lines="1" class="text_96">13</text>
+            <text lines="1" decode="true" class="text_97">&nbsp;小时</text>
+          </view>
+        </view>
+        <view class="text-group_16">
+          <view class="text-wrapper_26">
+            <text lines="1" class="text_98">7</text>
+            <text lines="1" class="text_99">月</text>
+            <text lines="1" class="text_100">18</text>
+            <text lines="1" class="text_101">日</text>
+          </view>
+          <view class="text-wrapper_27">
+            <text lines="1" class="text_102">周日</text>
+            <text lines="1" class="text_103">9:30</text>
+          </view>
+        </view>
+      </view>
+      <view class="box_6">
+        <view class="box_7">
+          <view class="box_8"></view>
+          <text lines="1" class="text_104">自取</text>
+          <text lines="1" class="text_105">海南省三亚市山海放心租运营中心</text>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG7d34d47b5edb13b8e59575ce884fe017.png" class="thumbnail_9"></image>
+        </view>
+        <view class="box_9">
+          <view class="box_10"></view>
+          <text lines="1" class="text_106">自还</text>
+          <text lines="1" class="text_107">海南省三亚市山海放心租运营中心</text>
+        </view>
+      </view>
+      <view class="text-wrapper_28">
+        <text lines="1" class="text_108">常见问题</text>
+      </view>
+    </view>
+    <view class="block_12">
+      <view class="box_11">
+        <view class="text-wrapper_29">
+          <text lines="1" class="text_109">订单编号：</text>
+          <text lines="1" class="text_110">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_30">
+          <text lines="1" class="text_111">已完成</text>
+        </view>
+      </view>
+      <view class="box_12">
+        <view class="image-text_11">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG58db0ec61b20aad5f53f38fd6f5c4b46.png" class="thumbnail_10"></image>
+          <view class="text-group_17">
+            <text lines="1" class="text_112">日均限</text>
+            <text lines="1" class="text_113">300km</text>
+          </view>
+        </view>
+        <view class="image-text_12">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_11"></image>
+          <view class="text-group_18">
+            <text lines="1" class="text_114">湘</text>
+            <text lines="1" class="text_115">A</text>
+            <text lines="1" decode="true" class="text_116">&nbsp;••••</text>
+            <text lines="1" class="text_117">29</text>
+          </view>
+        </view>
+        <view class="image-text_13">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGfce0747bb4e8fa915c830e92bdc7ca51.png" class="image_9"></image>
+          <view class="text-group_19">
+            <text lines="1" class="text_118">小米汽车</text>
+            <text lines="1" class="text_119">SU7</text>
+          </view>
+        </view>
+      </view>
+      <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_10"></image>
+      <view class="box_13">
+        <view class="text-group_20">
+          <view class="text-wrapper_31">
+            <text lines="1" class="text_120">7</text>
+            <text lines="1" class="text_121">月</text>
+            <text lines="1" class="text_122">18</text>
+            <text lines="1" class="text_123">日</text>
+          </view>
+          <view class="text-wrapper_32">
+            <text lines="1" class="text_124">周五</text>
+            <text lines="1" class="text_125">9:30</text>
+          </view>
+        </view>
+        <view class="box_14">
+          <view class="text-wrapper_33">
+            <text lines="1" class="text_126">2</text>
+            <text lines="1" class="text_127" />
+            <text lines="1" class="text_128">天</text>
+            <text lines="1" class="text_129">13</text>
+            <text lines="1" decode="true" class="text_130">&nbsp;小时</text>
+          </view>
+        </view>
+        <view class="text-group_21">
+          <view class="text-wrapper_34">
+            <text lines="1" class="text_131">7</text>
+            <text lines="1" class="text_132">月</text>
+            <text lines="1" class="text_133">18</text>
+            <text lines="1" class="text_134">日</text>
+          </view>
+          <view class="text-wrapper_35">
+            <text lines="1" class="text_135">周日</text>
+            <text lines="1" class="text_136">9:30</text>
+          </view>
+        </view>
+      </view>
+      <view class="box_15">
+        <view class="section_6">
+          <view class="box_16"></view>
+          <text lines="1" class="text_137">自取</text>
+          <text lines="1" class="text_138">海南省三亚市山海放心租运营中心</text>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG7d34d47b5edb13b8e59575ce884fe017.png" class="thumbnail_12"></image>
+        </view>
+        <view class="section_7">
+          <view class="group_15"></view>
+          <text lines="1" class="text_139">自还</text>
+          <text lines="1" class="text_140">海南省三亚市山海放心租运营中心</text>
+        </view>
+      </view>
+      <view class="text-wrapper_36">
+        <text lines="1" class="text_141">删除订单</text>
+      </view>
+    </view>
+    <view class="block_13">
+      <view class="box_17">
+        <view class="text-wrapper_37">
+          <text lines="1" class="text_142">订单编号：</text>
+          <text lines="1" class="text_143">YC20250717125645</text>
+        </view>
+        <view class="text-wrapper_38">
+          <text lines="1" class="text_144">已取消</text>
+        </view>
+      </view>
+      <view class="box_18">
+        <view class="image-text_14">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG58db0ec61b20aad5f53f38fd6f5c4b46.png" class="thumbnail_13"></image>
+          <view class="text-group_22">
+            <text lines="1" class="text_145">日均限</text>
+            <text lines="1" class="text_146">300km</text>
+          </view>
+        </view>
+        <view class="image-text_15">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_14"></image>
+          <view class="text-group_23">
+            <text lines="1" class="text_147">湘</text>
+            <text lines="1" class="text_148">A</text>
+            <text lines="1" decode="true" class="text_149">&nbsp;••••</text>
+            <text lines="1" class="text_150">29</text>
+          </view>
+        </view>
+        <view class="image-text_16">
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGfce0747bb4e8fa915c830e92bdc7ca51.png" class="image_11"></image>
+          <view class="text-group_24">
+            <text lines="1" class="text_151">小米汽车</text>
+            <text lines="1" class="text_152">SU7</text>
+          </view>
+        </view>
+      </view>
+      <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG6b496bbefacc5c8a47c7c2ffd447bf70.png" class="image_12"></image>
+      <view class="box_19">
+        <view class="text-group_25">
+          <view class="text-wrapper_39">
+            <text lines="1" class="text_153">7</text>
+            <text lines="1" class="text_154">月</text>
+            <text lines="1" class="text_155">18</text>
+            <text lines="1" class="text_156">日</text>
+          </view>
+          <view class="text-wrapper_40">
+            <text lines="1" class="text_157">周五</text>
+            <text lines="1" class="text_158">9:30</text>
+          </view>
+        </view>
+        <view class="group_16">
+          <view class="text-wrapper_41">
+            <text lines="1" class="text_159">2</text>
+            <text lines="1" class="text_160" />
+            <text lines="1" class="text_161">天</text>
+            <text lines="1" class="text_162">13</text>
+            <text lines="1" decode="true" class="text_163">&nbsp;小时</text>
+          </view>
+        </view>
+        <view class="text-group_26">
+          <view class="text-wrapper_42">
+            <text lines="1" class="text_164">7</text>
+            <text lines="1" class="text_165">月</text>
+            <text lines="1" class="text_166">18</text>
+            <text lines="1" class="text_167">日</text>
+          </view>
+          <view class="text-wrapper_43">
+            <text lines="1" class="text_168">周日</text>
+            <text lines="1" class="text_169">9:30</text>
+          </view>
+        </view>
+      </view>
+      <view class="box_20">
+        <view class="group_17">
+          <view class="group_18"></view>
+          <text lines="1" class="text_170">自取</text>
+          <text lines="1" class="text_171">海南省三亚市山海放心租运营中心</text>
+          <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG7d34d47b5edb13b8e59575ce884fe017.png" class="thumbnail_15"></image>
+        </view>
+        <view class="group_19">
+          <view class="box_21"></view>
+          <text lines="1" class="text_172">自还</text>
+          <text lines="1" class="text_173">海南省三亚市山海放心租运营中心</text>
+        </view>
+      </view>
+      <view class="text-wrapper_44">
+        <text lines="1" class="text_174">删除订单</text>
+      </view>
+    </view>
+  </view>
+  <view class="section_8">
+    <view class="section_9"></view>
+    <view class="list_1">
+      <view class="image-text_17-0">
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG2abb6e035ee69ed96cec68447230a235.png" class="label_1-0"></image>
+        <text lines="1" class="text-group_27-0">首页</text>
+      </view>
+      <view class="image-text_17-1">
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNG96c140fdefeb2fe57cc1ee7a4ff8dee4.png" class="label_1-1"></image>
+        <text lines="1" class="text-group_27-1">订单</text>
+      </view>
+      <view class="image-text_17-2">
+        <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGd06f910d3e1bbda5a96c5d99ff6c03cb.png" class="label_1-2"></image>
+        <text lines="1" class="text-group_27-2">我的</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_quanbudingdan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_13"></image>
+  </view>
+</view>

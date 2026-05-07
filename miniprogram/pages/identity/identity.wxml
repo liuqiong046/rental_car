@@ -1,0 +1,46 @@
+<view class="page page-soft identity-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="goBack">‹</button>
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">身份认证</text>
+  </view>
+
+  <view wx:if="{{identity}}" class="card status-card">
+    <view class="status-row">
+      <view>
+        <view class="status-title">认证状态：{{identity.status}}</view>
+        <view class="muted">第 {{identity.version}} 次提交</view>
+      </view>
+      <view class="status-pill {{identity.status}}">{{identity.status}}</view>
+    </view>
+    <view class="muted">身份证：{{identity.id_no_mask}}</view>
+    <view class="muted">驾驶证：{{identity.driver_license_no_mask}}</view>
+    <view wx:if="{{identity.reject_reason}}" class="reject">
+      <view class="reject-title">审核未通过</view>
+      <view>{{identity.reject_reason}}</view>
+    </view>
+  </view>
+
+  <view class="card form-card">
+    <input value="{{form.real_name}}" data-key="real_name" bindinput="onInput" placeholder="姓名" />
+    <input value="{{form.id_no}}" data-key="id_no" bindinput="onInput" placeholder="身份证号" />
+    <input value="{{form.driver_license_no}}" data-key="driver_license_no" bindinput="onInput" placeholder="驾驶证号" />
+    <view class="upload-grid">
+      <view class="upload-card" data-key="id_card_front_url" bindtap="chooseImage">
+        <view class="upload-title">身份证人像面</view>
+        <view class="upload-value">{{form.id_card_front_url ? "已选择" : "选择图片"}}</view>
+        <button wx:if="{{form.id_card_front_url}}" catchtap="previewImage" data-key="id_card_front_url" class="preview-btn">预览</button>
+      </view>
+      <view class="upload-card" data-key="id_card_back_url" bindtap="chooseImage">
+        <view class="upload-title">身份证国徽面</view>
+        <view class="upload-value">{{form.id_card_back_url ? "已选择" : "选择图片"}}</view>
+        <button wx:if="{{form.id_card_back_url}}" catchtap="previewImage" data-key="id_card_back_url" class="preview-btn">预览</button>
+      </view>
+      <view class="upload-card" data-key="driver_license_url" bindtap="chooseImage">
+        <view class="upload-title">驾驶证照片</view>
+        <view class="upload-value">{{form.driver_license_url ? "已选择" : "选择图片"}}</view>
+        <button wx:if="{{form.driver_license_url}}" catchtap="previewImage" data-key="driver_license_url" class="preview-btn">预览</button>
+      </view>
+    </view>
+    <button class="btn-yellow submit-btn" bindtap="submit">{{identity.status === "rejected" ? "重新提交审核" : "提交审核"}}</button>
+  </view>
+</view>

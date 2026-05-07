@@ -1,0 +1,259 @@
+<view class="page">
+  <view class="section_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="box_1"></view>
+      <view class="box_2"></view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_2">
+      <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_3">提前还车</text>
+      <view class="box_3">
+        <view class="box_4"></view>
+        <view class="box_5"></view>
+        <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_2">
+    <view class="block_1">
+      <view class="box_6">
+        <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_2"></image>
+        <text lines="1" class="text_4">原还车时间</text>
+        <view class="image-text_1">
+          <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_3"></image>
+          <text lines="1" class="text-group_1">提前还车时间</text>
+        </view>
+      </view>
+      <view class="box_7">
+        <view class="group_3">
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_5">7</text>
+            <text lines="1" class="text_6">月</text>
+            <text lines="1" class="text_7">10</text>
+            <text lines="1" class="text_8">日</text>
+          </view>
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_9">周五</text>
+            <text lines="1" decode="true" class="text_10">&nbsp;09:30</text>
+          </view>
+        </view>
+        <text lines="1" class="text_11">请设置</text>
+      </view>
+    </view>
+  </view>
+  <view class="section_3">
+    <view class="block_2">
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_12">2025</text>
+        <text lines="1" class="text_13">年</text>
+        <text lines="1" class="text_14">7</text>
+        <text lines="1" class="text_15">月</text>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNGb0bac7810646a6b53cd637287bb7e0c6.png" class="thumbnail_4"></image>
+      </view>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNG72f519ff25a387e5edf93e4f5e6946c5.png" class="thumbnail_5"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_16">日</text>
+      <text lines="1" class="text_17">一</text>
+      <text lines="1" class="text_18">二</text>
+      <text lines="1" class="text_19">三</text>
+      <text lines="1" class="text_20">四</text>
+      <text lines="1" class="text_21">五</text>
+      <text lines="1" class="text_22">六</text>
+    </view>
+    <view class="block_3">
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_23">1</text>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_24">2</text>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_25">3</text>
+      </view>
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_26">4</text>
+      </view>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_27">5</text>
+      </view>
+    </view>
+    <view class="text-wrapper_10">
+      <text lines="1" class="text_28">￥500</text>
+      <text lines="1" class="text_29">￥400</text>
+      <text lines="1" class="text_30">￥400</text>
+      <text lines="1" class="text_31">￥400</text>
+      <text lines="1" class="text_32">￥400</text>
+    </view>
+    <view class="block_4">
+      <view class="text-wrapper_11">
+        <text lines="1" class="text_33">6</text>
+      </view>
+      <view class="text-wrapper_12">
+        <text lines="1" class="text_34">7</text>
+      </view>
+      <view class="text-wrapper_13">
+        <text lines="1" class="text_35">8</text>
+      </view>
+      <view class="text-wrapper_14">
+        <text lines="1" class="text_36">9</text>
+      </view>
+      <view class="text-wrapper_15">
+        <text lines="1" class="text_37">10</text>
+      </view>
+      <view class="text-wrapper_16">
+        <text lines="1" class="text_38">11</text>
+      </view>
+      <view class="text-wrapper_17">
+        <text lines="1" class="text_39">12</text>
+      </view>
+    </view>
+    <view class="text-wrapper_18">
+      <text lines="1" class="text_40">￥500</text>
+      <text lines="1" class="text_41">￥500</text>
+      <text lines="1" class="text_42">￥500</text>
+      <text lines="1" class="text_43">￥400</text>
+      <text lines="1" class="text_44">￥400</text>
+      <text lines="1" class="text_45">￥400</text>
+      <text lines="1" class="text_46">￥400</text>
+    </view>
+    <view class="block_5">
+      <view class="text-wrapper_19">
+        <text lines="1" class="text_47">13</text>
+      </view>
+      <view class="text-wrapper_20">
+        <text lines="1" class="text_48">14</text>
+      </view>
+      <view class="text-wrapper_21">
+        <text lines="1" class="text_49">15</text>
+      </view>
+      <view class="text-wrapper_22">
+        <text lines="1" class="text_50">16</text>
+      </view>
+      <view class="text-wrapper_23">
+        <text lines="1" class="text_51">17</text>
+      </view>
+      <view class="text-wrapper_24">
+        <text lines="1" class="text_52">18</text>
+      </view>
+      <view class="text-wrapper_25">
+        <text lines="1" class="text_53">19</text>
+      </view>
+    </view>
+    <view class="text-wrapper_26">
+      <text lines="1" class="text_54">￥500</text>
+      <text lines="1" class="text_55">￥500</text>
+      <text lines="1" class="text_56">￥500</text>
+      <text lines="1" class="text_57">￥400</text>
+      <text lines="1" class="text_58">￥400</text>
+      <text lines="1" class="text_59">￥400</text>
+      <text lines="1" class="text_60">￥400</text>
+    </view>
+    <view class="block_6">
+      <view class="text-wrapper_27">
+        <text lines="1" class="text_61">20</text>
+      </view>
+      <view class="text-wrapper_28">
+        <text lines="1" class="text_62">21</text>
+      </view>
+      <view class="text-wrapper_29">
+        <text lines="1" class="text_63">22</text>
+      </view>
+      <view class="text-wrapper_30">
+        <text lines="1" class="text_64">23</text>
+      </view>
+      <view class="text-wrapper_31">
+        <text lines="1" class="text_65">24</text>
+      </view>
+      <view class="text-wrapper_32">
+        <text lines="1" class="text_66">25</text>
+      </view>
+      <view class="text-wrapper_33">
+        <text lines="1" class="text_67">26</text>
+      </view>
+    </view>
+    <view class="text-wrapper_34">
+      <text lines="1" class="text_68">￥500</text>
+      <text lines="1" class="text_69">￥500</text>
+      <text lines="1" class="text_70">￥500</text>
+      <text lines="1" class="text_71">￥400</text>
+      <text lines="1" class="text_72">￥400</text>
+      <text lines="1" class="text_73">￥400</text>
+      <text lines="1" class="text_74">￥400</text>
+    </view>
+    <view class="block_7">
+      <view class="text-wrapper_35">
+        <text lines="1" class="text_75">27</text>
+      </view>
+      <view class="text-wrapper_36">
+        <text lines="1" class="text_76">28</text>
+      </view>
+      <view class="text-wrapper_37">
+        <text lines="1" class="text_77">29</text>
+      </view>
+      <view class="text-wrapper_38">
+        <text lines="1" class="text_78">30</text>
+      </view>
+      <view class="text-wrapper_39">
+        <text lines="1" class="text_79">31</text>
+      </view>
+    </view>
+    <view class="text-wrapper_40">
+      <text lines="1" class="text_80">￥400</text>
+    </view>
+    <view class="block_8">
+      <view class="group_4">
+        <view class="block_9"></view>
+        <text lines="1" class="text_81">原还车日期</text>
+        <view class="block_10"></view>
+        <text lines="1" class="text_82">全天可租</text>
+        <view class="block_11"></view>
+        <text lines="1" class="text_83">不可租</text>
+        <view class="image-text_2">
+          <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNGfaff807249c8d1bdf476fa991b1ef6fd.png" class="thumbnail_6"></image>
+          <text lines="1" class="text-group_2">部分时段可租</text>
+        </view>
+      </view>
+      <text lines="1" class="text_84">还车时间</text>
+      <view class="text-wrapper_41">
+        <text lines="1" class="text_85">08</text>
+        <text lines="1" class="text_86">10</text>
+      </view>
+      <view class="group_5">
+        <view class="text-wrapper_42">
+          <text lines="1" class="text_87">09</text>
+        </view>
+        <view class="group_6"></view>
+        <view class="text-wrapper_43">
+          <text lines="1" class="text_88">20</text>
+        </view>
+      </view>
+      <view class="text-wrapper_44">
+        <text lines="1" class="text_89">10</text>
+        <text lines="1" class="text_90">30</text>
+      </view>
+      <view class="group_7">
+        <text lines="1" class="text_91">11</text>
+        <text lines="1" class="text_92">40</text>
+        <view class="block_12">
+          <view class="text-wrapper_45">
+            <text lines="1" class="text_93">取消</text>
+          </view>
+          <view class="text-wrapper_46">
+            <text lines="1" class="text_94">确定</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <image src="../../images/lanhu_yanchihaicheshijianxuanzeshijian_1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

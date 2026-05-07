@@ -1,0 +1,351 @@
+<view class="page">
+  <view class="group_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="box_1"></view>
+      <view class="box_2"></view>
+      <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGbaf649d94dc5dec258c59ca243461cbd.png" class="image_1"></image>
+    </view>
+    <view class="block_2">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGd0291107f28555f57964bbb334eed4e5.png" class="thumbnail_1"></image>
+      </view>
+      <text lines="1" class="text_2">山海放心租</text>
+      <view class="group_2">
+        <view class="box_3"></view>
+        <view class="box_4"></view>
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_2"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_3">租车</text>
+      <text lines="1" class="text_4">游艇</text>
+      <text lines="1" class="text_5">别墅</text>
+      <text lines="1" class="text_6">水上项目</text>
+      <text lines="1" class="text_7">特产</text>
+    </view>
+    <view class="block_3">
+      <view class="group_3"></view>
+    </view>
+  </view>
+  <view class="group_4">
+    <view class="group_5">
+      <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG68944dd637e070b58e248fb02514feaf.png" class="image_2"></image>
+      <view class="group_6">
+        <view class="image-text_1">
+          <view class="text-group_1">
+            <text lines="1" class="text_8">阿那亚</text>
+            <text lines="1" class="text_9">当前定位</text>
+          </view>
+          <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG905376a8fae7d1844d46e73ad275a495.png" class="thumbnail_3"></image>
+        </view>
+        <view class="text-group_2">
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_10">7</text>
+            <text lines="1" class="text_11">月</text>
+            <text lines="1" class="text_12">18</text>
+            <text lines="1" class="text_13">日</text>
+          </view>
+          <view class="text-wrapper_3">
+            <text lines="1" class="text_14">周五</text>
+            <text lines="1" decode="true" class="text_15">&nbsp;10:00</text>
+          </view>
+        </view>
+        <view class="group_7">
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_16">共</text>
+            <text lines="1" class="text_17">2</text>
+            <text lines="1" class="text_18" />
+            <text lines="1" class="text_19">天</text>
+          </view>
+        </view>
+        <view class="text-group_3">
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_20">7</text>
+            <text lines="1" class="text_21">月</text>
+            <text lines="1" class="text_22">20</text>
+            <text lines="1" class="text_23">日</text>
+          </view>
+          <view class="text-wrapper_6">
+            <text lines="1" class="text_24">周日</text>
+            <text lines="1" decode="true" class="text_25">&nbsp;10:00</text>
+          </view>
+        </view>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_26">选择品牌</text>
+      </view>
+    </view>
+    <view class="group_8">
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_27">1/4</text>
+      </view>
+    </view>
+    <text lines="1" class="text_28">热门车型</text>
+    <view class="group_9">
+      <view class="box_5">
+        <view class="image-text_2">
+          <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGae7deb34e3971a43fd35862f1b2fd620.png" class="thumbnail_4"></image>
+          <text lines="1" class="text-group_4">阿尔法罗密欧</text>
+        </view>
+      </view>
+      <view class="box_6">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG23c127c2d84bd0de463819852f95295d.png" class="thumbnail_5"></image>
+        <text lines="1" class="text_29">小米SU7</text>
+        <view class="block_4"></view>
+      </view>
+      <view class="box_7">
+        <view class="image-text_3">
+          <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG95466161e55ffdef19ada9ad2cfc31cf.png" class="thumbnail_6"></image>
+          <text lines="1" class="text-group_5">奔驰E</text>
+        </view>
+      </view>
+    </view>
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="group_10-0">
+          <view class="box_8-0">
+            <text lines="1" class="text_30-0">小米</text>
+            <text lines="1" class="text_31-0">SU7</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG41290ed66898d3f7585b7ba1b965f8e0.png" class="thumbnail_7-0"></image>
+          </view>
+          <view class="box_9-0">
+            <text lines="1" class="text_32-0">海湾蓝</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_8-0"></image>
+            <view class="text-wrapper_9-0">
+              <text lines="1" class="text_33-0">轿车</text>
+              <text lines="1" class="text_34-0">5</text>
+              <text lines="1" class="text_35-0">座</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_9-0"></image>
+          </view>
+          <view class="image-text_4-0">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_10-0"></image>
+            <view class="text-group_6-0">
+              <text lines="1" class="text_36-0">湘</text>
+              <text lines="1" class="text_37-0">A</text>
+              <text lines="1" decode="true" class="text_38-0">&nbsp;••••</text>
+              <text lines="1" class="text_39-0">29</text>
+            </view>
+          </view>
+          <view class="box_10-0">
+            <view class="image-text_5-0">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_11-0"></image>
+              <text lines="1" class="text-group_7-0">自动挡</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_12-0"></image>
+            <text lines="1" class="text_40-0">纯电动</text>
+          </view>
+        </view>
+        <text lines="1" class="text_41-0">10.4km</text>
+        <view class="group_11-0">
+          <view class="image-text_6-0">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGeb4e034c78cf8d34e357e33ed589f431.png" class="image_3-0"></image>
+            <view class="text-group_8-0">
+              <text lines="1" class="text_42-0">197</text>
+              <text lines="1" class="text_43-0">元</text>
+            </view>
+          </view>
+          <text lines="1" class="text_44-0">/每天</text>
+          <view class="block_5-0">
+            <view class="image-text_7-0">
+              <text lines="1" class="text-group_9-0">预定</text>
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG25b236f5598c86239d0756573543747d.png" class="thumbnail_13-0"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="group_10-1">
+          <view class="box_8-1">
+            <text lines="1" class="text_30-1">小米</text>
+            <text lines="1" class="text_31-1">SU7</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG41290ed66898d3f7585b7ba1b965f8e0.png" class="thumbnail_7-1"></image>
+          </view>
+          <view class="box_9-1">
+            <text lines="1" class="text_32-1">海湾蓝</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_8-1"></image>
+            <view class="text-wrapper_9-1">
+              <text lines="1" class="text_33-1">轿车</text>
+              <text lines="1" class="text_34-1">5</text>
+              <text lines="1" class="text_35-1">座</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_9-1"></image>
+          </view>
+          <view class="image-text_4-1">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_10-1"></image>
+            <view class="text-group_6-1">
+              <text lines="1" class="text_36-1">湘</text>
+              <text lines="1" class="text_37-1">A</text>
+              <text lines="1" decode="true" class="text_38-1">&nbsp;••••</text>
+              <text lines="1" class="text_39-1">29</text>
+            </view>
+          </view>
+          <view class="box_10-1">
+            <view class="image-text_5-1">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_11-1"></image>
+              <text lines="1" class="text-group_7-1">自动挡</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_12-1"></image>
+            <text lines="1" class="text_40-1">纯电动</text>
+          </view>
+        </view>
+        <text lines="1" class="text_41-1">10.4km</text>
+        <view class="group_11-1">
+          <view class="image-text_6-1">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGba3480d0b4f619bcb8c9c328638a7512.png" class="image_3-1"></image>
+            <view class="text-group_8-1">
+              <text lines="1" class="text_42-1">197</text>
+              <text lines="1" class="text_43-1">元</text>
+            </view>
+          </view>
+          <text lines="1" class="text_44-1">/每天</text>
+          <view class="block_5-1">
+            <view class="image-text_7-1">
+              <text lines="1" class="text-group_9-1">预定</text>
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG25b236f5598c86239d0756573543747d.png" class="thumbnail_13-1"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-2">
+        <view class="group_10-2">
+          <view class="box_8-2">
+            <text lines="1" class="text_30-2">小米</text>
+            <text lines="1" class="text_31-2">SU7</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG41290ed66898d3f7585b7ba1b965f8e0.png" class="thumbnail_7-2"></image>
+          </view>
+          <view class="box_9-2">
+            <text lines="1" class="text_32-2">海湾蓝</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_8-2"></image>
+            <view class="text-wrapper_9-2">
+              <text lines="1" class="text_33-2">轿车</text>
+              <text lines="1" class="text_34-2">5</text>
+              <text lines="1" class="text_35-2">座</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_9-2"></image>
+          </view>
+          <view class="image-text_4-2">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_10-2"></image>
+            <view class="text-group_6-2">
+              <text lines="1" class="text_36-2">湘</text>
+              <text lines="1" class="text_37-2">A</text>
+              <text lines="1" decode="true" class="text_38-2">&nbsp;••••</text>
+              <text lines="1" class="text_39-2">29</text>
+            </view>
+          </view>
+          <view class="box_10-2">
+            <view class="image-text_5-2">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_11-2"></image>
+              <text lines="1" class="text-group_7-2">自动挡</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_12-2"></image>
+            <text lines="1" class="text_40-2">纯电动</text>
+          </view>
+        </view>
+        <text lines="1" class="text_41-2">10.4km</text>
+        <view class="group_11-2">
+          <view class="image-text_6-2">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGeb4e034c78cf8d34e357e33ed589f431.png" class="image_3-2"></image>
+            <view class="text-group_8-2">
+              <text lines="1" class="text_42-2">197</text>
+              <text lines="1" class="text_43-2">元</text>
+            </view>
+          </view>
+          <text lines="1" class="text_44-2">/每天</text>
+          <view class="block_5-2">
+            <view class="image-text_7-2">
+              <text lines="1" class="text-group_9-2">预定</text>
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG25b236f5598c86239d0756573543747d.png" class="thumbnail_13-2"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-3">
+        <view class="group_10-3">
+          <view class="box_8-3">
+            <text lines="1" class="text_30-3">小米</text>
+            <text lines="1" class="text_31-3">SU7</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG41290ed66898d3f7585b7ba1b965f8e0.png" class="thumbnail_7-3"></image>
+          </view>
+          <view class="box_9-3">
+            <text lines="1" class="text_32-3">海湾蓝</text>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_8-3"></image>
+            <view class="text-wrapper_9-3">
+              <text lines="1" class="text_33-3">轿车</text>
+              <text lines="1" class="text_34-3">5</text>
+              <text lines="1" class="text_35-3">座</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_9-3"></image>
+          </view>
+          <view class="image-text_4-3">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_10-3"></image>
+            <view class="text-group_6-3">
+              <text lines="1" class="text_36-3">湘</text>
+              <text lines="1" class="text_37-3">A</text>
+              <text lines="1" decode="true" class="text_38-3">&nbsp;••••</text>
+              <text lines="1" class="text_39-3">29</text>
+            </view>
+          </view>
+          <view class="box_10-3">
+            <view class="image-text_5-3">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_11-3"></image>
+              <text lines="1" class="text-group_7-3">自动挡</text>
+            </view>
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_12-3"></image>
+            <text lines="1" class="text_40-3">纯电动</text>
+          </view>
+        </view>
+        <text lines="1" class="text_41-3">10.4km</text>
+        <view class="group_11-3">
+          <view class="image-text_6-3">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGba3480d0b4f619bcb8c9c328638a7512.png" class="image_3-3"></image>
+            <view class="text-group_8-3">
+              <text lines="1" class="text_42-3">197</text>
+              <text lines="1" class="text_43-3">元</text>
+            </view>
+          </view>
+          <text lines="1" class="text_44-3">/每天</text>
+          <view class="block_5-3">
+            <view class="image-text_7-3">
+              <text lines="1" class="text-group_9-3">预定</text>
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG25b236f5598c86239d0756573543747d.png" class="thumbnail_13-3"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="image-text_8">
+      <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG21b9a59e9f92d2f9a59f9d3d0e626e20.png" class="thumbnail_14"></image>
+      <text lines="1" class="text-group_10">加载中</text>
+    </view>
+    <view class="image-text_9">
+      <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa147f056998645d0d2f1bbbbc0210852.png" class="label_1"></image>
+      <text lines="1" class="text-group_11">租用高端车，就用山海放心租</text>
+    </view>
+    <view class="group_12">
+      <view class="image-text_10">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG909b676315836eabb5c511c4c5fa5f7d.png" class="thumbnail_15"></image>
+        <text lines="1" class="text-group_12">大众</text>
+      </view>
+    </view>
+  </view>
+  <view class="group_13">
+    <view class="box_11"></view>
+    <view class="list_2">
+      <view class="image-text_11-0">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG2675d32530de7c4f762884e2e4ab7cfc.png" class="label_2-0"></image>
+        <text lines="1" class="text-group_13-0">首页</text>
+      </view>
+      <view class="image-text_11-1">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGb72c9df845cc1b6fcc50ce465fbd13ce.png" class="label_2-1"></image>
+        <text lines="1" class="text-group_13-1">订单</text>
+      </view>
+      <view class="image-text_11-2">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGd06f910d3e1bbda5a96c5d99ff6c03cb.png" class="label_2-2"></image>
+        <text lines="1" class="text-group_13-2">我的</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_4"></image>
+  </view>
+</view>

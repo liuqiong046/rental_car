@@ -1,0 +1,62 @@
+<view class="page">
+  <view class="section_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="section_2">
+        <view class="group_1"></view>
+      </view>
+      <view class="section_3">
+        <view class="box_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_fuwutousuxiangqing/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_2">
+      <image src="../../images/lanhu_fuwutousuxiangqing/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">投诉详情</text>
+      <view class="block_3">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_fuwutousuxiangqing/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_4">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">投诉分类</text>
+      <text lines="1" class="text_5">服务投诉</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_6">投诉司机</text>
+      <text lines="1" class="text_7">张三</text>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_8">累计被投诉次数</text>
+      <text lines="1" class="text_9">9</text>
+    </view>
+    <view class="list_1">
+      <view class="text-wrapper_4-0">
+        <text lines="1" class="text_10-0">关联订单</text>
+        <text lines="1" class="text_11-0">投诉问题</text>
+      </view>
+      <view class="text-wrapper_4-1">
+        <text lines="1" class="text_10-1">YC20250717125645</text>
+        <text lines="1" class="text_11-1">验车流程不规范</text>
+      </view>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_12">投诉原因</text>
+      <text lines="1" class="text_13">验车过程仓促、马虎、不按标准流程操作，对损伤的描述、定位、拍照不准确或不清晰，未清晰向客户解释验车结果（特别是损伤情况）或未获得客户即时确认</text>
+    </view>
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_14">创建人</text>
+      <text lines="1" class="text_15">赵雨</text>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_16">创建时间</text>
+      <text lines="1" decode="true" class="text_17">2025-08-03&nbsp;06:35</text>
+    </view>
+  </view>
+</view>

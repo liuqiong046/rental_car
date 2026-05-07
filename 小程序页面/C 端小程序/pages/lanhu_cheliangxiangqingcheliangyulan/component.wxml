@@ -1,0 +1,165 @@
+<view class="page">
+  <view class="group_1">
+    <view class="box_1">
+      <view class="box_2">
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_cheliangxiangqingcheliangyulan/FigmaDDSSlicePNG9d11d024b290901e2c9b4255e7465f3f.png" class="thumbnail_1"></image>
+        </view>
+        <view class="image-text_1">
+          <image src="../../images/lanhu_cheliangxiangqingcheliangyulan/FigmaDDSSlicePNG24eab9be1519aba48ae58fd37186c3e5.png" class="thumbnail_2"></image>
+          <text lines="1" class="text-group_1">价格日历</text>
+        </view>
+      </view>
+      <view class="box_3">
+        <view class="text-wrapper_1">
+          <text lines="1" class="text_1">2025</text>
+          <text lines="1" class="text_2">年</text>
+          <text lines="1" class="text_3">7</text>
+          <text lines="1" class="text_4">月</text>
+        </view>
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_cheliangxiangqingcheliangyulan/FigmaDDSSlicePNGb0bac7810646a6b53cd637287bb7e0c6.png" class="thumbnail_3"></image>
+        </view>
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_cheliangxiangqingcheliangyulan/FigmaDDSSlicePNG72f519ff25a387e5edf93e4f5e6946c5.png" class="thumbnail_4"></image>
+        </view>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_5">日</text>
+        <text lines="1" class="text_6">一</text>
+        <text lines="1" class="text_7">二</text>
+        <text lines="1" class="text_8">三</text>
+        <text lines="1" class="text_9">四</text>
+        <text lines="1" class="text_10">五</text>
+        <text lines="1" class="text_11">六</text>
+      </view>
+      <view class="grid_1">
+        <view class="text-wrapper_3-0">
+          <text lines="1" class="text_12-0">1</text>
+          <text lines="1" class="text_13-0">￥500</text>
+        </view>
+        <view class="text-wrapper_3-1">
+          <text lines="1" class="text_12-1">2</text>
+          <text lines="1" class="text_13-1">￥400</text>
+        </view>
+        <view class="text-wrapper_3-2">
+          <text lines="1" class="text_12-2">3</text>
+          <text lines="1" class="text_13-2">￥400</text>
+        </view>
+        <view class="text-wrapper_3-3">
+          <text lines="1" class="text_12-3">4</text>
+          <text lines="1" class="text_13-3">￥400</text>
+        </view>
+        <view class="text-wrapper_3-4">
+          <text lines="1" class="text_12-4">5</text>
+          <text lines="1" class="text_13-4">￥400</text>
+        </view>
+        <view class="text-wrapper_3-5">
+          <text lines="1" class="text_12-5">6</text>
+          <text lines="1" class="text_13-5">￥500</text>
+        </view>
+        <view class="text-wrapper_3-6">
+          <text lines="1" class="text_12-6">7</text>
+          <text lines="1" class="text_13-6">￥500</text>
+        </view>
+        <view class="text-wrapper_3-7">
+          <text lines="1" class="text_12-7">8</text>
+          <text lines="1" class="text_13-7">￥500</text>
+        </view>
+        <view class="text-wrapper_3-8">
+          <text lines="1" class="text_12-8">9</text>
+          <text lines="1" class="text_13-8">￥400</text>
+        </view>
+        <view class="text-wrapper_3-9">
+          <text lines="1" class="text_12-9">10</text>
+          <text lines="1" class="text_13-9">未设置</text>
+        </view>
+        <view class="text-wrapper_3-10">
+          <text lines="1" class="text_12-10">11</text>
+          <text lines="1" class="text_13-10">未设置</text>
+        </view>
+        <view class="text-wrapper_3-11">
+          <text lines="1" class="text_12-11">12</text>
+          <text lines="1" class="text_13-11">￥400</text>
+        </view>
+        <view class="text-wrapper_3-12">
+          <text lines="1" class="text_12-12">13</text>
+          <text lines="1" class="text_13-12">￥500</text>
+        </view>
+        <view class="text-wrapper_3-13">
+          <text lines="1" class="text_12-13">14</text>
+          <text lines="1" class="text_13-13">￥500</text>
+        </view>
+        <view class="text-wrapper_3-14">
+          <text lines="1" class="text_12-14">15</text>
+          <text lines="1" class="text_13-14">￥500</text>
+        </view>
+        <view class="text-wrapper_3-15">
+          <text lines="1" class="text_12-15">16</text>
+          <text lines="1" class="text_13-15">￥400</text>
+        </view>
+        <view class="text-wrapper_3-16">
+          <text lines="1" class="text_12-16">17</text>
+          <text lines="1" class="text_13-16">￥400</text>
+        </view>
+        <view class="text-wrapper_3-17">
+          <text lines="1" class="text_12-17">18</text>
+          <text lines="1" class="text_13-17">￥400</text>
+        </view>
+        <view class="text-wrapper_3-18">
+          <text lines="1" class="text_12-18">19</text>
+          <text lines="1" class="text_13-18">￥400</text>
+        </view>
+        <view class="text-wrapper_3-19">
+          <text lines="1" class="text_12-19">20</text>
+          <text lines="1" class="text_13-19">￥500</text>
+        </view>
+        <view class="text-wrapper_3-20">
+          <text lines="1" class="text_12-20">21</text>
+          <text lines="1" class="text_13-20">￥500</text>
+        </view>
+        <view class="text-wrapper_3-21">
+          <text lines="1" class="text_12-21">22</text>
+          <text lines="1" class="text_13-21">￥500</text>
+        </view>
+        <view class="text-wrapper_3-22">
+          <text lines="1" class="text_12-22">23</text>
+          <text lines="1" class="text_13-22">￥400</text>
+        </view>
+        <view class="text-wrapper_3-23">
+          <text lines="1" class="text_12-23">24</text>
+          <text lines="1" class="text_13-23">￥400</text>
+        </view>
+        <view class="text-wrapper_3-24">
+          <text lines="1" class="text_12-24">25</text>
+          <text lines="1" class="text_13-24">￥400</text>
+        </view>
+        <view class="text-wrapper_3-25">
+          <text lines="1" class="text_12-25">26</text>
+          <text lines="1" class="text_13-25">￥400</text>
+        </view>
+        <view class="text-wrapper_3-26">
+          <text lines="1" class="text_12-26">27</text>
+          <text lines="1" class="text_13-26">￥500</text>
+        </view>
+        <view class="text-wrapper_3-27">
+          <text lines="1" class="text_12-27">28</text>
+          <text lines="1" class="text_13-27">￥500</text>
+        </view>
+        <view class="text-wrapper_3-28">
+          <text lines="1" class="text_12-28">29</text>
+          <text lines="1" class="text_13-28">￥500</text>
+        </view>
+        <view class="text-wrapper_3-29">
+          <text lines="1" class="text_12-29">30</text>
+          <text lines="1" class="text_13-29">￥400</text>
+        </view>
+        <view class="text-wrapper_3-30">
+          <text lines="1" class="text_12-30">31</text>
+          <text lines="1" class="text_13-30">￥400</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_cheliangxiangqingcheliangyulan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+    </view>
+  </view>
+</view>

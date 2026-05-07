@@ -1,0 +1,117 @@
+<view class="page">
+  <view class="section_1">
+    <view class="group_1">
+      <view class="box_1">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="group_2">
+          <view class="section_2"></view>
+        </view>
+        <view class="group_3">
+          <view class="box_2"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+      <view class="box_3">
+        <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+        <text lines="1" class="text_3">油量/电量/里程数</text>
+        <view class="box_4">
+          <view class="group_4"></view>
+          <view class="group_5"></view>
+          <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="box_5">
+        <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG2e3147e832da33ad60fc7f4f4967fac1.png" class="thumbnail_2"></image>
+        <text lines="1" decode="true" class="text_4">&nbsp;车牌号</text>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_5">琼</text>
+        <text lines="1" class="text_6">B</text>
+        <text lines="1" class="text_7">号</text>
+        <text lines="1" class="text_8">894J9X</text>
+      </view>
+      <view class="box_6">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG41d16dc0de0e34cdc124f5a449640bbd.png" class="thumbnail_3"></image>
+        </view>
+        <text lines="1" class="text_9">油费差价</text>
+      </view>
+    </view>
+  </view>
+  <view class="section_3">
+    <view class="section_4">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_10">取车时剩余油量</text>
+        <text lines="1" class="text_11">当日油品价格</text>
+        <text lines="1" class="text_12">车辆油箱容积/升</text>
+      </view>
+      <text lines="1" class="text_13">4</text>
+      <view class="group_6">
+        <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG3929c5b186ea523cbbbe675e5486f142.png" class="thumbnail_4"></image>
+        <text lines="1" class="text_14">7.8</text>
+      </view>
+      <view class="text-group_1">
+        <text lines="1" class="text_15">8</text>
+        <text lines="1" class="text_16">元/升</text>
+        <text lines="1" class="text_17">64</text>
+      </view>
+    </view>
+    <view class="section_5">
+      <text lines="1" class="text_18">车辆使用油品</text>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_19">92</text>
+        <text lines="1" class="text_20">号汽油</text>
+      </view>
+      <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGa382352607c2d4083bfd674ea4cbbdf0.png" class="label_2"></image>
+    </view>
+    <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_2"></image>
+    <view class="section_6">
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG645f9a2e3aa85c51d0dedc5793b6ed7f.png" class="thumbnail_5"></image>
+      </view>
+      <text lines="1" class="text_21">电量</text>
+    </view>
+    <view class="section_7">
+      <view class="text-group_2">
+        <text lines="1" class="text_22">取(送)时车辆的电池剩余续航里程数</text>
+        <text lines="1" class="text_23">当日商用充电桩电价</text>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_24">24235</text>
+        <text lines="1" class="text_25">0.4</text>
+      </view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_26">km</text>
+        <text lines="1" class="text_27">元/公里</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_3"></image>
+    <view class="section_8">
+      <view class="image-wrapper_4">
+        <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGd4cc75ffcc0bb87f07ef986338b876c5.png" class="thumbnail_6"></image>
+      </view>
+      <text lines="1" class="text_28">里程数</text>
+    </view>
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_29">取(送)时里程数</text>
+      <text lines="1" class="text_30">9865</text>
+      <text lines="1" class="text_31">km</text>
+    </view>
+    <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_4"></image>
+    <text lines="1" class="text_32">照片</text>
+    <view class="image-wrapper_5">
+      <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc435d87a95bac0c498324552585b1af5.png" class="image_5-0"></image>
+      <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc435d87a95bac0c498324552585b1af5.png" class="image_5-1"></image>
+      <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc435d87a95bac0c498324552585b1af5.png" class="image_5-2"></image>
+      <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGc435d87a95bac0c498324552585b1af5.png" class="image_5-3"></image>
+    </view>
+    <text lines="1" class="text_33">取车人签字确认</text>
+    <view class="image-wrapper_6">
+      <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNG6f3996c2375b843db7695c6a19b774c7.png" class="image_6"></image>
+    </view>
+  </view>
+  <image src="../../images/lanhu_haishoucheyouliangdianlianglichengshuyiqueren/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_7"></image>
+</view>

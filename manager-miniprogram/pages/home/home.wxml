@@ -1,0 +1,132 @@
+<view class="page home-page">
+  <view class="hero-panel">
+    <view class="operator-row">
+      <image class="operator-avatar" src="../../assets/lanhu_shouye/avatar.png" mode="aspectFill"></image>
+      <view class="operator-copy">
+        <text class="operator-brand">{{operator.brand}}</text>
+        <text class="operator-center">{{operator.center}}</text>
+      </view>
+      <view class="operator-switch" bindtap="openFeature" data-name="运营中心切换">
+        <image class="operator-switch-icon" src="../../assets/lanhu_shouye/switch.png" mode="aspectFit"></image>
+      </view>
+    </view>
+
+    <view class="entry-row">
+      <view
+        wx:for="{{entries}}"
+        wx:key="id"
+        class="entry-card {{item.theme}}"
+        data-name="{{item.title}}"
+        bindtap="openFeature"
+      >
+        <text class="entry-title">{{item.title}}</text>
+        <image class="entry-art" src="{{item.image}}" mode="aspectFit"></image>
+      </view>
+    </view>
+  </view>
+
+  <view class="content-area">
+    <view class="section-title-row todo-title-row">
+      <text class="section-title">待办工单</text>
+      <view class="mine-filter {{onlyMine ? 'is-active' : ''}}" bindtap="toggleMine">
+        <view class="filter-check"></view>
+        <text class="mine-filter-text">只看我的任务</text>
+      </view>
+    </view>
+
+    <view class="todo-panel">
+      <view
+        wx:for="{{todoOrders}}"
+        wx:key="id"
+        class="todo-card {{index === 0 ? 'is-featured' : 'is-compact'}}"
+        data-name="{{item.action}}"
+        bindtap="openTodo"
+      >
+        <view class="todo-accent"></view>
+        <view class="todo-card-body">
+          <view class="todo-main">
+            <view class="vehicle-image-box">
+              <image class="vehicle-image" src="{{item.vehicleIcon}}" mode="aspectFit"></image>
+            </view>
+            <view class="vehicle-info">
+              <view class="vehicle-title">
+                <text>{{item.brand}}</text>
+                <text wx:if="{{item.model}}" class="vehicle-model">{{item.model}}</text>
+              </view>
+              <view class="plate-line">
+                <image class="plate-icon" src="../../assets/lanhu_shouye/plate.png" mode="aspectFit"></image>
+                <text>{{item.plateMask}}</text>
+              </view>
+            </view>
+            <view class="todo-status">{{item.status}}</view>
+          </view>
+
+          <view wx:if="{{item.route}}" class="route-block">
+            <view class="route-row">
+              <view class="route-dot"></view>
+              <text class="route-time">{{item.pickupAt}}</text>
+              <text class="route-place">{{item.pickupAddress}}</text>
+            </view>
+            <view class="route-row">
+              <view class="route-dot is-filled"></view>
+              <text class="route-time">{{item.returnAt}}</text>
+              <text class="route-place">{{item.returnAddress}}</text>
+            </view>
+          </view>
+
+          <view wx:else class="compact-extra">
+            <text class="compact-order">订单编号：{{item.orderNo}}</text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view class="agenda">
+      <view wx:for="{{agendaGroups}}" wx:key="date" class="agenda-group">
+        <view class="agenda-date-row">
+          <image class="date-icon" src="../../assets/lanhu_shouye/date-dot.png" mode="aspectFit"></image>
+          <text class="agenda-date-text">{{item.month}} 月 {{item.day}} 日</text>
+        </view>
+
+        <view
+          wx:for="{{item.items}}"
+          wx:for-item="task"
+          wx:key="id"
+          class="agenda-row"
+        >
+          <text class="agenda-time">{{task.time}}</text>
+          <view class="agenda-card">
+            <view class="agenda-state {{task.stateTheme}}">
+              <text class="agenda-state-text">{{task.stateLabel}}</text>
+            </view>
+            <view class="agenda-content">
+              <view class="agenda-top">
+                <text class="agenda-title">{{task.title}}</text>
+                <view class="agenda-type {{task.badgeTheme}}">
+                  <text class="agenda-type-text">{{task.type}}</text>
+                </view>
+              </view>
+              <view class="agenda-place-shell">
+                <image class="agenda-place-icon" src="{{task.icon}}" mode="aspectFit"></image>
+                <text class="agenda-place">{{task.place}}</text>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="bottom-tabs">
+    <view
+      wx:for="{{tabs}}"
+      wx:key="id"
+      class="tab-item {{item.active ? 'is-active' : ''}}"
+      data-name="{{item.label}}"
+      bindtap="switchTab"
+    >
+      <image class="tab-icon" src="{{item.icon}}" mode="aspectFit"></image>
+      <text>{{item.label}}</text>
+    </view>
+  </view>
+</view>

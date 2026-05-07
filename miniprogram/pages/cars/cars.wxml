@@ -1,0 +1,87 @@
+<view class="page page-soft cars-page">
+  <view class="nav nav-light" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="go" data-url="/pages/brand/brand">‹</button>
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">选择车辆</text>
+  </view>
+  <view class="filter-card card">
+    <view class="date-row">
+      <view>
+        <picker mode="date" value="{{trip.pickupDate}}" bindchange="changePickupDate">
+          <text class="date-main">{{trip.pickupDateText}}</text>
+        </picker>
+        <picker mode="time" value="{{trip.pickupTime}}" bindchange="changePickupTime">
+          <text class="muted">{{trip.pickupTimeText}}</text>
+        </picker>
+      </view>
+      <text class="day-pill-small">{{trip.durationDays}}天</text>
+      <view class="right">
+        <picker mode="date" value="{{trip.returnDate}}" bindchange="changeReturnDate">
+          <text class="date-main">{{trip.returnDateText}}</text>
+        </picker>
+        <picker mode="time" value="{{trip.returnTime}}" bindchange="changeReturnTime">
+          <text class="muted">{{trip.returnTimeText}}</text>
+        </picker>
+      </view>
+    </view>
+    <view class="brand-entry">
+      <text class="muted">品牌入口</text>
+      <button class="brand-jump" bindtap="goBrand">{{brand || "全部品牌"}} ›</button>
+    </view>
+    <view class="brand-line">{{filterText}} <text class="weak">｜{{cars.length}} 辆可租</text></view>
+  </view>
+  <scroll-view class="filter-tabs" scroll-x>
+    <text wx:for="{{filters}}" wx:key="type" data-type="{{item.type}}" bindtap="chooseFilter" class="filter-pill">{{item.label}}</text>
+  </scroll-view>
+  <view class="result-count">共找到 {{cars.length}} 辆可租车辆</view>
+  <view class="car-list">
+    <view wx:for="{{cars}}" wx:key="key" class="list-card card" bindtap="go" data-url="/pages/detail/detail?id={{item.id}}">
+      <image class="list-image" src="{{item.image}}" mode="aspectFill" />
+      <view class="list-content">
+        <view class="list-name">{{item.fullName}}</view>
+        <view class="muted">{{item.color}}｜{{item.type}} {{item.seats}}座｜{{item.distance}}</view>
+        <view class="spec-line">▣ {{item.plate}}｜{{item.sourceLabel}}</view>
+        <view class="spec-line">⌾ {{item.gearbox}}｜{{item.energy}}</view>
+        <view class="store-line">{{item.storeName}} · {{item.storeAddress}}</view>
+      </view>
+      <view class="list-price"><text class="price">{{item.price}}</text><text>元</text><text class="per">/天</text></view>
+      <button class="book-small" catchtap="go" data-url="/pages/detail/detail?id={{item.id}}">预定</button>
+    </view>
+    <view wx:if="{{cars.length === 0}}" class="empty-card card">当前时间和筛选条件下暂无可租车辆</view>
+  </view>
+
+  <view wx:if="{{showMoreFilters}}" class="mask" bindtap="closeMoreFilters">
+    <view class="more-sheet" catchtap="noop">
+      <view class="sheet-head">
+        <text>更多筛选</text>
+        <button class="sheet-reset" bindtap="resetMoreFilters">重置</button>
+      </view>
+      <view class="sheet-group">
+        <text class="sheet-title">价格</text>
+        <view class="sheet-options">
+          <button class="sheet-pill {{!moreFilterDraft.price ? 'sheet-pill-active' : ''}}" data-type="price" data-value="" bindtap="chooseMoreFilter">不限</button>
+          <button class="sheet-pill {{moreFilterDraft.price.max === 200 ? 'sheet-pill-active' : ''}}" data-type="price" data-value="under200" bindtap="chooseMoreFilter">200元以下</button>
+          <button class="sheet-pill {{moreFilterDraft.price.min === 200 && moreFilterDraft.price.max === 300 ? 'sheet-pill-active' : ''}}" data-type="price" data-value="200-300" bindtap="chooseMoreFilter">200-300元</button>
+          <button class="sheet-pill {{moreFilterDraft.price.min === 300 ? 'sheet-pill-active' : ''}}" data-type="price" data-value="300plus" bindtap="chooseMoreFilter">300元以上</button>
+        </view>
+      </view>
+      <view class="sheet-group">
+        <text class="sheet-title">颜色</text>
+        <view class="sheet-options">
+          <button class="sheet-pill {{!moreFilterDraft.color ? 'sheet-pill-active' : ''}}" data-type="color" data-value="" bindtap="chooseMoreFilter">不限</button>
+          <button class="sheet-pill {{moreFilterDraft.color === '海湾蓝' ? 'sheet-pill-active' : ''}}" data-type="color" data-value="海湾蓝" bindtap="chooseMoreFilter">海湾蓝</button>
+          <button class="sheet-pill {{moreFilterDraft.color === '珍珠白' ? 'sheet-pill-active' : ''}}" data-type="color" data-value="珍珠白" bindtap="chooseMoreFilter">珍珠白</button>
+        </view>
+      </view>
+      <view class="sheet-group">
+        <text class="sheet-title">能源与座位</text>
+        <view class="sheet-options">
+          <button class="sheet-pill {{!moreFilterDraft.energy_type ? 'sheet-pill-active' : ''}}" data-type="energy_type" data-value="" bindtap="chooseMoreFilter">不限能源</button>
+          <button class="sheet-pill {{moreFilterDraft.energy_type === '纯电动' ? 'sheet-pill-active' : ''}}" data-type="energy_type" data-value="纯电动" bindtap="chooseMoreFilter">纯电动</button>
+          <button class="sheet-pill {{!moreFilterDraft.seats ? 'sheet-pill-active' : ''}}" data-type="seats" data-value="" bindtap="chooseMoreFilter">不限座位</button>
+          <button class="sheet-pill {{moreFilterDraft.seats === 5 ? 'sheet-pill-active' : ''}}" data-type="seats" data-value="5" bindtap="chooseMoreFilter">5座</button>
+        </view>
+      </view>
+      <button class="btn-dark apply-btn" bindtap="applyMoreFilters">应用筛选</button>
+    </view>
+  </view>
+</view>

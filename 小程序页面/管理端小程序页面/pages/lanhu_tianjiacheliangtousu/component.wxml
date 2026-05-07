@@ -1,0 +1,98 @@
+<view class="page">
+  <view class="group_1">
+    <view class="section_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="section_2">
+        <view class="box_1"></view>
+      </view>
+      <view class="section_3">
+        <view class="box_2"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_4">
+      <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">新增投诉</text>
+      <view class="section_5">
+        <view class="group_2"></view>
+        <view class="group_3"></view>
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_4">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">提交</text>
+    </view>
+    <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="group_5">
+    <view class="box_3">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_5">*</text>
+        <text lines="1" class="text_6">投诉分类</text>
+      </view>
+      <view class="image-text_1">
+        <text lines="1" class="text-group_1">车辆投诉</text>
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_2"></image>
+      </view>
+    </view>
+    <view class="box_4">
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_7">*</text>
+        <text lines="1" class="text_8">关联订单</text>
+      </view>
+      <view class="image-text_2">
+        <text lines="1" class="text-group_2">请选择</text>
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG8dba6c0e1219ddcbcb6a6dab44bc9ebc.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="box_5">
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_9">*</text>
+        <text lines="1" class="text_10">投诉车辆</text>
+      </view>
+      <view class="image-text_3">
+        <text lines="1" class="text-group_3">选择订单后带出车辆，不能修改</text>
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+    <view class="box_6">
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_11">*</text>
+        <text lines="1" class="text_12">所属车行</text>
+      </view>
+      <view class="image-text_4">
+        <text lines="1" class="text-group_4">选择订单后带出车辆所属车行，不能修改</text>
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_5"></image>
+      </view>
+    </view>
+    <view class="box_7">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_13">*</text>
+        <text lines="1" class="text_14">投诉问题</text>
+      </view>
+      <view class="image-text_5">
+        <text lines="1" class="text-group_5">车辆清洁与卫生问题</text>
+        <image src="../../images/lanhu_tianjiacheliangtousu/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_6"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_15">*</text>
+      <text lines="1" class="text_16">投诉原因</text>
+    </view>
+    <view class="box_8">
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_17">车内异味：</text>
+        <text lines="1" decode="true" class="paragraph_1">&nbsp;烟味、食物/饮料残留味、宠物异味/毛发、霉味/潮湿味、汗味/体味、劣质香水味。<br/></text>
+        <text lines="1" class="paragraph_2"><br/>内饰脏污：</text>
+        <text lines="1" decode="true" class="paragraph_3">&nbsp;座椅污渍（饮料渍、油渍等）、地毯/脚垫脏污有沙石垃圾、仪表台/门板/方向盘积灰或粘腻、车窗内侧油膜/手印、后备箱有遗留垃圾或杂物。<br/><br/></text>
+        <text lines="1" class="text_18">车身脏污：</text>
+        <text lines="1" decode="true" class="text_19">&nbsp;交车时车身有明显未清洗的泥土、鸟粪、树胶等</text>
+      </view>
+    </view>
+  </view>
+</view>

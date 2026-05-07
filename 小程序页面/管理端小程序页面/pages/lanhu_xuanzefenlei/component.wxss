@@ -1,0 +1,187 @@
+.page {
+  background-color: rgba(255,255,255,1.000000);
+  position: relative;
+  width: 750rpx;
+  height: 414rpx;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.text-wrapper_1 {
+  background-image: linear-gradient(360deg, rgba(243,252,242,1.000000) 0, rgba(255,255,255,1.000000) 100.000000%);
+  width: 750rpx;
+  height: 128rpx;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+.text_1 {
+  width: 204rpx;
+  height: 50rpx;
+  overflow-wrap: break-word;
+  color: rgba(36,45,42,1.000000);
+  font-size: 34rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 34rpx;
+  margin: 32rpx 0 0 32rpx;
+}
+.text_2 {
+  width: 60rpx;
+  height: 44rpx;
+  overflow-wrap: break-word;
+  color: rgba(50,188,96,1.000000);
+  font-size: 30rpx;
+  font-family: Source Han Sans SC-Regular;
+  font-weight: normal;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 30rpx;
+  margin: 36rpx 32rpx 0 0;
+}
+.image_1 {
+  width: 750rpx;
+  height: 68rpx;
+  margin-top: 218rpx;
+}
+.section_1 {
+  position: absolute;
+  left: 0rpx;
+  top: 128rpx;
+  width: 750rpx;
+  height: 220rpx;
+  display: flex;
+  flex-direction: column;
+}
+.text-wrapper_2 {
+  background-color: rgba(96,209,134,1.000000);
+  border-radius: 24rpx;
+  height: 96rpx;
+  display: flex;
+  flex-direction: column;
+  width: 686rpx;
+  margin: 122rpx 0 0 32rpx;
+}
+.text_3 {
+  width: 60rpx;
+  height: 44rpx;
+  overflow-wrap: break-word;
+  color: rgba(255,255,255,1.000000);
+  font-size: 30rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 30rpx;
+  margin: 26rpx 0 0 314rpx;
+}
+.text-wrapper_3 {
+  background-color: rgba(255,80,62,0.120000);
+  border-radius: 16rpx;
+  height: 64rpx;
+  display: flex;
+  flex-direction: column;
+  width: 128rpx;
+  position: absolute;
+  left: 26rpx;
+  top: -6rpx;
+}
+.text_4 {
+  width: 96rpx;
+  height: 32rpx;
+  overflow-wrap: break-word;
+  color: rgba(255,80,62,1.000000);
+  font-size: 24rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 32rpx;
+  margin: 16rpx 0 0 16rpx;
+}
+.text-wrapper_4 {
+  background-color: rgba(254,116,37,0.120000);
+  border-radius: 16rpx;
+  height: 64rpx;
+  display: flex;
+  flex-direction: column;
+  width: 128rpx;
+  position: absolute;
+  left: 170rpx;
+  top: -6rpx;
+}
+.text_5 {
+  width: 96rpx;
+  height: 32rpx;
+  overflow-wrap: break-word;
+  color: rgba(254,116,37,1.000000);
+  font-size: 24rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 32rpx;
+  margin: 16rpx 0 0 16rpx;
+}
+.text-wrapper_5 {
+  background-color: rgba(254,116,37,0.120000);
+  border-radius: 16rpx;
+  height: 64rpx;
+  display: flex;
+  flex-direction: column;
+  width: 128rpx;
+  position: absolute;
+  left: 314rpx;
+  top: -6rpx;
+}
+.text_6 {
+  width: 96rpx;
+  height: 32rpx;
+  overflow-wrap: break-word;
+  color: rgba(254,116,37,1.000000);
+  font-size: 24rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 32rpx;
+  margin: 16rpx 0 0 16rpx;
+}
+.block_1 {
+  background-color: rgba(241,244,242,1.000000);
+  border-radius: 16rpx;
+  position: absolute;
+  left: 458rpx;
+  top: -6rpx;
+  width: 168rpx;
+  height: 64rpx;
+  display: flex;
+  flex-direction: row;
+}
+.image-text_1 {
+  width: 136rpx;
+  height: 32rpx;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  margin: 16rpx 0 0 16rpx;
+}
+.thumbnail_1 {
+  width: 32rpx;
+  height: 32rpx;
+}
+.text-group_1 {
+  width: 96rpx;
+  height: 32rpx;
+  overflow-wrap: break-word;
+  color: rgba(36,45,42,0.600000);
+  font-size: 24rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 32rpx;
+}

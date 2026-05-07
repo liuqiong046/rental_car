@@ -1,0 +1,382 @@
+.home-page {
+  background: #fff;
+  padding-top: 1rpx;
+}
+
+.home-hero-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 750rpx;
+  height: 294rpx;
+}
+
+.home-top {
+  position: relative;
+  z-index: 2;
+  height: 178rpx;
+  padding-top: 94rpx;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  color: #fff;
+}
+
+.home-title {
+  font-size: 34rpx;
+  line-height: 40rpx;
+  font-weight: 500;
+}
+
+.notice-btn {
+  position: absolute;
+  left: 32rpx;
+  top: 94rpx;
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 32rpx;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1rpx solid rgba(255, 255, 255, 0.25);
+  color: #fcd41d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
+.home-capsule {
+  top: 102rpx;
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.24);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.category-tabs {
+  position: relative;
+  z-index: 2;
+  white-space: nowrap;
+  height: 66rpx;
+  padding-left: 36rpx;
+  color: #fff;
+}
+
+.category-tab {
+  display: inline-block;
+  margin-right: 24rpx;
+  line-height: 52rpx;
+  font-size: 30rpx;
+}
+
+.category-active {
+  position: relative;
+  font-size: 46rpx;
+  font-weight: 600;
+}
+
+.category-active::after {
+  content: "";
+  position: absolute;
+  left: 34rpx;
+  bottom: 0;
+  width: 24rpx;
+  height: 8rpx;
+  border-radius: 4rpx;
+  background: #fcd41d;
+}
+
+.search-card {
+  position: relative;
+  z-index: 3;
+  width: 686rpx;
+  height: 220rpx;
+  margin: 22rpx auto 16rpx;
+  padding: 32rpx 28rpx 28rpx;
+  border-radius: 32rpx;
+  border: 4rpx solid #2b2627;
+  background: #fff;
+}
+
+.trip-row {
+  display: flex;
+  align-items: flex-start;
+  height: 72rpx;
+}
+
+.trip-place {
+  width: 164rpx;
+}
+
+.trip-date {
+  width: 132rpx;
+}
+
+.trip-right {
+  text-align: right;
+}
+
+.trip-main,
+.date-main {
+  font-size: 34rpx;
+  line-height: 40rpx;
+  font-weight: 600;
+}
+
+.date-main {
+  font-size: 30rpx;
+}
+
+.trip-label {
+  margin-top: 2rpx;
+  font-size: 22rpx;
+  line-height: 28rpx;
+  color: rgba(43, 38, 39, 0.56);
+}
+
+.day-pill {
+  width: 96rpx;
+  height: 64rpx;
+  margin: 0 16rpx;
+  border-radius: 32rpx;
+  border: 1rpx solid #eaeaea;
+  text-align: center;
+  line-height: 62rpx;
+  font-size: 22rpx;
+}
+
+.search-btn {
+  margin-top: 20rpx;
+  height: 88rpx;
+}
+
+.banner-wrap {
+  position: relative;
+  width: 686rpx;
+  height: 176rpx;
+  margin: 0 auto 34rpx;
+  border-radius: 32rpx;
+  overflow: hidden;
+}
+
+.banner {
+  width: 100%;
+  height: 100%;
+}
+
+.banner-count {
+  position: absolute;
+  right: 20rpx;
+  bottom: 16rpx;
+  min-width: 60rpx;
+  height: 36rpx;
+  padding: 0 14rpx;
+  border-radius: 20rpx;
+  background: rgba(43, 38, 39, 0.4);
+  color: #fff;
+  text-align: center;
+  line-height: 36rpx;
+  font-size: 22rpx;
+}
+
+.service-strip {
+  width: 686rpx;
+  margin: 0 auto 24rpx;
+  padding: 22rpx 28rpx;
+  border-radius: 24rpx;
+  background: #fff7df;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20rpx;
+}
+
+.service-title {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #2b2627;
+}
+
+.service-meta {
+  margin-top: 8rpx;
+  color: rgba(43, 38, 39, 0.62);
+  font-size: 22rpx;
+}
+
+.service-link {
+  min-width: 124rpx;
+  height: 60rpx;
+  border-radius: 18rpx;
+  background: #2b2627;
+  color: #fff;
+  line-height: 60rpx;
+  font-size: 24rpx;
+}
+
+.section-head-home {
+  width: 686rpx;
+  margin: 0 auto 20rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hot-title {
+  margin-bottom: 0;
+}
+
+.more-filter-btn {
+  min-width: 144rpx;
+  height: 60rpx;
+  border-radius: 18rpx;
+  border: 1rpx solid rgba(43, 38, 39, 0.1);
+  background: #fff;
+  color: rgba(43, 38, 39, 0.78);
+  line-height: 58rpx;
+  font-size: 24rpx;
+}
+
+.brand-tabs {
+  white-space: nowrap;
+  height: 72rpx;
+  padding-left: 32rpx;
+}
+
+.brand-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8rpx;
+  height: 72rpx;
+  padding: 0 24rpx;
+  margin-right: 14rpx;
+  border-radius: 32rpx;
+  border: 1rpx solid rgba(43, 38, 39, 0.1);
+  background: #fff;
+  font-size: 24rpx;
+  color: rgba(43, 38, 39, 0.8);
+}
+
+.brand-active {
+  color: #fff;
+  background: linear-gradient(180deg, rgba(43, 38, 39, 0.98), rgba(112, 94, 8, 0.98));
+}
+
+.brand-dot {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+  background: #fcd41d;
+  border: 6rpx solid #f5f5f5;
+}
+
+.car-list {
+  padding-top: 14rpx;
+}
+
+.car-card {
+  position: relative;
+  width: 686rpx;
+  height: 336rpx;
+  margin: 0 auto 16rpx;
+  padding: 32rpx;
+  border-radius: 32rpx;
+  background: #f5f5f5;
+}
+
+.car-name {
+  display: flex;
+  align-items: center;
+  gap: 8rpx;
+  font-size: 34rpx;
+  line-height: 40rpx;
+  font-weight: 600;
+}
+
+.din {
+  font-family: "DIN Alternate", "Arial", sans-serif;
+}
+
+.mini-badge {
+  font-size: 20rpx;
+  color: rgba(43, 38, 39, 0.22);
+}
+
+.car-meta,
+.car-spec {
+  margin-top: 8rpx;
+  color: rgba(43, 38, 39, 0.55);
+  font-size: 22rpx;
+  line-height: 28rpx;
+}
+
+.car-spec {
+  margin-top: 52rpx;
+}
+
+.car-spec + .car-spec {
+  margin-top: 12rpx;
+}
+
+.car-image {
+  position: absolute;
+  right: 32rpx;
+  top: 32rpx;
+  width: 264rpx;
+  height: 160rpx;
+  border: 2rpx solid #fff;
+  border-radius: 16rpx;
+}
+
+.price-block {
+  position: absolute;
+  right: 148rpx;
+  bottom: 38rpx;
+  text-align: center;
+}
+
+.price {
+  font-size: 38rpx;
+  font-weight: 700;
+  line-height: 44rpx;
+}
+
+.unit,
+.per {
+  font-size: 22rpx;
+}
+
+.per {
+  display: block;
+  color: rgba(43, 38, 39, 0.6);
+}
+
+.book-small {
+  position: absolute;
+  right: 32rpx;
+  bottom: 32rpx;
+  width: 122rpx;
+  height: 80rpx;
+  border-radius: 24rpx;
+  color: #fff;
+  background: linear-gradient(180deg, #2b2627 0%, #2b2627 58%, #705e08 100%);
+  font-size: 26rpx;
+  line-height: 80rpx;
+}
+
+.loading-row,
+.slogan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10rpx;
+  color: rgba(43, 38, 39, 0.55);
+  font-size: 24rpx;
+  line-height: 48rpx;
+}
+
+.sun {
+  color: #fcd41d;
+}
+
+.slogan {
+  margin: 34rpx 0 18rpx;
+  color: rgba(43, 38, 39, 0.4);
+}

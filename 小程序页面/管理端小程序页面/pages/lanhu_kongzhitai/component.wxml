@@ -1,0 +1,390 @@
+<view class="page">
+  <view class="group_1">
+    <view class="box_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="block_1"></view>
+      <view class="block_2"></view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_kongzhitai/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_2">
+      <text lines="1" class="text_3">控制台</text>
+      <view class="box_3">
+        <view class="box_4"></view>
+        <view class="box_5"></view>
+        <image src="../../images/lanhu_kongzhitai/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_2">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">运营工作</text>
+    </view>
+    <view class="box_6">
+      <view class="block_3">
+        <view class="box_7">
+          <view class="box_8"></view>
+          <view class="box_9">
+            <view class="box_10"></view>
+          </view>
+          <view class="box_11"></view>
+        </view>
+      </view>
+      <view class="block_4">
+        <view class="box_12">
+          <view class="section_1"></view>
+          <view class="section_2"></view>
+          <view class="section_3"></view>
+          <view class="section_4"></view>
+        </view>
+      </view>
+      <view class="block_5">
+        <view class="block_6">
+          <view class="group_3">
+            <view class="group_4"></view>
+          </view>
+          <view class="group_5">
+            <view class="group_6"></view>
+            <view class="group_7"></view>
+          </view>
+          <view class="group_8"></view>
+        </view>
+      </view>
+      <view class="block_7">
+        <view class="box_13">
+          <view class="section_5">
+            <view class="box_14"></view>
+          </view>
+          <view class="section_6"></view>
+        </view>
+      </view>
+      <view class="block_8">
+        <view class="group_9">
+          <view class="group_10"></view>
+          <view class="group_11"></view>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_5">车行管理</text>
+      <text lines="1" class="text_6">托管管理</text>
+      <text lines="1" class="text_7">渠道管理</text>
+      <text lines="1" class="text_8">渠道结算</text>
+      <text lines="1" class="text_9">车型管理</text>
+    </view>
+    <view class="box_15">
+      <view class="section_7">
+        <view class="group_12">
+          <view class="block_9">
+            <view class="section_8"></view>
+          </view>
+          <view class="block_10"></view>
+        </view>
+      </view>
+      <view class="section_9">
+        <view class="box_16">
+          <view class="group_13">
+            <view class="section_10"></view>
+            <view class="section_11">
+              <view class="group_14"></view>
+            </view>
+          </view>
+          <view class="group_15"></view>
+        </view>
+      </view>
+      <view class="section_12">
+        <view class="group_16">
+          <view class="block_11"></view>
+          <view class="block_12">
+            <view class="group_17"></view>
+            <view class="group_18"></view>
+          </view>
+          <view class="block_13"></view>
+        </view>
+      </view>
+      <view class="section_13">
+        <view class="group_19">
+          <view class="group_20">
+            <view class="block_14"></view>
+          </view>
+          <view class="group_21"></view>
+        </view>
+      </view>
+      <view class="section_14">
+        <view class="section_15">
+          <view class="box_17">
+            <view class="box_18">
+              <view class="box_19"></view>
+              <view class="box_20"></view>
+              <view class="box_21"></view>
+              <view class="box_22"></view>
+            </view>
+          </view>
+          <view class="box_23"></view>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_10">车辆审核</text>
+      <text lines="1" class="text_11">车价控制器</text>
+      <text lines="1" class="text_12">员工权限</text>
+      <text lines="1" class="text_13">统计分析</text>
+      <text lines="1" class="text_14">投诉管理</text>
+    </view>
+    <view class="box_24">
+      <view class="group_22">
+        <view class="box_25">
+          <view class="group_23"></view>
+          <view class="group_24"></view>
+          <view class="group_25"></view>
+        </view>
+      </view>
+      <view class="group_26">
+        <view class="group_27">
+          <view class="box_26"></view>
+          <view class="box_27"></view>
+          <view class="box_28"></view>
+        </view>
+      </view>
+      <view class="group_28">
+        <view class="section_16">
+          <view class="group_29">
+            <view class="section_17"></view>
+            <view class="section_18"></view>
+          </view>
+          <view class="group_30">
+            <view class="group_31"></view>
+            <view class="group_32"></view>
+          </view>
+          <view class="group_33"></view>
+        </view>
+      </view>
+      <view class="group_34">
+        <view class="box_29">
+          <view class="group_35">
+            <view class="group_36"></view>
+            <view class="group_37">
+              <view class="box_30"></view>
+              <view class="box_31"></view>
+              <view class="box_32"></view>
+              <view class="box_33"></view>
+            </view>
+          </view>
+          <view class="group_38"></view>
+        </view>
+      </view>
+      <view class="group_39">
+        <view class="box_34">
+          <view class="box_35"></view>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_15">规则设置</text>
+      <text lines="1" class="text_16">通知公告</text>
+      <text lines="1" class="text_17">车辆库</text>
+      <text lines="1" class="text_18">字典设置</text>
+      <text lines="1" class="text_19">服务类目</text>
+    </view>
+    <view class="box_36">
+      <view class="box_37">
+        <view class="group_40">
+          <view class="box_38"></view>
+          <view class="box_39">
+            <view class="group_41"></view>
+            <view class="group_42"></view>
+          </view>
+          <view class="box_40"></view>
+        </view>
+      </view>
+      <view class="box_41">
+        <view class="box_42">
+          <view class="group_43"></view>
+          <view class="group_44">
+            <view class="section_19"></view>
+          </view>
+          <view class="group_45"></view>
+        </view>
+      </view>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_20">客户管理</text>
+      <text lines="1" class="text_21">客户身份验证</text>
+    </view>
+  </view>
+  <view class="group_46">
+    <view class="group_47"></view>
+    <view class="group_48">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_kongzhitai/FigmaDDSSlicePNG2abb6e035ee69ed96cec68447230a235.png" class="label_1"></image>
+        <text lines="1" class="text-group_1">首页</text>
+      </view>
+      <view class="box_43">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_kongzhitai/FigmaDDSSlicePNG14020f6ee5a75973a957d43494ab0d50.png" class="thumbnail_2"></image>
+        </view>
+        <text lines="1" class="text_22">控制台</text>
+      </view>
+      <view class="image-text_2">
+        <image src="../../images/lanhu_kongzhitai/FigmaDDSSlicePNGd06f910d3e1bbda5a96c5d99ff6c03cb.png" class="label_2"></image>
+        <text lines="1" class="text-group_2">我的</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_kongzhitai/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+  <view class="group_49">
+    <view class="section_20">
+      <view class="box_44">
+        <view class="text-wrapper_6">
+          <text lines="1" class="text_23">日常管理</text>
+        </view>
+        <view class="group_50">
+          <view class="group_51">
+            <view class="section_21">
+              <view class="box_45"></view>
+              <view class="box_46"></view>
+              <view class="box_47"></view>
+              <view class="box_48"></view>
+            </view>
+          </view>
+          <view class="group_52">
+            <view class="group_53">
+              <view class="group_54">
+                <view class="box_49"></view>
+              </view>
+              <view class="group_55"></view>
+            </view>
+          </view>
+          <view class="group_56">
+            <view class="box_50">
+              <view class="box_51"></view>
+              <view class="box_52"></view>
+            </view>
+          </view>
+        </view>
+        <view class="text-wrapper_7">
+          <text lines="1" class="text_24">今日待办</text>
+          <text lines="1" class="text_25">发起报销</text>
+          <text lines="1" class="text_26">报销审批</text>
+        </view>
+      </view>
+      <view class="box_53">
+        <view class="group_57">
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_27">车辆</text>
+            <text lines="1" decode="true" class="text_28">&amp;</text>
+            <text lines="1" decode="true" class="text_29">&nbsp;司机</text>
+          </view>
+        </view>
+        <view class="group_58">
+          <view class="group_59">
+            <view class="section_22">
+              <view class="block_15"></view>
+              <view class="block_16"></view>
+              <view class="block_17">
+                <view class="block_18"></view>
+              </view>
+              <view class="block_19"></view>
+            </view>
+          </view>
+          <view class="group_60">
+            <view class="group_61">
+              <view class="group_62"></view>
+              <view class="group_63"></view>
+              <view class="group_64"></view>
+            </view>
+          </view>
+          <view class="group_65">
+            <view class="group_66">
+              <view class="group_67"></view>
+              <view class="group_68"></view>
+              <view class="group_69"></view>
+            </view>
+          </view>
+          <view class="group_70">
+            <view class="block_20">
+              <view class="box_54"></view>
+              <view class="box_55"></view>
+            </view>
+          </view>
+        </view>
+        <view class="text-wrapper_9">
+          <text lines="1" class="text_30">我家车库</text>
+          <text lines="1" class="text_31">车辆排班</text>
+          <text lines="1" class="text_32">司机绩效</text>
+          <text lines="1" class="text_33">司机排班</text>
+        </view>
+      </view>
+      <view class="box_56">
+        <view class="section_23">
+          <view class="text-wrapper_10">
+            <text lines="1" class="text_34">订单</text>
+            <text lines="1" decode="true" class="text_35">&amp;</text>
+            <text lines="1" class="text_36">工单</text>
+          </view>
+        </view>
+        <view class="section_24">
+          <view class="section_25">
+            <view class="box_57">
+              <view class="box_58"></view>
+              <view class="box_59"></view>
+            </view>
+          </view>
+          <view class="section_26">
+            <view class="group_71">
+              <view class="section_27">
+                <view class="box_60"></view>
+                <view class="box_61"></view>
+              </view>
+              <view class="section_28">
+                <view class="section_29"></view>
+              </view>
+              <view class="section_30"></view>
+            </view>
+          </view>
+          <view class="section_31">
+            <view class="block_21">
+              <view class="section_32">
+                <view class="group_72">
+                  <view class="box_62"></view>
+                  <view class="box_63">
+                    <view class="block_22"></view>
+                    <view class="block_23"></view>
+                  </view>
+                </view>
+                <view class="group_73">
+                  <view class="block_24"></view>
+                </view>
+              </view>
+              <view class="section_33"></view>
+            </view>
+          </view>
+          <view class="section_34">
+            <view class="section_35">
+              <view class="box_64"></view>
+              <view class="box_65"></view>
+            </view>
+          </view>
+          <view class="section_36">
+            <view class="group_74">
+              <view class="group_75"></view>
+              <view class="group_76">
+                <view class="group_77"></view>
+              </view>
+              <view class="group_78"></view>
+            </view>
+          </view>
+        </view>
+        <view class="text-wrapper_11">
+          <text lines="1" class="text_37">客户订单</text>
+          <text lines="1" class="text_38">客户订单录入</text>
+          <text lines="1" class="text_39">同行调车</text>
+          <text lines="1" class="text_40">批发订单</text>
+          <text lines="1" class="text_41">工单管理</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,64 @@
+<view class="page">
+  <view class="box_1">
+    <image src="../../images/lanhu_mianyaliucheng/FigmaDDSSlicePNGc19c75086611eb54709ea36bbe1dd01d.png" class="thumbnail_1"></image>
+    <text lines="1" class="text_1">免押流程及规则</text>
+    <view class="image-wrapper_1">
+      <image src="../../images/lanhu_mianyaliucheng/FigmaDDSSlicePNG9d11d024b290901e2c9b4255e7465f3f.png" class="thumbnail_2"></image>
+    </view>
+  </view>
+  <text lines="1" class="text_2">免押流程</text>
+  <view class="image-text_1">
+    <view class="text-wrapper_1">
+      <text lines="1" decode="true" class="text_3">Step&nbsp;2</text>
+    </view>
+    <text lines="1" class="text-group_1">进行信用授权，<br/>授权成功即可免押。</text>
+  </view>
+  <image src="../../images/lanhu_mianyaliucheng/FigmaDDSSlicePNG1b53a17b3676101b6679f6af45224e3c.png" class="image_1"></image>
+  <image src="../../images/lanhu_mianyaliucheng/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_2"></image>
+  <view class="text-group_2">
+    <text lines="1" class="text_4">免押规则</text>
+    <text lines="1" class="text_5">到店扫码验证芝麻信用，≥550分有机会享押金全免。具体如下:</text>
+  </view>
+  <view class="box_2">
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_6">芝麻信用分</text>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_7">可享减免额度</text>
+    </view>
+  </view>
+  <view class="box_3">
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_8">800分及以上</text>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_9">减免¥12000</text>
+    </view>
+  </view>
+  <view class="box_4">
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_10">600分及以上</text>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_11">减免¥800</text>
+    </view>
+  </view>
+  <view class="box_5">
+    <view class="text-wrapper_8">
+      <text lines="1" class="text_12">800分及以上</text>
+    </view>
+    <view class="text-wrapper_9">
+      <text lines="1" class="text_13">减免¥12000</text>
+    </view>
+  </view>
+  <view class="image-text_2">
+    <view class="text-wrapper_10">
+      <text lines="1" decode="true" class="text_14">Step&nbsp;1</text>
+    </view>
+    <text lines="1" class="text-group_3">下单完成，前往门店取车时支付宝扫店员提供的二维码。</text>
+  </view>
+  <view class="image-wrapper_2">
+    <image src="../../images/lanhu_mianyaliucheng/FigmaDDSSlicePNGc30051dccaa24bd4892b9fd19f2bebc7.png" class="image_3"></image>
+    <image src="../../images/lanhu_mianyaliucheng/FigmaDDSSlicePNG30c575554572461b59b6690f022a97ff.png" class="image_4"></image>
+  </view>
+</view>

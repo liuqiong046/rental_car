@@ -1,0 +1,103 @@
+<view class="page">
+  <view class="group_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_2">
+      <image src="../../images/lanhu_yichuli/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">今日待办</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_4">待处理</text>
+    </view>
+    <view class="group_3">
+      <view class="box_1">
+        <view class="box_2">
+          <view class="section_1"></view>
+        </view>
+        <view class="box_3">
+          <view class="block_1"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_yichuli/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="box_4">
+        <view class="section_2"></view>
+        <view class="section_3"></view>
+        <image src="../../images/lanhu_yichuli/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+      <text lines="1" class="text_5">已处理</text>
+      <view class="box_5"></view>
+    </view>
+  </view>
+  <view class="group_4">
+    <view class="group_5">
+      <view class="box_6">
+        <text lines="1" class="text_6">张三</text>
+        <text lines="1" class="text_7">提交的报销申请</text>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_8">审批通过</text>
+        </view>
+      </view>
+      <view class="box_7">
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_9">报销总金额</text>
+          <text lines="1" class="text_10">198.00</text>
+          <text lines="1" class="text_11">元</text>
+        </view>
+      </view>
+      <view class="box_8">
+        <view class="block_2"></view>
+        <text lines="1" decode="true" class="text_12">2024-01-08&nbsp;17:59</text>
+        <view class="text-wrapper_5">
+          <text lines="1" class="text_13">发放</text>
+        </view>
+      </view>
+    </view>
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="box_9-0">
+          <text lines="1" class="text_14-0">张三</text>
+          <text lines="1" class="text_15-0">提交的报销申请</text>
+          <view class="text-wrapper_6-0">
+            <text lines="1" class="text_16-0">审批拒绝</text>
+          </view>
+        </view>
+        <view class="box_10-0">
+          <view class="text-wrapper_7-0">
+            <text lines="1" class="text_17-0">报销总金额</text>
+            <text lines="1" class="text_18-0">198.00</text>
+            <text lines="1" class="text_19-0">元</text>
+          </view>
+        </view>
+        <view class="box_11-0">
+          <view class="group_6-0"></view>
+          <text lines="1" decode="true" class="text_20-0">2024-01-08&nbsp;17:59</text>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="box_9-1">
+          <text lines="1" class="text_14-1">张三</text>
+          <text lines="1" class="text_15-1">提交的报销申请</text>
+          <view class="text-wrapper_6-1">
+            <text lines="1" class="text_16-1">已发送</text>
+          </view>
+        </view>
+        <view class="box_10-1">
+          <view class="text-wrapper_7-1">
+            <text lines="1" class="text_17-1">报销总金额</text>
+            <text lines="1" class="text_18-1">198.00</text>
+            <text lines="1" class="text_19-1">元</text>
+          </view>
+        </view>
+        <view class="box_11-1">
+          <view class="group_6-1"></view>
+          <text lines="1" decode="true" class="text_20-1">2024-01-08&nbsp;17:59</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <image src="../../images/lanhu_yichuli/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

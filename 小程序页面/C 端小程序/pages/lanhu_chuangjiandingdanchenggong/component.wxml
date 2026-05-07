@@ -1,0 +1,17 @@
+<view class="page">
+  <view class="group_1">
+    <view class="section_1">
+      <view class="box_1">
+        <text lines="1" class="text_1">续租/延迟还车成功</text>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_chuangjiandingdanchenggong/FigmaDDSSlicePNG9d11d024b290901e2c9b4255e7465f3f.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <image src="../../images/lanhu_chuangjiandingdanchenggong/FigmaDDSSlicePNGb59bdadae0591033b01d8d35ecdf3c2a.png" class="image_1"></image>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_2">查看订单详情</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_chuangjiandingdanchenggong/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+  </view>
+</view>

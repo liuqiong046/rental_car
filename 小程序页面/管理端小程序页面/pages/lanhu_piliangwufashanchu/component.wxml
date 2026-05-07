@@ -1,0 +1,17 @@
+<view class="page">
+  <view class="image-wrapper_1">
+    <image src="../../images/lanhu_piliangwufashanchu/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <view class="group_1">
+    <view class="group_2">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_piliangwufashanchu/FigmaDDSSlicePNG882de5337bc79bf933a5152ad63dbdd9.png" class="image_1"></image>
+        <text lines="1" class="text-group_1">选择的5个品牌存在关联车辆，无法删除</text>
+      </view>
+    </view>
+  </view>
+  <view class="text-wrapper_1">
+    <text lines="1" class="text_1">确定</text>
+  </view>
+  <image src="../../images/lanhu_piliangwufashanchu/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

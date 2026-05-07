@@ -1,0 +1,12 @@
+<view class="page">
+  <view class="group_1">
+    <view class="section_1">
+      <view class="group_2">
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_chuangjiandingdanchenggong/FigmaDDSSlicePNG99e0ed0a63c87f8641ee9ddfa9bf5c38.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_1">外调订单创建成功</text>
+      </view>
+    </view>
+  </view>
+</view>

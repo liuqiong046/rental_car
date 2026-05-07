@@ -1,0 +1,117 @@
+<view class="page">
+  <view class="box_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_2">
+      <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">今日待办</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_4">发起报销</text>
+    </view>
+    <view class="box_3">
+      <view class="section_1"></view>
+    </view>
+    <view class="box_4">
+      <view class="group_1">
+        <view class="block_1">
+          <view class="group_2"></view>
+        </view>
+        <view class="block_2">
+          <view class="section_2"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="group_3">
+        <view class="box_5"></view>
+        <view class="box_6"></view>
+        <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+      <text lines="1" class="text_5">历史记录</text>
+    </view>
+  </view>
+  <view class="box_7">
+    <view class="section_3">
+      <text lines="1" class="text_6">关联客户订单</text>
+      <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNGc378a736fac5916751182132348fb371.png" class="thumbnail_2"></image>
+      <text lines="1" class="text_7">添加</text>
+    </view>
+    <view class="section_4">
+      <text lines="1" class="text_8">报销总金额</text>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_9">0.00</text>
+        <text lines="1" class="text_10" />
+        <text lines="1" class="text_11">元</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_8">
+    <view class="group_4">
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNG2059de8bcdc43c938b0b32443c827edc.png" class="thumbnail_3"></image>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_12">报销明细</text>
+        <text lines="1" class="text_13">1</text>
+      </view>
+    </view>
+    <view class="group_5">
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_14">*</text>
+        <text lines="1" class="text_15">报销金额</text>
+      </view>
+      <text lines="1" class="text_16">请输入</text>
+      <text lines="1" class="text_17">元</text>
+    </view>
+    <view class="group_6">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_18">*</text>
+        <text lines="1" class="text_19">费用发生日期</text>
+      </view>
+      <view class="image-text_1">
+        <text lines="1" decode="true" class="text-group_1">年&nbsp;/&nbsp;月&nbsp;/&nbsp;日</text>
+        <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNG6824b74f032fa329e39aa9c4a4690b73.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+    <view class="group_7">
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_20">*</text>
+        <text lines="1" class="text_21">费用类型</text>
+      </view>
+      <text lines="1" class="text_22">请选择</text>
+      <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_5"></image>
+    </view>
+    <view class="text-wrapper_8">
+      <text lines="1" class="text_23">费用说明</text>
+      <text lines="1" class="text_24">请输入</text>
+    </view>
+    <view class="group_8">
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_25">*</text>
+        <text lines="1" class="text_26">发票照片</text>
+      </view>
+      <view class="image-text_2">
+        <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNGc378a736fac5916751182132348fb371.png" class="thumbnail_6"></image>
+        <text lines="1" class="text-group_2">添加</text>
+      </view>
+    </view>
+  </view>
+  <view class="box_9">
+    <view class="group_9">
+      <view class="image-text_3">
+        <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNG5643e6300f1ce5bd685cfa455941b48a.png" class="thumbnail_7"></image>
+        <text lines="1" class="text-group_3">添加报销明细</text>
+      </view>
+    </view>
+    <view class="group_10">
+      <view class="text-wrapper_10">
+        <text lines="1" class="text_27">提交</text>
+      </view>
+      <image src="../../images/lanhu_faqibaoxiaomorenzhuangtai/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+  </view>
+</view>

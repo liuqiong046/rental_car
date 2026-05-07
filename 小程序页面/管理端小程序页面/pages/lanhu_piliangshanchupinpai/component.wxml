@@ -1,0 +1,193 @@
+<view class="page">
+  <view class="section_1">
+    <view class="section_2">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_1">
+        <view class="box_1"></view>
+      </view>
+      <view class="group_2">
+        <view class="section_3"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_4">
+      <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">批量删除</text>
+      <view class="block_1">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_5">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">A</text>
+    </view>
+    <view class="box_4">
+      <view class="block_2">
+        <view class="block_3">
+          <view class="image-wrapper_2">
+            <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_2"></image>
+          </view>
+          <view class="image-text_1">
+            <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG6853419ff548f4986af900c86fa114b5.png" class="thumbnail_3"></image>
+            <text lines="1" class="text-group_1">AITO</text>
+          </view>
+        </view>
+        <view class="block_4">
+          <view class="section_6"></view>
+          <view class="image-text_2">
+            <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG6853419ff548f4986af900c86fa114b5.png" class="thumbnail_4"></image>
+            <text lines="1" class="text-group_2">AITO</text>
+          </view>
+        </view>
+        <view class="block_5">
+          <view class="group_3"></view>
+          <view class="image-text_3">
+            <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG6853419ff548f4986af900c86fa114b5.png" class="thumbnail_5"></image>
+            <text lines="1" class="text-group_3">AITO</text>
+          </view>
+        </view>
+        <view class="block_6">
+          <view class="box_5"></view>
+          <view class="image-text_4">
+            <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG6853419ff548f4986af900c86fa114b5.png" class="thumbnail_6"></image>
+            <text lines="1" class="text-group_4">AITO</text>
+          </view>
+        </view>
+        <view class="block_7">
+          <view class="group_4"></view>
+          <view class="image-text_5">
+            <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNG6853419ff548f4986af900c86fa114b5.png" class="thumbnail_7"></image>
+            <text lines="1" class="text-group_5">AITO</text>
+          </view>
+        </view>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_5">热</text>
+        <text lines="1" class="text_6">A</text>
+        <text lines="1" class="text_7">B</text>
+        <text lines="1" class="text_8">C</text>
+        <text lines="1" class="text_9">D</text>
+        <text lines="1" class="text_10">E</text>
+        <text lines="1" class="text_11">F</text>
+        <text lines="1" class="text_12">G</text>
+        <text lines="1" class="text_13">H</text>
+        <text lines="1" class="text_14">I</text>
+        <text lines="1" class="text_15">J</text>
+        <text lines="1" class="text_16">K</text>
+      </view>
+    </view>
+    <view class="box_6">
+      <text lines="1" class="text_17">B</text>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_18">L</text>
+        <text lines="1" class="text_19">M</text>
+      </view>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_20">N</text>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_21">O</text>
+    </view>
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_22">P</text>
+    </view>
+    <view class="text-wrapper_7">
+      <text lines="1" class="text_23">Q</text>
+    </view>
+    <view class="text-wrapper_8">
+      <text lines="1" class="text_24">S</text>
+    </view>
+    <view class="text-wrapper_9">
+      <text lines="1" class="text_25">T</text>
+    </view>
+    <view class="text-wrapper_10">
+      <text lines="1" class="text_26">U</text>
+    </view>
+    <view class="text-wrapper_11">
+      <text lines="1" class="text_27">V</text>
+    </view>
+    <view class="text-wrapper_12">
+      <text lines="1" class="text_28">W</text>
+    </view>
+    <view class="text-wrapper_13">
+      <text lines="1" class="text_29">X</text>
+    </view>
+    <view class="text-wrapper_14">
+      <text lines="1" class="text_30">Y</text>
+    </view>
+    <view class="text-wrapper_15">
+      <text lines="1" class="text_31">Z</text>
+    </view>
+    <view class="box_7">
+      <view class="section_7">
+        <view class="section_8"></view>
+        <view class="image-text_6">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_8"></image>
+          <text lines="1" class="text-group_6">保时捷</text>
+        </view>
+      </view>
+      <view class="section_9">
+        <view class="group_5"></view>
+        <view class="image-text_7">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_9"></image>
+          <text lines="1" class="text-group_7">保时捷</text>
+        </view>
+      </view>
+      <view class="section_10">
+        <view class="group_6"></view>
+        <view class="image-text_8">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_10"></image>
+          <text lines="1" class="text-group_8">保时捷</text>
+        </view>
+      </view>
+      <view class="section_11">
+        <view class="block_8"></view>
+        <view class="image-text_9">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_11"></image>
+          <text lines="1" class="text-group_9">保时捷</text>
+        </view>
+      </view>
+      <view class="section_12">
+        <view class="box_8"></view>
+        <view class="image-text_10">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_12"></image>
+          <text lines="1" class="text-group_10">保时捷</text>
+        </view>
+      </view>
+      <view class="section_13">
+        <view class="box_9"></view>
+        <view class="image-text_11">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_13"></image>
+          <text lines="1" class="text-group_11">保时捷</text>
+        </view>
+      </view>
+      <view class="section_14">
+        <view class="block_9"></view>
+        <view class="image-text_12">
+          <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGe198f4659172ff62d98a112e07539655.png" class="thumbnail_14"></image>
+          <text lines="1" class="text-group_12">保时捷</text>
+        </view>
+      </view>
+      <view class="section_15">
+        <view class="group_7">
+          <view class="box_10"></view>
+          <text lines="1" class="text_32">全选</text>
+          <view class="text-wrapper_16">
+            <text lines="1" class="text_33">删除</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_piliangshanchupinpai/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_17">
+      <text lines="1" class="text_34">已选择1个品牌</text>
+    </view>
+  </view>
+</view>

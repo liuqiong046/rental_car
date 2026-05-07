@@ -1,0 +1,28 @@
+<view class="page">
+  <view class="group_1">
+    <text lines="1" class="text_1">编辑车型</text>
+    <image src="../../images/lanhu_xinzengbianjichexing/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_xinzengbianjichexing/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="group_2">
+    <text lines="1" class="text_2">品牌名称</text>
+    <view class="box_1">
+      <text lines="1" class="text_3">车型名称</text>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">卡宴</text>
+      </view>
+    </view>
+    <view class="box_2">
+      <text lines="1" class="text_5">最低租车价</text>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_6">100</text>
+      </view>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_7">派工单</text>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_8">宾利</text>
+    </view>
+  </view>
+</view>

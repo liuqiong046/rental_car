@@ -1,0 +1,37 @@
+<view class="page">
+  <view class="block_1">
+    <view class="section_1">
+      <view class="box_1">
+        <text lines="1" class="text_1">9:41</text>
+        <view class="group_1">
+          <view class="group_2"></view>
+        </view>
+        <view class="group_3">
+          <view class="group_4"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_chakanzhaopian/FigmaDDSSlicePNGbaf649d94dc5dec258c59ca243461cbd.png" class="image_1"></image>
+        </view>
+        <text lines="1" class="text_2">9:41</text>
+      </view>
+      <view class="box_2">
+        <image src="../../images/lanhu_chakanzhaopian/FigmaDDSSlicePNG9c40f623be15718cb24e1dd3388eca73.png" class="label_1"></image>
+        <text lines="1" class="text_3">车况登记</text>
+        <view class="block_2">
+          <view class="group_5"></view>
+          <view class="group_6"></view>
+          <image src="../../images/lanhu_chakanzhaopian/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+    </view>
+    <image src="../../images/lanhu_chakanzhaopian/FigmaDDSSlicePNG359ece55b9945bf426e393ae361c10cc.png" class="image_2"></image>
+    <view class="section_2">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">重新拍照上传</text>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_5">删除</text>
+      </view>
+    </view>
+  </view>
+</view>

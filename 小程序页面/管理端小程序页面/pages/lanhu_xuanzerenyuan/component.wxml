@@ -1,0 +1,34 @@
+<view class="page">
+  <view class="box_1">
+    <text lines="1" class="text_1">选择人员</text>
+    <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="box_2">
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <text lines="1" class="text_2-0">胡允（司机）</text>
+        <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGe1e483afa309520ab6d9a51808440645.png" class="thumbnail_1-0"></image>
+      </view>
+      <view class="list-items_1-1">
+        <text lines="1" class="text_2-1">纪广（司机）</text>
+        <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGb5e1773e767839037b9e1c8f8bc25c8d.png" class="thumbnail_1-1"></image>
+      </view>
+      <view class="list-items_1-2">
+        <text lines="1" class="text_2-2">王乐康（财务）</text>
+        <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGb5e1773e767839037b9e1c8f8bc25c8d.png" class="thumbnail_1-2"></image>
+      </view>
+      <view class="list-items_1-3">
+        <text lines="1" class="text_2-3">王漫（司组）</text>
+        <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGb5e1773e767839037b9e1c8f8bc25c8d.png" class="thumbnail_1-3"></image>
+      </view>
+      <view class="list-items_1-4">
+        <text lines="1" class="text_2-4">孙忆枫（计调员）</text>
+        <image src="../../images/lanhu_xuanzerenyuan/FigmaDDSSlicePNGb5e1773e767839037b9e1c8f8bc25c8d.png" class="thumbnail_1-4"></image>
+      </view>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_3">确定</text>
+    </view>
+  </view>
+</view>

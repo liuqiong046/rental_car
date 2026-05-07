@@ -1,0 +1,63 @@
+.blacklist-page {
+  min-height: 100vh;
+  background: #f8f8f7;
+  padding-bottom: calc(188rpx + env(safe-area-inset-bottom));
+}
+
+.limit-card {
+  margin-top: 80rpx;
+  padding: 56rpx 40rpx 44rpx;
+  text-align: center;
+}
+
+.limit-icon {
+  width: 112rpx;
+  height: 112rpx;
+  margin: 0 auto;
+  border-radius: 56rpx;
+  background: #2b2627;
+  color: #fcd41d;
+  line-height: 112rpx;
+  font-size: 56rpx;
+  font-weight: 700;
+}
+
+.limit-title {
+  margin-top: 28rpx;
+  color: #2b2627;
+  font-size: 36rpx;
+  font-weight: 700;
+  line-height: 48rpx;
+}
+
+.limit-desc {
+  margin-top: 20rpx;
+  color: rgba(43, 38, 39, 0.62);
+  font-size: 26rpx;
+  line-height: 42rpx;
+  text-align: left;
+}
+
+.action-panel {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 20rpx 32rpx calc(20rpx + env(safe-area-inset-bottom));
+  background: linear-gradient(180deg, rgba(248, 248, 247, 0) 0%, #f8f8f7 24%);
+}
+
+.action-btn {
+  width: 686rpx;
+  margin: 0 auto;
+}
+
+.switch-btn {
+  width: 686rpx;
+  height: 88rpx;
+  margin: 16rpx auto 0;
+  color: rgba(43, 38, 39, 0.62);
+  line-height: 88rpx;
+  text-align: center;
+  font-size: 28rpx;
+}

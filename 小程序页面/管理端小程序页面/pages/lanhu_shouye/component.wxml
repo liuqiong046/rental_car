@@ -1,0 +1,378 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="box_2"></view>
+      <view class="box_3"></view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_2">
+      <text lines="1" class="text_3">车管家</text>
+      <view class="box_4">
+        <view class="block_1"></view>
+        <view class="block_2"></view>
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <view class="group_3">
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGcb70789ca635e4ddce6faf0d9e894dca.png" class="label_1"></image>
+      </view>
+      <view class="text-group_1">
+        <text lines="1" class="text_4">山海奢驾</text>
+        <text lines="1" class="text_5">三亚运营中心</text>
+      </view>
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGe3f1dfbb9235d1315fa0c3db31aa1f2f.png" class="thumbnail_2"></image>
+      </view>
+    </view>
+    <view class="group_4">
+      <view class="group_5">
+        <text lines="1" class="text_6">今日待办</text>
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG60c48a3153a5d06ba7f83d3cba8e57f2.png" class="image_2"></image>
+      </view>
+      <view class="group_6">
+        <text lines="1" class="text_7">同行调车</text>
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGb50a51c1b50699c3ac9de9ed0eaca626.png" class="image_3"></image>
+      </view>
+      <view class="group_7">
+        <text lines="1" class="text_8">我家车库</text>
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGc49c4dc751b9eeaa51637fd609dbf0dd.png" class="image_4"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_5">
+    <view class="block_3">
+      <text lines="1" class="text_9">待办工单</text>
+      <view class="box_6"></view>
+      <text lines="1" class="text_10">只看我的任务</text>
+    </view>
+  </view>
+  <view class="box_7">
+    <view class="group_8">
+      <view class="block_4"></view>
+      <view class="block_5">
+        <view class="group_9">
+          <view class="image-wrapper_4">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG0d997d6d70a718df9892cbee1e319e38.png" class="image_5"></image>
+          </view>
+          <view class="section_1">
+            <view class="text-wrapper_1">
+              <text lines="1" class="text_11">小米汽车</text>
+              <text lines="1" class="text_12">SU7</text>
+            </view>
+            <view class="group_10">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG99c2a9d764a24595f98277dbad7687ef.png" class="thumbnail_3"></image>
+              <view class="text-wrapper_2">
+                <text lines="1" class="text_13">湘</text>
+                <text lines="1" class="text_14">A</text>
+                <text lines="1" decode="true" class="text_15">&nbsp;••••</text>
+                <text lines="1" class="text_16">29</text>
+              </view>
+            </view>
+          </view>
+          <view class="text-wrapper_3">
+            <text lines="1" class="text_17">订单待确认</text>
+          </view>
+        </view>
+        <view class="group_11">
+          <view class="box_8"></view>
+          <text lines="1" decode="true" class="text_18">07/18&nbsp;09:00</text>
+          <text lines="1" class="text_19">海南省三亚市山海放心租运营中心</text>
+          <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGde66410ed48ae313a4281b7818989076.png" class="thumbnail_4"></image>
+        </view>
+        <view class="group_12">
+          <view class="box_9"></view>
+          <text lines="1" decode="true" class="text_20">07/20&nbsp;19:00</text>
+          <text lines="1" class="text_21">海南省三亚市山海放心租运营中心</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_13">
+      <view class="section_2"></view>
+      <view class="section_3">
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_22">订单编号：</text>
+          <text lines="1" class="text_23">YC20250717125645</text>
+        </view>
+        <view class="group_14">
+          <view class="image-wrapper_5">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGab647e1960f6dd9764bf0d1095bb8e84.png" class="thumbnail_5"></image>
+          </view>
+          <text lines="1" class="text_24">北京现代</text>
+          <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG22992b50bffd797377774f748851315b.png" class="thumbnail_6"></image>
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_25">湘</text>
+            <text lines="1" class="text_26">A</text>
+            <text lines="1" decode="true" class="text_27">&nbsp;••••</text>
+            <text lines="1" class="text_28">29</text>
+          </view>
+        </view>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_29">订单待售后</text>
+      </view>
+      <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG4ab2849ab212808d18f04c28f83618a2.png" class="thumbnail_7"></image>
+    </view>
+  </view>
+  <view class="box_10">
+    <view class="group_15">
+      <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG78cc33283d0d137c1ce0207a4e2eaaf7.png" class="thumbnail_8"></image>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_30">07</text>
+        <text lines="1" class="text_31">月</text>
+        <text lines="1" class="text_32">18</text>
+        <text lines="1" class="text_33">日</text>
+      </view>
+    </view>
+    <view class="group_16">
+      <text lines="1" class="text_34">09:05</text>
+      <view class="box_11">
+        <view class="text-wrapper_8">
+          <text lines="1" class="paragraph_1">进<br/>行<br/>中</text>
+        </view>
+        <view class="section_4">
+          <view class="group_17">
+            <text lines="1" class="text_35">胡可</text>
+            <view class="text-wrapper_9">
+              <text lines="1" class="text_36">取借车</text>
+            </view>
+          </view>
+          <view class="group_18">
+            <view class="image-text_1">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_9"></image>
+              <text lines="1" class="text-group_2">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_19">
+      <view class="text-wrapper_10">
+        <text lines="1" class="paragraph_2">进<br/>行<br/>中</text>
+      </view>
+      <view class="box_12">
+        <view class="group_20">
+          <text lines="1" class="text_37">周乐心</text>
+          <view class="text-wrapper_11">
+            <text lines="1" class="text_38">还借车</text>
+          </view>
+        </view>
+        <view class="group_21">
+          <view class="image-text_2">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_10"></image>
+            <text lines="1" class="text-group_3">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_22">
+      <text lines="1" class="text_39">09:10</text>
+      <view class="box_13">
+        <view class="text-wrapper_12">
+          <text lines="1" class="paragraph_3">待<br/>开<br/>始</text>
+        </view>
+        <view class="group_23">
+          <view class="group_24">
+            <text lines="1" class="text_40">马保国</text>
+            <view class="text-wrapper_13">
+              <text lines="1" class="text_41">送车</text>
+            </view>
+          </view>
+          <view class="group_25">
+            <view class="image-text_3">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_11"></image>
+              <text lines="1" class="text-group_4">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_26">
+      <text lines="1" class="text_42">09:30</text>
+      <view class="group_27">
+        <view class="text-wrapper_14">
+          <text lines="1" class="paragraph_4">待<br/>开<br/>始</text>
+        </view>
+        <view class="block_6">
+          <view class="block_7">
+            <text lines="1" class="text_43">王嘉尔</text>
+            <view class="text-wrapper_15">
+              <text lines="1" class="text_44">收车</text>
+            </view>
+          </view>
+          <view class="block_8">
+            <view class="image-text_4">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_12"></image>
+              <text lines="1" class="text-group_5">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_28">
+      <text lines="1" class="text_45">09:40</text>
+      <view class="group_29">
+        <view class="text-wrapper_16">
+          <text lines="1" class="paragraph_5">待<br/>开<br/>始</text>
+        </view>
+        <view class="group_30">
+          <view class="section_5">
+            <text lines="1" class="text_46">维修</text>
+            <view class="text-wrapper_17">
+              <text lines="1" class="text_47">其他</text>
+            </view>
+          </view>
+          <view class="section_6">
+            <view class="image-text_5">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGfe2067ff4559ac1a8cfc19ce3e2ebb3c.png" class="thumbnail_13"></image>
+              <view class="text-group_6">
+                <text lines="1" class="text_48">琼</text>
+                <text lines="1" class="text_49">A15TX1</text>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_31">
+      <view class="text-wrapper_18">
+        <text lines="1" class="paragraph_6">待<br/>排<br/>单</text>
+      </view>
+      <view class="group_32">
+        <view class="box_14">
+          <text lines="1" class="text_50">保养</text>
+          <view class="text-wrapper_19">
+            <text lines="1" class="text_51">其他</text>
+          </view>
+        </view>
+        <view class="box_15">
+          <view class="image-text_6">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGfe2067ff4559ac1a8cfc19ce3e2ebb3c.png" class="thumbnail_14"></image>
+            <view class="text-group_7">
+              <text lines="1" class="text_52">琼</text>
+              <text lines="1" class="text_53">A15TX1</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_33">
+      <view class="block_9">
+        <view class="box_16"></view>
+      </view>
+      <view class="text-wrapper_20">
+        <text lines="1" class="text_54">07</text>
+        <text lines="1" class="text_55">月</text>
+        <text lines="1" class="text_56">18</text>
+        <text lines="1" class="text_57">日</text>
+      </view>
+    </view>
+    <view class="group_34">
+      <text lines="1" class="text_58">09:05</text>
+      <view class="box_17">
+        <view class="text-wrapper_21">
+          <text lines="1" class="paragraph_7">进<br/>行<br/>中</text>
+        </view>
+        <view class="block_10">
+          <view class="group_35">
+            <text lines="1" class="text_59">王可心</text>
+            <view class="text-wrapper_22">
+              <text lines="1" class="text_60">送借车</text>
+            </view>
+          </view>
+          <view class="group_36">
+            <view class="image-text_7">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_15"></image>
+              <text lines="1" class="text-group_8">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_37">
+      <view class="text-wrapper_23">
+        <text lines="1" class="paragraph_8">待<br/>排<br/>单</text>
+      </view>
+      <view class="group_38">
+        <view class="group_39">
+          <text lines="1" class="text_61">接人</text>
+          <view class="text-wrapper_24">
+            <text lines="1" class="text_62">其他</text>
+          </view>
+        </view>
+        <view class="group_40">
+          <view class="image-text_8">
+            <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_16"></image>
+            <text lines="1" class="text-group_9">凤凰机场</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_41">
+      <text lines="1" class="text_63">09:30</text>
+      <view class="box_18">
+        <view class="text-wrapper_25">
+          <text lines="1" class="paragraph_9">待<br/>开<br/>始</text>
+        </view>
+        <view class="group_42">
+          <view class="section_7">
+            <text lines="1" class="text_64">王嘉尔</text>
+            <view class="text-wrapper_26">
+              <text lines="1" class="text_65">其他</text>
+            </view>
+          </view>
+          <view class="section_8">
+            <view class="image-text_9">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_17"></image>
+              <text lines="1" class="text-group_10">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_43">
+      <text lines="1" class="text_66">09:40</text>
+      <view class="box_19">
+        <view class="text-wrapper_27">
+          <text lines="1" class="paragraph_10">待<br/>开<br/>始</text>
+        </view>
+        <view class="group_44">
+          <view class="box_20">
+            <text lines="1" class="text_67">王嘉尔</text>
+            <view class="text-wrapper_28">
+              <text lines="1" class="text_68">收借车</text>
+            </view>
+          </view>
+          <view class="box_21">
+            <view class="image-text_10">
+              <image src="../../images/lanhu_shouye/FigmaDDSSlicePNG471a0580327e935c0ea6cb7d30e57a6e.png" class="thumbnail_18"></image>
+              <text lines="1" class="text-group_11">海南省三亚市海棠湾AB区ABC路ABCD酒店...</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="box_22">
+    <view class="group_45"></view>
+    <view class="list_1">
+      <view class="image-text_11-0">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGeceb4158945fdd9c7cb299f026160d92.png" class="label_2-0"></image>
+        <text lines="1" class="text-group_12-0">首页</text>
+      </view>
+      <view class="image-text_11-1">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGbf889d09658d44cef94307428cce96fc.png" class="label_2-1"></image>
+        <text lines="1" class="text-group_12-1">控制台</text>
+      </view>
+      <view class="image-text_11-2">
+        <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGd06f910d3e1bbda5a96c5d99ff6c03cb.png" class="label_2-2"></image>
+        <text lines="1" class="text-group_12-2">我的</text>
+      </view>
+    </view>
+    <image src="../../images/lanhu_shouye/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_6"></image>
+  </view>
+</view>

@@ -1,0 +1,54 @@
+page {
+  min-height: 100%;
+  background: #f5f6f8;
+  color: #20242a;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 28rpx;
+}
+
+view,
+text,
+scroll-view,
+button {
+  box-sizing: border-box;
+}
+
+button {
+  padding: 0;
+  margin: 0;
+  background: transparent;
+  border-radius: 0;
+  line-height: inherit;
+  font-size: inherit;
+}
+
+button::after {
+  border: none;
+}
+
+.page {
+  min-height: 100vh;
+  padding: 32rpx 32rpx calc(48rpx + env(safe-area-inset-bottom));
+}
+
+.card {
+  border-radius: 8rpx;
+  background: #fff;
+  border: 1rpx solid #e8ebef;
+}
+
+.muted {
+  color: #69717d;
+}
+
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  height: 44rpx;
+  padding: 0 18rpx;
+  border-radius: 22rpx;
+  background: #fff7d6;
+  color: #7a5600;
+  font-size: 22rpx;
+  font-weight: 500;
+}

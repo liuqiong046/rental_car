@@ -1,0 +1,62 @@
+<view class="page">
+  <view class="section_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="section_2">
+        <view class="section_3"></view>
+      </view>
+      <view class="section_4">
+        <view class="group_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_qudaoxiangqing/FigmaDDSSlicePNG7dd97eef3a390f826438312de1a4a7c8.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_2">
+      <image src="../../images/lanhu_qudaoxiangqing/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">车行详情</text>
+      <view class="group_2">
+        <view class="block_3"></view>
+        <view class="block_4"></view>
+        <image src="../../images/lanhu_qudaoxiangqing/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_5">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_4">城市选择</text>
+      <text lines="1" class="text_5">三亚</text>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_6">渠道名称</text>
+      <text lines="1" class="text_7">赫兹租车</text>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_8">渠道地址</text>
+      <text lines="1" class="text_9">三亚市凤凰机场</text>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_10">联系人</text>
+      <text lines="1" class="text_11">张三</text>
+    </view>
+    <view class="list_1">
+      <view class="text-wrapper_5-0">
+        <text lines="1" class="text_12-0">联系电话</text>
+        <text lines="1" class="text_13-0">微信号</text>
+      </view>
+      <view class="text-wrapper_5-1">
+        <text lines="1" class="text_12-1">1987809876</text>
+        <text lines="1" class="text_13-1">1987809876</text>
+      </view>
+    </view>
+    <view class="group_3">
+      <text lines="1" class="text_14">微信号</text>
+      <image src="../../images/lanhu_qudaoxiangqing/FigmaDDSSlicePNG1e57ec624dbe70940e10143376bddc38.png" class="image_2"></image>
+    </view>
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_15">渠道等级</text>
+      <text lines="1" class="text_16">普通</text>
+    </view>
+  </view>
+</view>

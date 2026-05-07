@@ -1,0 +1,316 @@
+<view class="page">
+  <view class="box_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_2">
+      <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">客户订单</text>
+    </view>
+    <view class="box_3">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_4">借入</text>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_5">借入</text>
+      </view>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_6">全部</text>
+      <text lines="1" class="text_7">待支付</text>
+      <text lines="1" class="text_8">待接单</text>
+      <text lines="1" class="text_9">进行中</text>
+      <text lines="1" class="text_10">已完成</text>
+      <text lines="1" class="text_11">已取消/退单</text>
+    </view>
+    <view class="box_4"></view>
+    <view class="box_5">
+      <view class="section_1">
+        <view class="group_1"></view>
+        <view class="group_2"></view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="section_2">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="list_1">
+    <view class="list-items_1-0">
+      <view class="block_1-0">
+        <view class="image-text_1-0">
+          <view class="text-group_1-0">
+            <text lines="1" class="text_12-0">订单编号：</text>
+            <text lines="1" class="text_13-0">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2-0"></image>
+        </view>
+        <view class="text-wrapper_5-0">
+          <text lines="1" class="text_14-0">待接单</text>
+        </view>
+      </view>
+      <view class="block_2-0">
+        <view class="text-wrapper_6-0">
+          <text lines="1" class="text_15-0">用车方</text>
+        </view>
+        <text lines="1" class="text_16-0">捷达租车</text>
+        <text lines="1" class="text_17-0">19578012123</text>
+        <view class="image-wrapper_2-0">
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_3-0"></image>
+        </view>
+      </view>
+      <view class="block_3-0">
+        <view class="box_6-0">
+          <view class="section_3-0"></view>
+          <text lines="1" class="text_18-0">送车<br/>上门</text>
+          <view class="section_4-0">
+            <text lines="1" decode="true" class="text_19-0">2024-01-08&nbsp;17:59</text>
+            <view class="box_7-0">
+              <text lines="1" class="text_20-0">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_4-0"></image>
+            </view>
+          </view>
+        </view>
+        <view class="box_8-0">
+          <view class="section_5-0"></view>
+          <text lines="1" class="text_21-0">上门<br/>收车</text>
+          <view class="section_6-0">
+            <text lines="1" decode="true" class="text_22-0">2024-01-08&nbsp;17:59</text>
+            <view class="group_5-0">
+              <text lines="1" class="text_23-0">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_5-0"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="block_4-0">
+        <text lines="1" class="text_24-0">小米汽车SU7</text>
+        <view class="text-wrapper_7-0">
+          <text lines="1" class="text_25-0">琼B894J9X</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-1">
+      <view class="block_1-1">
+        <view class="image-text_1-1">
+          <view class="text-group_1-1">
+            <text lines="1" class="text_12-1">订单编号：</text>
+            <text lines="1" class="text_13-1">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2-1"></image>
+        </view>
+        <view class="text-wrapper_5-1">
+          <text lines="1" class="text_14-1">待取车</text>
+        </view>
+      </view>
+      <view class="block_2-1">
+        <view class="text-wrapper_6-1">
+          <text lines="1" class="text_15-1">用车方</text>
+        </view>
+        <text lines="1" class="text_16-1">捷达租车</text>
+        <text lines="1" class="text_17-1">19578012123</text>
+        <view class="image-wrapper_2-1">
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_3-1"></image>
+        </view>
+      </view>
+      <view class="block_3-1">
+        <view class="box_6-1">
+          <view class="section_3-1"></view>
+          <text lines="1" class="text_18-1">送车<br/>上门</text>
+          <view class="section_4-1">
+            <text lines="1" decode="true" class="text_19-1">2024-01-08&nbsp;17:59</text>
+            <view class="box_7-1">
+              <text lines="1" class="text_20-1">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_4-1"></image>
+            </view>
+          </view>
+        </view>
+        <view class="box_8-1">
+          <view class="section_5-1"></view>
+          <text lines="1" class="text_21-1">上门<br/>收车</text>
+          <view class="section_6-1">
+            <text lines="1" decode="true" class="text_22-1">2024-01-08&nbsp;17:59</text>
+            <view class="group_5-1">
+              <text lines="1" class="text_23-1">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_5-1"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="block_4-1">
+        <text lines="1" class="text_24-1">小米汽车SU7</text>
+        <view class="text-wrapper_7-1">
+          <text lines="1" class="text_25-1">琼B894J9X</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-2">
+      <view class="block_1-2">
+        <view class="image-text_1-2">
+          <view class="text-group_1-2">
+            <text lines="1" class="text_12-2">订单编号：</text>
+            <text lines="1" class="text_13-2">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2-2"></image>
+        </view>
+        <view class="text-wrapper_5-2">
+          <text lines="1" class="text_14-2">待还车</text>
+        </view>
+      </view>
+      <view class="block_2-2">
+        <view class="text-wrapper_6-2">
+          <text lines="1" class="text_15-2">用车方</text>
+        </view>
+        <text lines="1" class="text_16-2">捷达租车</text>
+        <text lines="1" class="text_17-2">19578012123</text>
+        <view class="image-wrapper_2-2">
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_3-2"></image>
+        </view>
+      </view>
+      <view class="block_3-2">
+        <view class="box_6-2">
+          <view class="section_3-2"></view>
+          <text lines="1" class="text_18-2">送车<br/>上门</text>
+          <view class="section_4-2">
+            <text lines="1" decode="true" class="text_19-2">2024-01-08&nbsp;17:59</text>
+            <view class="box_7-2">
+              <text lines="1" class="text_20-2">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_4-2"></image>
+            </view>
+          </view>
+        </view>
+        <view class="box_8-2">
+          <view class="section_5-2"></view>
+          <text lines="1" class="text_21-2">上门<br/>收车</text>
+          <view class="section_6-2">
+            <text lines="1" decode="true" class="text_22-2">2024-01-08&nbsp;17:59</text>
+            <view class="group_5-2">
+              <text lines="1" class="text_23-2">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_5-2"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="block_4-2">
+        <text lines="1" class="text_24-2">小米汽车SU7</text>
+        <view class="text-wrapper_7-2">
+          <text lines="1" class="text_25-2">琼B894J9X</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-3">
+      <view class="block_1-3">
+        <view class="image-text_1-3">
+          <view class="text-group_1-3">
+            <text lines="1" class="text_12-3">订单编号：</text>
+            <text lines="1" class="text_13-3">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2-3"></image>
+        </view>
+        <view class="text-wrapper_5-3">
+          <text lines="1" class="text_14-3">售后中</text>
+        </view>
+      </view>
+      <view class="block_2-3">
+        <view class="text-wrapper_6-3">
+          <text lines="1" class="text_15-3">用车方</text>
+        </view>
+        <text lines="1" class="text_16-3">捷达租车</text>
+        <text lines="1" class="text_17-3">19578012123</text>
+        <view class="image-wrapper_2-3">
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_3-3"></image>
+        </view>
+      </view>
+      <view class="block_3-3">
+        <view class="box_6-3">
+          <view class="section_3-3"></view>
+          <text lines="1" class="text_18-3">送车<br/>上门</text>
+          <view class="section_4-3">
+            <text lines="1" decode="true" class="text_19-3">2024-01-08&nbsp;17:59</text>
+            <view class="box_7-3">
+              <text lines="1" class="text_20-3">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_4-3"></image>
+            </view>
+          </view>
+        </view>
+        <view class="box_8-3">
+          <view class="section_5-3"></view>
+          <text lines="1" class="text_21-3">上门<br/>收车</text>
+          <view class="section_6-3">
+            <text lines="1" decode="true" class="text_22-3">2024-01-08&nbsp;17:59</text>
+            <view class="group_5-3">
+              <text lines="1" class="text_23-3">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_5-3"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="block_4-3">
+        <text lines="1" class="text_24-3">小米汽车SU7</text>
+        <view class="text-wrapper_7-3">
+          <text lines="1" class="text_25-3">琼B894J9X</text>
+        </view>
+      </view>
+    </view>
+    <view class="list-items_1-4">
+      <view class="block_1-4">
+        <view class="image-text_1-4">
+          <view class="text-group_1-4">
+            <text lines="1" class="text_12-4">订单编号：</text>
+            <text lines="1" class="text_13-4">YC20250717125645</text>
+          </view>
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG7a3e8a079533b6e85f0feaf9b74afda6.png" class="thumbnail_2-4"></image>
+        </view>
+        <view class="text-wrapper_5-4">
+          <text lines="1" class="text_14-4">已完成</text>
+        </view>
+      </view>
+      <view class="block_2-4">
+        <view class="text-wrapper_6-4">
+          <text lines="1" class="text_15-4">用车方</text>
+        </view>
+        <text lines="1" class="text_16-4">捷达租车</text>
+        <text lines="1" class="text_17-4">19578012123</text>
+        <view class="image-wrapper_2-4">
+          <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNG4a682d31ad94f0a8f625225386a9df91.png" class="thumbnail_3-4"></image>
+        </view>
+      </view>
+      <view class="block_3-4">
+        <view class="box_6-4">
+          <view class="section_3-4"></view>
+          <text lines="1" class="text_18-4">送车<br/>上门</text>
+          <view class="section_4-4">
+            <text lines="1" decode="true" class="text_19-4">2024-01-08&nbsp;17:59</text>
+            <view class="box_7-4">
+              <text lines="1" class="text_20-4">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_4-4"></image>
+            </view>
+          </view>
+        </view>
+        <view class="box_8-4">
+          <view class="section_5-4"></view>
+          <text lines="1" class="text_21-4">上门<br/>收车</text>
+          <view class="section_6-4">
+            <text lines="1" decode="true" class="text_22-4">2024-01-08&nbsp;17:59</text>
+            <view class="group_5-4">
+              <text lines="1" class="text_23-4">海南省三亚市山海放心租运营中心</text>
+              <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGd8a784bcc895fba6294b0aa4e6c50674.png" class="thumbnail_5-4"></image>
+            </view>
+          </view>
+        </view>
+      </view>
+      <view class="block_4-4">
+        <text lines="1" class="text_24-4">小米汽车SU7</text>
+        <view class="text-wrapper_7-4">
+          <text lines="1" class="text_25-4">琼B894J9X</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <image src="../../images/lanhu_jierupifadingdan_1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

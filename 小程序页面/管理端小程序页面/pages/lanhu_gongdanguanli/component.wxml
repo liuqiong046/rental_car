@@ -1,0 +1,227 @@
+<view class="page">
+  <view class="section_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_1">
+      <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">客户订单</text>
+    </view>
+    <view class="box_2">
+      <view class="box_3">
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_4">全部</text>
+        </view>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_5">今天</text>
+        </view>
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_6">明天</text>
+        </view>
+        <view class="text-wrapper_5">
+          <text lines="1" class="text_7">后天</text>
+        </view>
+      </view>
+    </view>
+    <view class="box_4">
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_8">全部</text>
+        <text lines="1" class="text_9">(100)</text>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_10">待排单</text>
+        <text lines="1" class="text_11">(20)</text>
+      </view>
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_12">待开始</text>
+        <text lines="1" class="text_13">(30)</text>
+      </view>
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_14">进行中</text>
+        <text lines="1" class="text_15">(9)</text>
+      </view>
+      <text lines="1" class="text_16">已完成(41)</text>
+      <text lines="1" class="text_17">已完成</text>
+    </view>
+    <view class="box_5">
+      <view class="box_6"></view>
+    </view>
+    <view class="box_7">
+      <view class="group_1">
+        <view class="group_2">
+          <view class="box_8"></view>
+        </view>
+        <view class="group_3">
+          <view class="group_4"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="group_5">
+        <view class="box_9"></view>
+        <view class="box_10"></view>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_2">
+    <view class="box_11">
+      <view class="section_3">
+        <view class="image-text_1">
+          <text lines="1" class="text-group_1">工单类型</text>
+          <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_2"></image>
+        </view>
+      </view>
+      <view class="section_4">
+        <view class="image-text_2">
+          <text lines="1" decode="true" class="text-group_2">开始日期&nbsp;-&nbsp;结束日期</text>
+          <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_3"></image>
+        </view>
+      </view>
+    </view>
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="group_6-0">
+          <view class="text-group_3-0">
+            <text lines="1" decode="true" class="text_18-0">2024-01-08&nbsp;17:59</text>
+            <text lines="1" class="text_19-0">山海放心租三亚运营中心</text>
+          </view>
+          <view class="text-wrapper_10-0">
+            <text lines="1" class="text_21-0">取借车</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_2-0"></image>
+        <view class="text-wrapper_12-0">
+          <text lines="1" class="text_25-0">待排单</text>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="group_6-1">
+          <text lines="1" decode="true" class="text_20-1">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_10-1">
+            <text lines="1" class="text_21-1">还借车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_22-1">三亚捷达租车行凤凰机场店</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_2-1"></image>
+        <view class="group_7-1">
+          <text lines="1" class="text_23-1">胡可</text>
+          <view class="text-wrapper_11-1">
+            <text lines="1" class="text_24-1">待开始</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="box_12">
+      <view class="group_8">
+        <view class="box_13">
+          <text lines="1" decode="true" class="text_26">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_13">
+            <text lines="1" class="text_27">送借车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_28">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_3"></image>
+        <view class="box_14">
+          <text lines="1" class="text_29">胡可</text>
+          <view class="text-wrapper_14">
+            <text lines="1" class="text_30">进行中</text>
+          </view>
+        </view>
+      </view>
+      <view class="group_9">
+        <view class="group_10">
+          <text lines="1" decode="true" class="text_31">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_15">
+            <text lines="1" class="text_32">收借车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_33">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_4"></image>
+        <view class="group_11">
+          <text lines="1" class="text_34">胡可</text>
+          <view class="text-wrapper_16">
+            <text lines="1" class="text_35">进行中</text>
+          </view>
+        </view>
+      </view>
+      <view class="group_12">
+        <view class="box_15">
+          <text lines="1" decode="true" class="text_36">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_17">
+            <text lines="1" class="text_37">送车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_38">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_5"></image>
+        <view class="text-wrapper_18">
+          <text lines="1" class="text_39">待排单</text>
+        </view>
+      </view>
+      <view class="group_13">
+        <view class="section_5">
+          <text lines="1" decode="true" class="text_40">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_19">
+            <text lines="1" class="text_41">收车</text>
+          </view>
+        </view>
+        <text lines="1" class="text_42">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_6"></image>
+        <view class="text-wrapper_20">
+          <text lines="1" class="text_43">待排单</text>
+        </view>
+      </view>
+      <view class="group_14">
+        <view class="group_15">
+          <text lines="1" decode="true" class="text_44">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_21">
+            <text lines="1" class="text_45">其他</text>
+          </view>
+        </view>
+        <text lines="1" class="text_46">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_7"></image>
+        <view class="group_16">
+          <text lines="1" class="text_47">胡可</text>
+          <view class="text-wrapper_22">
+            <text lines="1" class="text_48">进行中</text>
+          </view>
+        </view>
+      </view>
+      <view class="group_17">
+        <view class="group_18">
+          <text lines="1" decode="true" class="text_49">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_23">
+            <text lines="1" class="text_50">其他</text>
+          </view>
+        </view>
+        <text lines="1" class="text_51">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_8"></image>
+        <view class="group_19">
+          <text lines="1" decode="true" class="text_52">王可可&nbsp;&nbsp;张三</text>
+          <view class="text-wrapper_24">
+            <text lines="1" class="text_53">已完成</text>
+          </view>
+        </view>
+      </view>
+      <view class="group_20">
+        <view class="box_16">
+          <text lines="1" decode="true" class="text_54">2024-01-08&nbsp;17:59</text>
+          <view class="text-wrapper_25">
+            <text lines="1" class="text_55">其他</text>
+          </view>
+        </view>
+        <text lines="1" class="text_56">海南省三亚市海棠湾xx区xx路xxxxxxxxxxx酒店xxxxxxxx</text>
+        <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGd99b47607538dede46415b5d004bd9c1.png" class="image_9"></image>
+        <view class="box_17">
+          <text lines="1" decode="true" class="text_57">王可可&nbsp;&nbsp;张三</text>
+          <view class="text-wrapper_26">
+            <text lines="1" class="text_58">已完成</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <image src="../../images/lanhu_gongdanguanli/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_10"></image>
+</view>

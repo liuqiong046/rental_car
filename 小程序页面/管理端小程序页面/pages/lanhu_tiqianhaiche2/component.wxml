@@ -1,0 +1,143 @@
+<view class="page">
+  <view class="block_1">
+    <view class="section_1">
+      <text lines="1" class="text_1">提前还车</text>
+      <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_2">原还车时间</text>
+    </view>
+  </view>
+  <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="block_2">
+    <view class="box_1">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_3">7</text>
+        <text lines="1" class="text_4">月</text>
+        <text lines="1" class="text_5">20</text>
+        <text lines="1" class="text_6">日</text>
+      </view>
+      <view class="box_2">
+        <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNGac212f011cf5b10be29c5c418e0988c0.png" class="thumbnail_1"></image>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_7">周五</text>
+          <text lines="1" decode="true" class="text_8">&nbsp;09:30</text>
+        </view>
+      </view>
+    </view>
+    <view class="box_3">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_2"></image>
+      </view>
+      <view class="text-group_1">
+        <text lines="1" class="text_9">提前还车时间</text>
+        <text lines="1" decode="true" class="text_10">&nbsp;年/月/日&nbsp;&nbsp;--:--</text>
+      </view>
+      <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_3"></image>
+    </view>
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <view class="text-wrapper_4-0">
+          <text lines="1" class="text_11-0">7</text>
+          <text lines="1" class="text_12-0">月</text>
+          <text lines="1" class="text_13-0">18</text>
+          <text lines="1" class="text_14-0">日</text>
+        </view>
+        <view class="text-wrapper_5-0">
+          <text lines="1" class="text_15-0">15</text>
+          <text lines="1" class="text_16-0">时</text>
+        </view>
+        <view class="text-wrapper_6-0">
+          <text lines="1" class="text_17-0">20</text>
+          <text lines="1" class="text_18-0">分</text>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <view class="text-wrapper_4-1">
+          <text lines="1" class="text_11-1">7</text>
+          <text lines="1" class="text_12-1">月</text>
+          <text lines="1" class="text_13-1">18</text>
+          <text lines="1" class="text_14-1">日</text>
+        </view>
+        <view class="text-wrapper_5-1">
+          <text lines="1" class="text_15-1">15</text>
+          <text lines="1" class="text_16-1">时</text>
+        </view>
+        <view class="text-wrapper_6-1">
+          <text lines="1" class="text_17-1">20</text>
+          <text lines="1" class="text_18-1">分</text>
+        </view>
+      </view>
+      <view class="list-items_1-2">
+        <view class="text-wrapper_4-2">
+          <text lines="1" class="text_11-2">7</text>
+          <text lines="1" class="text_12-2">月</text>
+          <text lines="1" class="text_13-2">18</text>
+          <text lines="1" class="text_14-2">日</text>
+        </view>
+        <view class="text-wrapper_5-2">
+          <text lines="1" class="text_15-2">15</text>
+          <text lines="1" class="text_16-2">时</text>
+        </view>
+        <view class="text-wrapper_6-2">
+          <text lines="1" class="text_17-2">20</text>
+          <text lines="1" class="text_18-2">分</text>
+        </view>
+      </view>
+      <view class="list-items_1-3">
+        <view class="text-wrapper_4-3">
+          <text lines="1" class="text_11-3">7</text>
+          <text lines="1" class="text_12-3">月</text>
+          <text lines="1" class="text_13-3">18</text>
+          <text lines="1" class="text_14-3">日</text>
+        </view>
+        <view class="text-wrapper_5-3">
+          <text lines="1" class="text_15-3">15</text>
+          <text lines="1" class="text_16-3">时</text>
+        </view>
+        <view class="text-wrapper_6-3">
+          <text lines="1" class="text_17-3">20</text>
+          <text lines="1" class="text_18-3">分</text>
+        </view>
+      </view>
+      <view class="list-items_1-4">
+        <view class="text-wrapper_4-4">
+          <text lines="1" class="text_11-4">7</text>
+          <text lines="1" class="text_12-4">月</text>
+          <text lines="1" class="text_13-4">18</text>
+          <text lines="1" class="text_14-4">日</text>
+        </view>
+        <view class="text-wrapper_5-4">
+          <text lines="1" class="text_15-4">15</text>
+          <text lines="1" class="text_16-4">时</text>
+        </view>
+        <view class="text-wrapper_6-4">
+          <text lines="1" class="text_17-4">20</text>
+          <text lines="1" class="text_18-4">分</text>
+        </view>
+      </view>
+    </view>
+    <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNGede07533acd0731bb514c5a71a900573.png" class="image_2"></image>
+    <view class="box_4">
+      <text lines="1" class="text_19">租车费</text>
+      <view class="block_3">
+        <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNG5e1711de361b1b9bde4eac489f9cf4bd.png" class="thumbnail_4"></image>
+        <text lines="1" class="text_20">加</text>
+      </view>
+      <view class="block_4">
+        <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNG08144acc01115f4de32fcb189a80483e.png" class="thumbnail_5"></image>
+        <text lines="1" class="text_21">减</text>
+      </view>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_22">1000</text>
+      </view>
+      <text lines="1" class="text_23">元</text>
+    </view>
+    <view class="text-wrapper_8">
+      <text lines="1" class="text_24">保存</text>
+    </view>
+    <view class="image-wrapper_2">
+      <image src="../../images/lanhu_tiqianhaiche2/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_6"></image>
+    </view>
+  </view>
+</view>

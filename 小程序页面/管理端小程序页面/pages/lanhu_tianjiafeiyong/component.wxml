@@ -1,0 +1,104 @@
+<view class="page">
+  <view class="box_1">
+    <text lines="1" class="text_1">添加费用</text>
+    <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="box_2">
+    <text lines="1" class="text_2">租金</text>
+    <view class="section_1">
+      <view class="group_1">
+        <view class="box_3">
+          <text lines="1" class="text_3">租车费</text>
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_4">一口价</text>
+          </view>
+        </view>
+        <text lines="1" class="text_5">送车上门服务费</text>
+        <text lines="1" class="text_6">上门收车服务费</text>
+      </view>
+      <view class="text-group_1">
+        <text lines="1" class="text_7">1000</text>
+        <text lines="1" class="text_8">50</text>
+        <text lines="1" class="text_9">50</text>
+      </view>
+      <view class="text-group_2">
+        <text lines="1" class="text_10">元</text>
+        <text lines="1" class="text_11">元</text>
+        <text lines="1" class="text_12">元</text>
+      </view>
+    </view>
+    <view class="section_2">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNG8757a78465fc64746e4b469485bc0b82.png" class="thumbnail_1"></image>
+        <text lines="1" class="text-group_3">添加费用项</text>
+      </view>
+    </view>
+    <view class="section_3">
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNG5352a661d52e2086e766fbb826ab339e.png" class="thumbnail_2"></image>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_13">请输入费用名称</text>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_14">请输入金额</text>
+      </view>
+      <text lines="1" class="text_15">元</text>
+    </view>
+    <view class="section_4">
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNG5352a661d52e2086e766fbb826ab339e.png" class="thumbnail_3"></image>
+      </view>
+      <view class="text-wrapper_4">
+        <text lines="1" class="text_16">请输入费用名称</text>
+      </view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_17">请输入金额</text>
+      </view>
+      <text lines="1" class="text_18">元</text>
+    </view>
+    <view class="section_5"></view>
+    <view class="section_6">
+      <view class="image-wrapper_3">
+        <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNG9455e97832acee8422fc4a2ba1f6e4bc.png" class="thumbnail_4"></image>
+      </view>
+      <text lines="1" class="text_19">押金</text>
+    </view>
+    <view class="section_7">
+      <text lines="1" class="text_20">费用类型</text>
+      <view class="image-text_2">
+        <text lines="1" class="text-group_4">无需押金</text>
+        <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNG36f9f2a920a7b4512ffed4884d5e5cbb.png" class="thumbnail_5"></image>
+      </view>
+    </view>
+    <view class="section_8">
+      <text lines="1" class="text_21">车辆押金</text>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_22">8000</text>
+      </view>
+      <text lines="1" class="text_23">元</text>
+    </view>
+    <view class="section_9">
+      <text lines="1" class="text_24">违章押金</text>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_25">3000</text>
+      </view>
+      <text lines="1" class="text_26">元</text>
+    </view>
+    <view class="section_10"></view>
+    <view class="section_11">
+      <text lines="1" class="text_27">租金总额</text>
+      <view class="text-wrapper_8">
+        <text lines="1" class="text_28">1100</text>
+        <text lines="1" decode="true" class="text_29">&nbsp;元</text>
+      </view>
+    </view>
+    <view class="text-wrapper_9">
+      <text lines="1" class="text_30">保存</text>
+    </view>
+    <view class="image-wrapper_4">
+      <image src="../../images/lanhu_tianjiafeiyong/FigmaDDSSlicePNG9455e97832acee8422fc4a2ba1f6e4bc.png" class="thumbnail_6"></image>
+    </view>
+  </view>
+</view>

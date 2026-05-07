@@ -1,0 +1,80 @@
+<view class="page">
+  <view class="section_1">
+    <image src="../../images/lanhu_feiyongmingxiyouyajinyoushangmensongqufeicduanyonghu/FigmaDDSSlicePNGd809db5b138d2910e0eee4ff5dac1012.png" class="thumbnail_1"></image>
+    <text lines="1" class="text_1">费用明细</text>
+    <view class="image-wrapper_1">
+      <image src="../../images/lanhu_feiyongmingxiyouyajinyoushangmensongqufeicduanyonghu/FigmaDDSSlicePNG9d11d024b290901e2c9b4255e7465f3f.png" class="thumbnail_2"></image>
+    </view>
+  </view>
+  <view class="section_2">
+    <view class="block_1">
+      <text lines="1" class="text_2">租金</text>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_3">1100</text>
+        <text lines="1" decode="true" class="text_4">&nbsp;元</text>
+      </view>
+    </view>
+    <view class="block_2">
+      <view class="group_1">
+        <text lines="1" class="text_5">租车费</text>
+        <image src="../../images/lanhu_feiyongmingxiyouyajinyoushangmensongqufeicduanyonghu/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_3"></image>
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_6">1000</text>
+          <text lines="1" class="text_7">元</text>
+        </view>
+      </view>
+      <view class="group_2">
+        <text lines="1" class="text_8">送车上门服务费</text>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_9">（500</text>
+          <text lines="1" class="text_10">元</text>
+          <text lines="1" decode="true" class="text_11">&nbsp;x&nbsp;2.0</text>
+          <text lines="1" class="text_12">天）</text>
+        </view>
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_13">80</text>
+          <text lines="1" class="text_14">元</text>
+        </view>
+      </view>
+      <view class="group_3">
+        <text lines="1" class="text_15">上门收车服务费</text>
+        <view class="text-wrapper_5">
+          <text lines="1" class="text_16">20</text>
+          <text lines="1" class="text_17">元</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="section_3">
+    <view class="section_4">
+      <text lines="1" class="text_18">押金</text>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_19">11000</text>
+        <text lines="1" decode="true" class="text_20">&nbsp;元</text>
+      </view>
+    </view>
+    <view class="section_5">
+      <view class="text-group_1">
+        <text lines="1" class="text_21">车辆押金</text>
+        <text lines="1" class="text_22">违章押金</text>
+      </view>
+      <view class="text-group_2">
+        <view class="text-wrapper_7">
+          <text lines="1" class="text_23">8000</text>
+          <text lines="1" class="text_24">元</text>
+        </view>
+        <view class="text-wrapper_8">
+          <text lines="1" class="text_25">3000</text>
+          <text lines="1" class="text_26">元</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="text-wrapper_9">
+    <text lines="1" class="text_27">12100</text>
+    <text lines="1" class="text_28">元</text>
+  </view>
+  <view class="text-wrapper_10">
+    <text lines="1" class="text_29">订单总额</text>
+  </view>
+</view>

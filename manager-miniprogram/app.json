@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/home/home"
+  ],
+  "window": {
+    "navigationBarTitleText": "山海管家",
+    "navigationBarBackgroundColor": "#20242A",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#F5F6F8",
+    "backgroundTextStyle": "dark"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

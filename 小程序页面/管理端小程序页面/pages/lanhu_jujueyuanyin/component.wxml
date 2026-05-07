@@ -1,0 +1,13 @@
+<view class="page">
+  <view class="box_1">
+    <view class="group_1">
+      <view class="text-group_1">
+        <text lines="1" class="text_1">拒绝原因</text>
+        <text lines="1" class="text_2">拒绝原因拒绝原因拒绝原因拒绝原因拒绝原因拒绝原因拒绝原因拒绝原因拒绝原因</text>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_3">确定</text>
+      </view>
+    </view>
+  </view>
+</view>

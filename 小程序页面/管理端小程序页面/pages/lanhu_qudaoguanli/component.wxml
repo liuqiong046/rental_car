@@ -1,0 +1,102 @@
+<view class="page">
+  <view class="box_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_1">
+      <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">渠道管理</text>
+    </view>
+    <view class="group_2">
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_4">正常</text>
+      </view>
+      <text lines="1" class="text_5">停用</text>
+    </view>
+    <view class="group_3">
+      <view class="group_4">
+        <view class="image-text_1">
+          <text lines="1" class="text-group_1">三亚</text>
+          <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_6">输入车牌号搜索</text>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG702576bc26ca7754deaac39d68b2ae72.png" class="thumbnail_2"></image>
+      </view>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG601350237a2a674fffce0a7304532e49.png" class="thumbnail_3"></image>
+      </view>
+    </view>
+    <view class="group_5">
+      <view class="group_6">
+        <view class="block_1">
+          <view class="group_7"></view>
+        </view>
+        <view class="block_2">
+          <view class="group_8"></view>
+        </view>
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG7dd97eef3a390f826438312de1a4a7c8.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="group_9">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+  </view>
+  <view class="box_4">
+    <view class="list_1">
+      <view class="list-items_1-0">
+        <text lines="1" class="text_7-0">xxxxxxxx酒店</text>
+        <view class="text-wrapper_4-0">
+          <text lines="1" class="text_8-0">高级</text>
+        </view>
+        <view class="block_3-0">
+          <view class="image-text_2-0">
+            <text lines="1" class="text-group_2-0">操作</text>
+            <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_5-0"></image>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-1">
+        <text lines="1" class="text_7-1">xxxxxx民宿</text>
+        <view class="block_3-1">
+          <view class="image-text_2-1">
+            <text lines="1" class="text-group_2-1">操作</text>
+            <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_5-1"></image>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-2">
+        <text lines="1" class="text_7-2">xxxxxx民宿</text>
+        <view class="block_3-2">
+          <view class="image-text_2-2">
+            <text lines="1" class="text-group_2-2">操作</text>
+            <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_5-2"></image>
+          </view>
+        </view>
+      </view>
+      <view class="list-items_1-3">
+        <text lines="1" class="text_7-3">xxxxxx民宿</text>
+        <view class="block_3-3">
+          <view class="image-text_2-3">
+            <text lines="1" class="text-group_2-3">操作</text>
+            <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNG08596a62b3d6e38bab92e096d2721e11.png" class="thumbnail_5-3"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="group_10">
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_9">新增渠道</text>
+      </view>
+      <image src="../../images/lanhu_qudaoguanli/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+  </view>
+</view>

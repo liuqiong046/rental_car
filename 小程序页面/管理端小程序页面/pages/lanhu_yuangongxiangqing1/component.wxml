@@ -1,0 +1,59 @@
+<view class="page">
+  <view class="box_1">
+    <view class="box_2">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="box_3">
+        <view class="box_4"></view>
+      </view>
+      <view class="box_5">
+        <view class="group_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_yuangongxiangqing1/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_6">
+      <image src="../../images/lanhu_yuangongxiangqing1/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_3">胡小小</text>
+      <view class="block_1">
+        <view class="section_1"></view>
+        <view class="section_2"></view>
+        <image src="../../images/lanhu_yuangongxiangqing1/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <view class="box_7">
+      <image src="../../images/lanhu_yuangongxiangqing1/FigmaDDSSlicePNG01bdcd901e508d370b6e3f39c90f074a.png" class="image_2"></image>
+      <view class="image-text_1">
+        <image src="../../images/lanhu_yuangongxiangqing1/FigmaDDSSlicePNG52851cb73d9b7b11a3b7a63181812b67.png" class="thumbnail_2"></image>
+        <text lines="1" class="text-group_1">胡小小</text>
+      </view>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">编辑</text>
+      </view>
+    </view>
+    <view class="box_8"></view>
+  </view>
+  <view class="box_9">
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_5">车行名称</text>
+      <text lines="1" class="text_6">山与海租车行</text>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_7">岗位</text>
+      <text lines="1" class="text_8">司机</text>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_9">员工姓名</text>
+      <text lines="1" class="text_10">胡小小</text>
+    </view>
+    <view class="text-wrapper_5">
+      <text lines="1" class="text_11">手机号</text>
+      <text lines="1" class="text_12">194901000231</text>
+    </view>
+    <view class="text-wrapper_6">
+      <text lines="1" class="text_13">当前状态</text>
+      <text lines="1" class="text_14">正常</text>
+    </view>
+  </view>
+</view>

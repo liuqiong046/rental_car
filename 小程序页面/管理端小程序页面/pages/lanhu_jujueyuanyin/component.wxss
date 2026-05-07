@@ -1,0 +1,82 @@
+.page {
+  background-color: rgba(255,255,255,1.000000);
+  position: relative;
+  width: 750rpx;
+  height: 904rpx;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.box_1 {
+  background-color: rgba(0,0,0,0.600000);
+  height: 1200rpx;
+  margin-top: -148rpx;
+  display: flex;
+  flex-direction: column;
+  width: 750rpx;
+}
+.group_1 {
+  background-image: linear-gradient(360deg, rgba(243,252,242,1.000000) 0, rgba(255,255,255,1.000000) 50.000000%);
+  border-radius: 36rpx;
+  width: 594rpx;
+  height: 388rpx;
+  border: 1.5px gradient ;
+  display: flex;
+  flex-direction: column;
+  margin: 406rpx 0 0 78rpx;
+}
+.text-group_1 {
+  width: 514rpx;
+  height: 162rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 42rpx 0 0 40rpx;
+}
+.text_1 {
+  width: 136rpx;
+  height: 50rpx;
+  overflow-wrap: break-word;
+  color: rgba(36,45,42,1.000000);
+  font-size: 34rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 34rpx;
+  margin-left: 190rpx;
+}
+.text_2 {
+  width: 514rpx;
+  height: 80rpx;
+  overflow-wrap: break-word;
+  color: rgba(36,45,42,0.800000);
+  font-size: 26rpx;
+  font-family: Source Han Sans SC-Regular;
+  font-weight: normal;
+  text-align: left;
+  line-height: 40rpx;
+  margin-top: 32rpx;
+}
+.text-wrapper_1 {
+  background-color: rgba(96,209,134,1.000000);
+  border-radius: 24rpx;
+  height: 80rpx;
+  display: flex;
+  flex-direction: column;
+  width: 514rpx;
+  margin: 64rpx 0 40rpx 40rpx;
+}
+.text_3 {
+  width: 60rpx;
+  height: 44rpx;
+  overflow-wrap: break-word;
+  color: rgba(255,255,255,1.000000);
+  font-size: 30rpx;
+  font-family: Source Han Sans SC-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 30rpx;
+  margin: 18rpx 0 0 228rpx;
+}

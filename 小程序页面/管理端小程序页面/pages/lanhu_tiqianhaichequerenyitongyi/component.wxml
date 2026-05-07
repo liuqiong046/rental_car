@@ -1,0 +1,134 @@
+<view class="page">
+  <view class="section_1">
+    <view class="group_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="section_2">
+        <view class="block_1"></view>
+      </view>
+      <view class="section_3">
+        <view class="box_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="group_2">
+      <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">续租/延迟还车确认</text>
+      <view class="section_4">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="section_5">
+    <view class="group_5">
+      <text lines="1" class="text_4">费用变更明细</text>
+      <view class="box_2">
+        <text lines="1" class="text_5">租车费</text>
+        <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_2"></image>
+        <view class="text-wrapper_1">
+          <text lines="1" class="text_6">400</text>
+          <text lines="1" class="text_7">元</text>
+          <text lines="1" decode="true" class="text_8">x&nbsp;1.0</text>
+          <text lines="1" class="text_9">天</text>
+        </view>
+        <view class="text-wrapper_2">
+          <text lines="1" class="text_10">-400</text>
+          <text lines="1" class="text_11">元</text>
+        </view>
+      </view>
+      <view class="box_3">
+        <text lines="1" class="text_12">提前还车违约金</text>
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_13">-185</text>
+          <text lines="1" class="text_14">元</text>
+        </view>
+      </view>
+      <view class="box_4">
+        <text lines="1" class="text_15">费用小记</text>
+        <view class="text-wrapper_4">
+          <text lines="1" class="text_16">-185</text>
+          <text lines="1" class="text_17">元</text>
+        </view>
+      </view>
+    </view>
+    <view class="group_6">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG0b17ada3743156deeec234be62daac61.png" class="thumbnail_3"></image>
+        <text lines="1" decode="true" class="text-group_1">退款将在&nbsp;24小时内原路退还</text>
+      </view>
+    </view>
+    <view class="group_7">
+      <view class="box_5"></view>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_18">800</text>
+        <text lines="1" class="text_19">元</text>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_20">需补付</text>
+      </view>
+      <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+  </view>
+  <view class="section_6">
+    <view class="box_6">
+      <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG2c27d547d0c8601c829ab07f8441874c.png" class="thumbnail_4"></image>
+      <text lines="1" class="text_21">原还车时间</text>
+      <view class="image-text_2">
+        <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG2c27d547d0c8601c829ab07f8441874c.png" class="thumbnail_5"></image>
+        <text lines="1" class="text-group_2">续租/延迟还车时间</text>
+      </view>
+    </view>
+    <view class="box_7">
+      <view class="group_8">
+        <view class="text-wrapper_7">
+          <text lines="1" class="text_22">7</text>
+          <text lines="1" class="text_23">月</text>
+          <text lines="1" class="text_24">10</text>
+          <text lines="1" class="text_25">日</text>
+        </view>
+        <view class="text-wrapper_8">
+          <text lines="1" class="text_26">周五</text>
+          <text lines="1" decode="true" class="text_27">&nbsp;09:30</text>
+        </view>
+      </view>
+      <view class="group_9">
+        <view class="box_8"></view>
+        <view class="box_9"></view>
+      </view>
+      <view class="group_10">
+        <view class="text-wrapper_9">
+          <text lines="1" class="text_28">7</text>
+          <text lines="1" class="text_29">月</text>
+          <text lines="1" class="text_30">22</text>
+          <text lines="1" class="text_31">日</text>
+        </view>
+        <view class="text-wrapper_10">
+          <text lines="1" class="text_32">周五</text>
+          <text lines="1" decode="true" class="text_33">&nbsp;09:30</text>
+        </view>
+      </view>
+    </view>
+    <view class="box_10">
+      <view class="group_11"></view>
+    </view>
+    <view class="image-wrapper_2">
+      <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_6"></image>
+    </view>
+    <view class="box_11">
+      <view class="block_2">
+        <view class="image-text_3">
+          <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNGdf9c6b6dfdf5d4c58a572cae81c7a4c5.png" class="image_3"></image>
+          <text lines="1" decode="true" class="text-group_3">同&nbsp;意</text>
+        </view>
+        <view class="group_12"></view>
+        <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNGe64fba50d28c13e6723fbb67fab40af9.png" class="image_4"></image>
+      </view>
+    </view>
+    <text lines="1" decode="true" class="paragraph_1">用户提前还车的时间与原订单结束时间间隔≤4小时，不退还租金费用。<br/>用户提前还车的时间与原订单结束时间间隔&gt;4小时，订单租金按提前还车的租期计算并退还同原订单租金的租金差额；但用户需承担提前还车违约罚金租金差额的20%或30%(如果未使用租期中含节假日)。<br/>如果未使用租期中不含节假日，提前还车的违约罚金最高不超过租客更改订单时订单未使用天数的日均租金的2倍。</text>
+    <image src="../../images/lanhu_tiqianhaichequerenyitongyi/FigmaDDSSlicePNG26abf96aab9348acbd05a813ed71ecc1.png" class="image_5"></image>
+  </view>
+</view>

@@ -1,0 +1,127 @@
+<view class="page">
+  <view class="group_1">
+    <view class="box_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="section_1"></view>
+      </view>
+      <view class="group_3">
+        <view class="block_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="box_2">
+      <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_3">添加问题</text>
+      <view class="group_4">
+        <view class="box_3"></view>
+        <view class="box_4"></view>
+        <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_5">
+    <view class="image-wrapper_2">
+      <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG96bc68ce599969dbee6e1a2dc990e92f.png" class="thumbnail_2"></image>
+    </view>
+    <text lines="1" class="text_4">车身位置</text>
+    <view class="image-text_1">
+      <text lines="1" decode="true" class="text-group_1">车顶:&nbsp;&nbsp;整个车顶平面</text>
+      <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNGa382352607c2d4083bfd674ea4cbbdf0.png" class="label_2"></image>
+    </view>
+  </view>
+  <view class="group_6">
+    <view class="box_5">
+      <view class="group_7">
+        <view class="text-group_2">
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_5">*</text>
+            <text lines="1" class="text_6">问题类型</text>
+          </view>
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_7">*</text>
+            <text lines="1" class="text_8">上传照片</text>
+          </view>
+        </view>
+        <view class="image-text_2">
+          <text lines="1" class="text-group_3">划痕</text>
+          <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNGa382352607c2d4083bfd674ea4cbbdf0.png" class="label_3"></image>
+        </view>
+      </view>
+      <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG2df09396e623a660bd8f2b28afc4db40.png" class="image_2"></image>
+      <view class="group_8"></view>
+      <text lines="1" class="text_9">损伤位置描述</text>
+      <view class="text-wrapper_3">
+        <text lines="1" class="text_10">例：靠近后挡风玻璃边缘中央，距离边缘约10cm处</text>
+      </view>
+      <text lines="1" class="text_11">损伤程度描述</text>
+      <view class="text-wrapper_4">
+        <text lines="1" decode="true" class="text_12">描述损伤的尺寸/程度&nbsp;(长x宽&nbsp;cm/mm，&nbsp;是否露底漆/露铁？）</text>
+      </view>
+      <view class="group_9">
+        <view class="box_6"></view>
+        <view class="image-text_3">
+          <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG1c1ad3d75b9ea4169d391d3a0b78dd03.png" class="thumbnail_3"></image>
+          <text lines="1" class="text-group_4">删除</text>
+        </view>
+      </view>
+    </view>
+    <view class="box_7">
+      <view class="group_10">
+        <view class="text-group_5">
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_13">*</text>
+            <text lines="1" class="text_14">问题类型</text>
+          </view>
+          <view class="text-wrapper_6">
+            <text lines="1" class="text_15">*</text>
+            <text lines="1" class="text_16">上传照片</text>
+          </view>
+        </view>
+        <view class="image-text_4">
+          <text lines="1" class="text-group_6">掉漆</text>
+          <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNGa382352607c2d4083bfd674ea4cbbdf0.png" class="label_4"></image>
+        </view>
+      </view>
+      <view class="group_11">
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNG7faf2c7814a55f7a339b570e07313415.png" class="thumbnail_4"></image>
+        </view>
+        <text lines="1" class="text_17">上传</text>
+      </view>
+      <view class="group_12"></view>
+      <text lines="1" class="text_18">损伤位置描述</text>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_19">例：靠近后挡风玻璃边缘中央，距离边缘约10cm处</text>
+      </view>
+      <text lines="1" class="text_20">损伤程度描述</text>
+      <view class="text-wrapper_8">
+        <text lines="1" decode="true" class="text_21">描述损伤的尺寸/程度&nbsp;(长x宽&nbsp;cm/mm，&nbsp;是否露底漆/露铁？）</text>
+      </view>
+      <view class="group_13">
+        <view class="group_14"></view>
+        <view class="image-text_5">
+          <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNGe73596da9432d592d13f35f4bc9fefa9.png" class="thumbnail_5"></image>
+          <text lines="1" class="text-group_7">删除</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="group_15">
+    <view class="section_2">
+      <view class="image-text_6">
+        <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNGcf88b4e593c3941cd2099e7a10b81152.png" class="thumbnail_6"></image>
+        <text lines="1" class="text-group_8">添加问题</text>
+      </view>
+    </view>
+    <view class="section_3">
+      <view class="text-wrapper_9">
+        <text lines="1" class="text_22">提交还车人确认</text>
+      </view>
+      <image src="../../images/lanhu_tianjiawenti/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_3"></image>
+    </view>
+  </view>
+</view>

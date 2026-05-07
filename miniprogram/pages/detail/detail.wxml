@@ -1,0 +1,104 @@
+<view class="page detail-page">
+  <view class="nav nav-light detail-nav" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <button class="nav-back" style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;" bindtap="go" data-url="/pages/cars/cars">‹</button>
+    <text class="nav-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">车辆详情</text>
+  </view>
+
+  <image class="hero-image" src="{{car.hero}}" mode="aspectFill" bindtap="previewGallery" data-src="{{car.hero}}" />
+  <view class="gallery">
+    <image wx:for="{{thumbs}}" wx:key="*this" class="thumb {{activeImage === index ? 'thumb-active' : ''}}" src="{{item}}" mode="aspectFill" bindtap="changeHero" data-index="{{index}}" />
+  </view>
+  <text class="image-count">{{activeImage + 1}}/{{thumbs.length}}</text>
+
+  <view class="car-head">
+    <view>
+      <view class="detail-name">{{car.fullName}}</view>
+      <view class="muted">{{car.color}}｜{{car.type}} {{car.seats}}座｜{{car.distance}}</view>
+    </view>
+    <view class="detail-price"><text>￥</text><text class="big">{{car.detailPrice}}</text><text class="muted"> / 天</text></view>
+  </view>
+  <view class="feature-row">
+    <view class="feature-box">▣ {{car.plate}}</view>
+    <view class="feature-box">⌾ {{car.gearbox}}｜{{car.energy}}</view>
+  </view>
+  <view class="highlight-row">
+    <view wx:for="{{car.highlights}}" wx:key="*this" class="highlight-pill">{{item}}</view>
+  </view>
+  <view class="store-card">
+    <view class="section-head compact-head"><text>门店与交付</text></view>
+    <view class="store-main">
+      <view class="store-title">{{car.storeName}}</view>
+      <view class="muted">{{car.storeAddress}}</view>
+      <view class="store-meta">距您约 {{car.distance}}｜{{car.supportText}}</view>
+    </view>
+  </view>
+
+  <view class="divider"></view>
+  <view class="section-head">
+    <text>价格日历</text>
+    <button class="mini-more">{{days.length}}天</button>
+  </view>
+  <view class="calendar-card">
+    <view class="calendar-range">
+      <view><view class="range-date">{{trip.pickupDateText}}</view><view class="muted">{{trip.pickupTimeText}}</view></view>
+      <text class="range-pill">{{trip.durationDays}} 天</text>
+      <view class="right"><view class="range-date">{{trip.returnDateText}}</view><view class="muted">{{trip.returnTimeText}}</view></view>
+    </view>
+    <view class="week-row">
+      <text wx:for="{{days}}" wx:key="date">{{item.week}}</text>
+    </view>
+    <view class="day-row">
+      <view wx:for="{{days}}" wx:key="date" class="day-cell {{item.status === 'full' ? 'day-on' : ''}} {{item.status === 'off' ? 'day-off' : ''}} {{item.status === 'partial' ? 'day-partial' : ''}}">
+        <text>{{item.day}}</text>
+        <text class="day-price">￥{{item.price}}</text>
+      </view>
+    </view>
+    <view class="legend"><text>● 全天可租</text><text class="orange">● 不可租</text><text>◐ 部分时段可租</text></view>
+    <view class="calendar-tip">价格已按所选取还车时间刷新，部分时段可租车辆请在下单页确认送收车方式。</view>
+  </view>
+
+  <view class="divider"></view>
+  <view class="section-head"><text>车辆详情</text></view>
+  <view class="spec-grid">
+    <view wx:for="{{specs}}" wx:key="*this" class="spec-item">
+      <text class="weak">{{item[0]}}</text>
+      <text>{{item[1]}}</text>
+    </view>
+  </view>
+  <view class="desc-dot">● {{car.fullName}} {{car.color}}，{{car.sourceLabel}}，取还车前请携带有效证件。</view>
+  <image wx:for="{{detailPhotos}}" wx:key="*this" class="detail-photo" src="{{item}}" mode="aspectFill" bindtap="previewGallery" data-src="{{item}}" />
+
+  <view class="divider"></view>
+  <view class="section-head"><text>预定须知</text></view>
+  <view class="notice-card">
+    <view class="notice-title">取车证件</view>
+    <view class="notice-body">
+      <view><text class="muted">中国居民身份证原件</text><text>有效期需要1个月以上</text></view>
+      <view><text class="muted">中国大陆驾驶证</text><text>有效期需要2个月以上，驾龄满6个月</text></view>
+    </view>
+  </view>
+  <view class="notice-card">
+    <view class="notice-title">取消规则</view>
+    <view class="notice-body">
+      <view><text class="muted">取车时间前</text><text>免费取消</text></view>
+      <view><text class="muted">取车时间之后</text><text>取消违约金：30%</text></view>
+    </view>
+  </view>
+  <view class="notice-card">
+    <view class="notice-title">用车规则</view>
+    <view class="notice-body">
+      <view wx:for="{{rules}}" wx:key="*this"><text class="muted">{{item[0]}}</text><text>{{item[1]}}</text></view>
+    </view>
+  </view>
+  <view class="notice-card">
+    <view class="notice-title">预订提醒</view>
+    <view class="notice-body stacked">
+      <view wx:for="{{car.bookingNotes}}" wx:key="*this"><text>{{item}}</text></view>
+    </view>
+  </view>
+
+  <view class="pay-bottom">
+    <view class="pay-price"><text class="pay-num">{{estimateTotal}}</text><text> 元</text><view class="fee-tag">预估费用</view></view>
+    <button class="btn-dark pay-btn" data-url="/pages/order-confirm/order-confirm?id={{car.id}}" bindtap="go">预定</button>
+  </view>
+</view>

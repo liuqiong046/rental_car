@@ -1,0 +1,83 @@
+<view class="page profile-page">
+  <view class="profile-header">
+    <image class="profile-header-bg" src="../../assets/profile/profile-hero-bg.png" mode="scaleToFill" />
+    <view class="profile-nav nav nav-dark" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+      <view
+        class="wechat-capsule profile-capsule"
+        style="top: {{nav.menuTop}}px; height: {{nav.menuHeight}}px;"
+      >
+        <text class="nav-capsule-dot">···</text>
+        <text class="nav-capsule-split"></text>
+        <text class="nav-capsule-ring">○</text>
+      </view>
+      <text
+        class="nav-title profile-title"
+        style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;"
+      >
+        我的
+      </text>
+    </view>
+
+    <view class="profile-hero">
+      <view class="profile-main">
+        <view class="avatar-shell">
+          <view class="avatar">
+            <image wx:if="{{profile.avatar_url}}" class="avatar-image" src="{{profile.avatar_url}}" mode="aspectFill" />
+            <text wx:else class="avatar-text">{{profile.avatarText}}</text>
+          </view>
+        </view>
+        <view class="profile-copy">
+          <view class="profile-phone">{{profile.phone_mask || "登录后查看"}}</view>
+          <view class="profile-name">{{profile.nickname || "山海用户"}}</view>
+        </view>
+      </view>
+      <view class="profile-shortcut" bindtap="openQuickEdit">
+        <image class="profile-shortcut-icon" src="../../assets/profile/settings-4-line.svg" mode="aspectFit" />
+      </view>
+    </view>
+  </view>
+
+  <view class="menu-panel card">
+    <view wx:for="{{menuItems}}" wx:key="id" class="menu-row" data-id="{{item.id}}" bindtap="openMenu">
+      <view class="menu-copy">
+        <view class="menu-icon menu-icon-{{item.id}}">
+          <image class="menu-icon-image" src="{{item.iconPath}}" mode="aspectFit" />
+        </view>
+        <text class="menu-title">{{item.title}}</text>
+      </view>
+      <view class="menu-tail">
+        <text wx:if="{{item.id === 'identity'}}" class="menu-note">{{certificationText}}</text>
+        <text wx:elif="{{item.id === 'channel'}}" class="menu-note">暂未开放</text>
+        <text wx:elif="{{item.id === 'contact'}}" class="menu-note">人工客服</text>
+        <text class="menu-arrow">›</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="promo-card">
+    <image class="promo-image" src="../../assets/profile/profile-banner.png" mode="aspectFill" />
+  </view>
+
+  <view class="channel-hint">
+    渠道来源：{{channelText}}。渠道工作台与托管入口当前按首期范围保留占位，后续开放真实业务。
+  </view>
+
+  <view class="logout-btn" bindtap="logout">退出登录</view>
+
+  <view class="bottom-bar">
+    <view class="tabbar">
+      <view class="tab-item" data-url="/pages/home/home" bindtap="redirect">
+        <text class="tab-icon">⌂</text>
+        首页
+      </view>
+      <view class="tab-item" data-url="/pages/orders/orders" bindtap="redirect">
+        <text class="tab-icon">□</text>
+        订单
+      </view>
+      <view class="tab-item tab-active" data-url="/pages/profile/profile" bindtap="redirect">
+        <text class="tab-icon">○</text>
+        我的
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,0 +1,28 @@
+<view class="page">
+  <view class="group_1">
+    <text lines="1" class="text_1">添加渠道信息</text>
+    <image src="../../images/lanhu_chexingdingdanlurushishoudongshuru/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <image src="../../images/lanhu_chexingdingdanlurushishoudongshuru/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+  <view class="group_2">
+    <text lines="1" class="text_2">工单类型</text>
+    <view class="box_1">
+      <text lines="1" class="text_3">渠道批发价</text>
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">请输入</text>
+      </view>
+    </view>
+    <view class="box_2">
+      <text lines="1" class="text_5">渠道佣金</text>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_6">请输入</text>
+      </view>
+    </view>
+    <view class="text-wrapper_3">
+      <text lines="1" class="text_7">提交</text>
+    </view>
+    <view class="text-wrapper_4">
+      <text lines="1" class="text_8">请输入</text>
+    </view>
+  </view>
+</view>

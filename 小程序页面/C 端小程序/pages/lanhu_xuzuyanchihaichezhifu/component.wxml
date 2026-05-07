@@ -1,0 +1,118 @@
+<view class="page">
+  <view class="group_1">
+    <view class="section_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_2">
+        <view class="group_3"></view>
+      </view>
+      <view class="group_4">
+        <view class="box_1"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_2">
+      <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_3">提前还车</text>
+      <view class="group_5">
+        <view class="box_2"></view>
+        <view class="box_3"></view>
+        <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_6">
+    <view class="section_3">
+      <view class="section_4">
+        <view class="group_7">
+          <view class="box_4">
+            <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_2"></image>
+            <text lines="1" class="text_4">原还车时间</text>
+          </view>
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_5">7</text>
+            <text lines="1" class="text_6">月</text>
+            <text lines="1" class="text_7">10</text>
+            <text lines="1" class="text_8">日</text>
+          </view>
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_9">周五</text>
+            <text lines="1" decode="true" class="text_10">&nbsp;09:30</text>
+          </view>
+        </view>
+        <view class="image-text_1">
+          <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG9320f7797fbd5d0febb17c52cf50bbee.png" class="thumbnail_3"></image>
+          <view class="text-group_1">
+            <text lines="1" class="text_11">续租/延迟还车时间</text>
+            <view class="text-wrapper_3">
+              <text lines="1" class="text_12">7</text>
+              <text lines="1" class="text_13">月</text>
+              <text lines="1" class="text_14">22</text>
+              <text lines="1" class="text_15">日</text>
+            </view>
+            <view class="text-wrapper_4">
+              <text lines="1" class="text_16">周五</text>
+              <text lines="1" decode="true" class="text_17">&nbsp;09:30</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="image-text_2">
+      <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_4"></image>
+      <text lines="1" class="text-group_2">续租期间的租金按租客提出续租要求当时的租车费价格计费。续租租期不与原订单租期合并计算费用。<br/>可按小时续租，如续租不超过8小时，以小时价格计费;1小时租金和服务费=当日租金和服务费8；续租超过8小时不满24小时，以1天租金计费。</text>
+    </view>
+    <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNGc5f6a99f33feae27318ec446fcf85bee.png" class="image_2"></image>
+    <text lines="1" class="text_18">费用变更明细</text>
+    <view class="section_5">
+      <text lines="1" class="text_19">租车费</text>
+      <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG1f268b35d32a127220ca111812dfe329.png" class="thumbnail_5"></image>
+      <view class="text-wrapper_5">
+        <text lines="1" class="text_20">（500</text>
+        <text lines="1" class="text_21">元</text>
+        <text lines="1" decode="true" class="text_22">&nbsp;x&nbsp;2.0</text>
+        <text lines="1" class="text_23">天）</text>
+      </view>
+      <view class="text-wrapper_6">
+        <text lines="1" class="text_24">+1000</text>
+        <text lines="1" class="text_25">元</text>
+      </view>
+    </view>
+    <view class="section_6">
+      <text lines="1" class="text_26">费用小记</text>
+      <view class="text-wrapper_7">
+        <text lines="1" class="text_27">+1000</text>
+        <text lines="1" class="text_28">元</text>
+      </view>
+    </view>
+    <view class="section_7">
+      <view class="image-text_3">
+        <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNG46c39da12f20e8913816ddc83d33ad86.png" class="thumbnail_6"></image>
+        <view class="text-group_3">
+          <text lines="1" class="text_29">15</text>
+          <text lines="1" class="text_30">分钟内未完成支付系统自动取消续车/延迟还车申请</text>
+        </view>
+      </view>
+    </view>
+    <view class="section_8">
+      <view class="group_8"></view>
+      <view class="group_9">
+        <view class="group_10">
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_31">1000</text>
+            <text lines="1" class="text_32">元</text>
+          </view>
+          <view class="text-wrapper_9">
+            <text lines="1" class="text_33">需补付</text>
+          </view>
+        </view>
+        <view class="text-wrapper_10">
+          <text lines="1" class="text_34">支付</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_xuzuyanchihaichezhifu/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_3"></image>
+    </view>
+  </view>
+</view>

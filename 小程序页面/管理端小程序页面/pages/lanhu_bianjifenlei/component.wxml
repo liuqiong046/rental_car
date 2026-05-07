@@ -1,0 +1,47 @@
+<view class="page">
+  <view class="group_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="block_2">
+        <view class="box_1"></view>
+      </view>
+      <view class="block_3">
+        <view class="group_2"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_4">
+      <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">编辑分类</text>
+      <view class="section_1">
+        <view class="group_3"></view>
+        <view class="group_4"></view>
+        <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+  </view>
+  <view class="group_5">
+    <view class="block_5">
+      <view class="image-text_1">
+        <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNG5643e6300f1ce5bd685cfa455941b48a.png" class="thumbnail_2"></image>
+        <text lines="1" class="text-group_1">创建分类</text>
+      </view>
+    </view>
+    <view class="block_6">
+      <view class="text-wrapper_1">
+        <text lines="1" class="text_4">创建</text>
+      </view>
+      <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+    </view>
+    <view class="block_7">
+      <text lines="1" class="text_5">应收应付</text>
+      <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNG40625a44f16d14df7aa1214fd81d6451.png" class="thumbnail_3"></image>
+      <view class="image-wrapper_2">
+        <image src="../../images/lanhu_bianjifenlei/FigmaDDSSlicePNGac212f011cf5b10be29c5c418e0988c0.png" class="thumbnail_4"></image>
+      </view>
+    </view>
+  </view>
+</view>

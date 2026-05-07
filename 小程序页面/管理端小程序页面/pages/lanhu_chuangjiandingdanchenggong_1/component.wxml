@@ -1,0 +1,15 @@
+<view class="page">
+  <view class="image-wrapper_1">
+    <image src="../../images/lanhu_chuangjiandingdanchenggong_1/FigmaDDSSlicePNGc87eb1beca8e15b115ea11a44a090c33.png" class="label_1"></image>
+  </view>
+  <view class="group_1">
+    <view class="image-text_1">
+      <image src="../../images/lanhu_chuangjiandingdanchenggong_1/FigmaDDSSlicePNG5f5161f7571fb6392b090f03e4499bce.png" class="image_1"></image>
+      <text lines="1" class="text-group_1">批发订单创建成功</text>
+    </view>
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">查看批发订单详情</text>
+    </view>
+  </view>
+  <image src="../../images/lanhu_chuangjiandingdanchenggong_1/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_2"></image>
+</view>

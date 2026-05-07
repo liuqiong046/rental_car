@@ -1,0 +1,89 @@
+<view class="page home-page">
+  <image class="home-hero-bg" src="/assets/home-bg.jpg" mode="aspectFill" />
+  <view class="home-top" style="height: {{nav.navHeight}}px; padding-top: {{nav.statusBarHeight}}px;">
+    <text class="home-title" style="height: {{nav.menuHeight}}px; line-height: {{nav.menuHeight}}px; margin-top: {{nav.menuOffset}}px;">山海放心租</text>
+  </view>
+
+  <scroll-view class="category-tabs" scroll-x>
+    <text wx:for="{{categories}}" wx:key="*this" data-index="{{index}}" bindtap="chooseCategory" class="category-tab {{activeCategory === index ? 'category-active' : ''}}">{{item}}</text>
+  </scroll-view>
+
+  <view class="search-card">
+    <view class="trip-row">
+      <view class="trip-place">
+        <view class="trip-main" bindtap="chooseCity">{{currentCity.city_name || "三亚"}}⌄</view>
+        <view class="trip-label">当前定位</view>
+      </view>
+      <view class="trip-date">
+        <picker mode="date" value="{{trip.pickupDate}}" bindchange="changePickupDate">
+          <view class="date-main">{{trip.pickupDateText}}</view>
+        </picker>
+        <picker mode="time" value="{{trip.pickupTime}}" bindchange="changePickupTime">
+          <view class="trip-label">{{trip.pickupTimeText}}</view>
+        </picker>
+      </view>
+      <view class="day-pill">共 {{trip.durationDays}} 天</view>
+      <view class="trip-date trip-right">
+        <picker mode="date" value="{{trip.returnDate}}" bindchange="changeReturnDate">
+          <view class="date-main">{{trip.returnDateText}}</view>
+        </picker>
+        <picker mode="time" value="{{trip.returnTime}}" bindchange="changeReturnTime">
+          <view class="trip-label">{{trip.returnTimeText}}</view>
+        </picker>
+      </view>
+    </view>
+    <button class="btn-yellow search-btn" bindtap="goBrand">查看可租车辆</button>
+  </view>
+
+  <view class="banner-wrap">
+    <image class="banner" src="/assets/home-banner.jpg" mode="aspectFill" />
+    <text class="banner-count">1/4</text>
+  </view>
+
+  <view class="service-strip">
+    <view>
+      <view class="service-title">{{serviceInfo.store}}</view>
+      <view class="service-meta">{{serviceInfo.hours}}｜客服 {{serviceInfo.phone}}</view>
+    </view>
+    <button class="service-link" bindtap="goBrand">全部品牌</button>
+  </view>
+
+  <view class="section-head-home">
+    <text class="section-title hot-title">热门车型</text>
+    <button class="more-filter-btn" bindtap="goMoreFilters">更多筛选</button>
+  </view>
+  <scroll-view class="brand-tabs" scroll-x>
+    <view wx:for="{{brands}}" wx:key="*this" data-index="{{index}}" bindtap="chooseBrand" class="brand-pill {{activeBrand === index ? 'brand-active' : ''}}">
+      <view class="brand-dot"></view>
+      <text>{{item}}</text>
+    </view>
+  </scroll-view>
+
+  <view class="car-list">
+    <view wx:for="{{cars}}" wx:key="key" class="car-card" data-url="/pages/detail/detail?id={{item.id}}" bindtap="go">
+      <view class="car-info">
+        <view class="car-name"><text>{{item.brand}}</text><text class="din">{{item.model}}</text><text class="mini-badge">○</text></view>
+        <view class="car-meta">{{item.color}}｜{{item.type}} {{item.seats}}座｜{{item.distance}}</view>
+        <view class="car-spec">▣ {{item.plate}}｜{{item.sourceLabel}}</view>
+        <view class="car-spec">⌾ {{item.gearbox}}｜{{item.energy}}｜{{item.storeName}}</view>
+      </view>
+      <image class="car-image" src="{{item.image}}" mode="aspectFill" />
+      <view class="price-block">
+        <view><text class="price">{{item.price}}</text><text class="unit">元</text></view>
+        <text class="per">/每天</text>
+      </view>
+      <button class="book-small" catchtap="go" data-url="/pages/detail/detail?id={{item.id}}">预定 ↗</button>
+    </view>
+  </view>
+
+  <view class="loading-row"><text class="sun">✣</text><text>{{loading ? "加载中" : cars.length ? "已按时间刷新" : "当前时段暂无推荐车辆"}}</text></view>
+  <view class="slogan">租用高端车，就用山海放心租</view>
+
+  <view class="bottom-bar">
+    <view class="tabbar">
+      <button class="tab-item tab-active" data-url="/pages/home/home" bindtap="redirect"><text class="tab-icon">⌂</text>首页</button>
+      <button class="tab-item" data-url="/pages/orders/orders" bindtap="redirect"><text class="tab-icon">□</text>订单</button>
+      <button class="tab-item" data-url="/pages/profile/profile" bindtap="redirect"><text class="tab-icon">○</text>我的</button>
+    </view>
+  </view>
+</view>

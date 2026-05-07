@@ -1,0 +1,35 @@
+<view class="page">
+  <view class="text-wrapper_1">
+    <text lines="1" class="paragraph_1">您的订单费用和剩余押金在15分钟内原路返还，<br/>具体到账时间以支付方为准</text>
+  </view>
+  <view class="box_1">
+    <view class="block_1">
+      <text lines="1" class="text_1">9:41</text>
+      <view class="group_1">
+        <view class="section_1"></view>
+      </view>
+      <view class="group_2">
+        <view class="box_2"></view>
+      </view>
+      <view class="image-wrapper_1">
+        <image src="../../images/lanhu_quxiaochenggong/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+      </view>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="block_2">
+      <image src="../../images/lanhu_quxiaochenggong/FigmaDDSSlicePNG033a952947d86e7e084d4a1a95faedee.png" class="label_1"></image>
+      <text lines="1" class="text_3">取消成功</text>
+      <view class="group_3">
+        <view class="group_4"></view>
+        <view class="group_5"></view>
+        <image src="../../images/lanhu_quxiaochenggong/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_1"></image>
+      </view>
+    </view>
+    <view class="image-wrapper_2">
+      <image src="../../images/lanhu_quxiaochenggong/FigmaDDSSlicePNGb5f6a05fb434b760a51e494fe5308e4b.png" class="image_2"></image>
+    </view>
+    <view class="text-wrapper_2">
+      <text lines="1" class="text_4">取消成功</text>
+    </view>
+  </view>
+</view>

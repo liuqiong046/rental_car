@@ -1,0 +1,227 @@
+<view class="page">
+  <view class="block_1">
+    <view class="text-wrapper_1">
+      <text lines="1" class="text_1">9:41</text>
+      <text lines="1" class="text_2">9:41</text>
+    </view>
+    <view class="section_1">
+      <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGeb4c4123cb9b1878a2217d2871a18343.png" class="label_1"></image>
+      <text lines="1" class="text_3">车辆审核</text>
+    </view>
+    <view class="section_2">
+      <view class="group_1">
+        <view class="image-text_1">
+          <text lines="1" class="text-group_1">请选择车行</text>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGf7c19b4531e21a10c0963c4af03626de.png" class="thumbnail_1"></image>
+        </view>
+      </view>
+      <view class="text-wrapper_2">
+        <text lines="1" class="text_4">输入车牌号搜索</text>
+      </view>
+    </view>
+    <view class="section_3">
+      <view class="group_2">
+        <view class="box_1">
+          <view class="block_2"></view>
+        </view>
+        <view class="box_2">
+          <view class="box_3"></view>
+        </view>
+        <view class="image-wrapper_1">
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG8adf5c2dee4625382b145da02e1a4228.png" class="image_1"></image>
+        </view>
+      </view>
+      <view class="group_3">
+        <view class="block_3"></view>
+        <view class="block_4"></view>
+        <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG3d2a9aa6629adcdaba6fd9ba6f1bd550.png" class="thumbnail_2"></image>
+      </view>
+      <view class="group_4">
+        <view class="image-wrapper_2">
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG702576bc26ca7754deaac39d68b2ae72.png" class="thumbnail_3"></image>
+        </view>
+        <view class="image-wrapper_3">
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG601350237a2a674fffce0a7304532e49.png" class="thumbnail_4"></image>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="block_5">
+    <view class="box_4">
+      <view class="image-wrapper_4">
+        <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_5"></image>
+      </view>
+      <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3e9591c1e44f3f6d1b2e1612953af49.png" class="image_2"></image>
+      <view class="group_5">
+        <view class="text-wrapper_3">
+          <text lines="1" class="text_5">小米</text>
+          <text lines="1" class="text_6">SU7</text>
+        </view>
+        <view class="block_6">
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_7">湘</text>
+            <text lines="1" class="text_8">A</text>
+            <text lines="1" decode="true" class="text_9">&nbsp;····</text>
+            <text lines="1" class="text_10">29</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_6"></image>
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_11">SUV</text>
+            <text lines="1" class="text_12">5</text>
+            <text lines="1" class="text_13">座</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_7"></image>
+        </view>
+        <view class="block_7">
+          <view class="image-text_2">
+            <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_8"></image>
+            <text lines="1" class="text-group_2">自动挡</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_9"></image>
+          <text lines="1" class="text_14">纯电动</text>
+        </view>
+        <view class="text-wrapper_6">
+          <text lines="1" class="text_15">鑫辉租车</text>
+        </view>
+      </view>
+      <text lines="1" class="text_16">紫色</text>
+    </view>
+    <view class="box_5">
+      <view class="image-wrapper_5">
+        <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_10"></image>
+      </view>
+      <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3e9591c1e44f3f6d1b2e1612953af49.png" class="image_3"></image>
+      <view class="group_6">
+        <view class="text-wrapper_7">
+          <text lines="1" class="text_17">小米</text>
+          <text lines="1" class="text_18">SU7</text>
+        </view>
+        <view class="section_4">
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_19">湘</text>
+            <text lines="1" class="text_20">A</text>
+            <text lines="1" decode="true" class="text_21">&nbsp;····</text>
+            <text lines="1" class="text_22">29</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_11"></image>
+          <view class="text-wrapper_9">
+            <text lines="1" class="text_23">SUV</text>
+            <text lines="1" class="text_24">5</text>
+            <text lines="1" class="text_25">座</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_12"></image>
+        </view>
+        <view class="section_5">
+          <view class="image-text_3">
+            <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_13"></image>
+            <text lines="1" class="text-group_3">自动挡</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_14"></image>
+          <text lines="1" class="text_26">纯电动</text>
+        </view>
+        <view class="text-wrapper_10">
+          <text lines="1" class="text_27">鑫辉租车</text>
+        </view>
+      </view>
+      <text lines="1" class="text_28">紫色</text>
+    </view>
+    <view class="box_6">
+      <view class="image-wrapper_6">
+        <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_15"></image>
+      </view>
+      <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3e9591c1e44f3f6d1b2e1612953af49.png" class="image_4"></image>
+      <view class="block_8">
+        <view class="text-wrapper_11">
+          <text lines="1" class="text_29">小米</text>
+          <text lines="1" class="text_30">SU7</text>
+        </view>
+        <view class="box_7">
+          <view class="text-wrapper_12">
+            <text lines="1" class="text_31">湘</text>
+            <text lines="1" class="text_32">A</text>
+            <text lines="1" decode="true" class="text_33">&nbsp;····</text>
+            <text lines="1" class="text_34">29</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_16"></image>
+          <view class="text-wrapper_13">
+            <text lines="1" class="text_35">SUV</text>
+            <text lines="1" class="text_36">5</text>
+            <text lines="1" class="text_37">座</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_17"></image>
+        </view>
+        <view class="box_8">
+          <view class="image-text_4">
+            <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_18"></image>
+            <text lines="1" class="text-group_4">自动挡</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_19"></image>
+          <text lines="1" class="text_38">纯电动</text>
+        </view>
+        <view class="text-wrapper_14">
+          <text lines="1" class="text_39">鑫辉租车</text>
+        </view>
+      </view>
+      <text lines="1" class="text_40">紫色</text>
+    </view>
+    <view class="box_9">
+      <view class="image-wrapper_7">
+        <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGdf17fbcb1801188a6e8fb14815eaddab.png" class="thumbnail_20"></image>
+      </view>
+      <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3e9591c1e44f3f6d1b2e1612953af49.png" class="image_5"></image>
+      <view class="box_10">
+        <view class="text-wrapper_15">
+          <text lines="1" class="text_41">小米</text>
+          <text lines="1" class="text_42">SU7</text>
+        </view>
+        <view class="box_11">
+          <view class="text-wrapper_16">
+            <text lines="1" class="text_43">湘</text>
+            <text lines="1" class="text_44">A</text>
+            <text lines="1" decode="true" class="text_45">&nbsp;····</text>
+            <text lines="1" class="text_46">29</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_21"></image>
+          <view class="text-wrapper_17">
+            <text lines="1" class="text_47">SUV</text>
+            <text lines="1" class="text_48">5</text>
+            <text lines="1" class="text_49">座</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_22"></image>
+        </view>
+        <view class="box_12">
+          <view class="image-text_5">
+            <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNG18fd78626dfa8f64f7d28b169588c195.png" class="thumbnail_23"></image>
+            <text lines="1" class="text-group_5">自动挡</text>
+          </view>
+          <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa3c7111d4dea155c11e0393891df8864.png" class="thumbnail_24"></image>
+          <text lines="1" class="text_50">纯电动</text>
+        </view>
+        <view class="text-wrapper_18">
+          <text lines="1" class="text_51">鑫辉租车</text>
+        </view>
+      </view>
+      <text lines="1" class="text_52">紫色</text>
+    </view>
+    <view class="box_13">
+      <view class="box_14">
+        <view class="block_9"></view>
+        <text lines="1" class="text_53">全选</text>
+        <view class="text-wrapper_19">
+          <text lines="1" class="text_54">驳回</text>
+        </view>
+        <view class="text-wrapper_20">
+          <text lines="1" class="text_55">通过</text>
+        </view>
+      </view>
+      <image src="../../images/lanhu_daishenhepiliangshezhi/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_6"></image>
+    </view>
+    <view class="box_15">
+      <view class="text-wrapper_21">
+        <text lines="1" class="text_56">已选择</text>
+        <text lines="1" class="text_57">3</text>
+        <text lines="1" decode="true" class="text_58">&nbsp;辆车</text>
+      </view>
+    </view>
+  </view>
+</view>

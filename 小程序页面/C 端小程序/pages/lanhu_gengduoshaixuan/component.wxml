@@ -1,0 +1,132 @@
+<view class="page">
+  <view class="section_1">
+    <view class="section_2">
+      <text lines="1" class="text_1">更多筛选</text>
+      <view class="section_3">
+        <text lines="1" class="text_2">车牌号</text>
+        <view class="group_1">
+          <text lines="1" class="text_3">请输入车牌号</text>
+          <image src="../../images/lanhu_gengduoshaixuan/FigmaDDSSlicePNG1060dc14f5d4c29c2d34f9112fd75856.png" class="thumbnail_1"></image>
+        </view>
+        <text lines="1" class="text_4">车牌号</text>
+        <view class="group_2">
+          <view class="text-wrapper_1">
+            <text lines="1" class="text_5">0-299</text>
+          </view>
+          <view class="text-wrapper_2">
+            <text lines="1" class="text_6">300-599</text>
+          </view>
+          <view class="text-wrapper_3">
+            <text lines="1" class="text_7">600-999</text>
+          </view>
+        </view>
+        <view class="group_3">
+          <view class="text-wrapper_4">
+            <text lines="1" class="text_8">1000-1499</text>
+          </view>
+          <view class="text-wrapper_5">
+            <text lines="1" class="text_9">1500+</text>
+          </view>
+          <view class="text-wrapper_6">
+            <text lines="1" class="text_10">自定义</text>
+          </view>
+        </view>
+        <view class="group_4">
+          <view class="text-wrapper_7">
+            <text lines="1" class="text_11">车牌号</text>
+          </view>
+          <view class="text-wrapper_8">
+            <text lines="1" class="text_12">车辆等级</text>
+          </view>
+          <view class="text-wrapper_9">
+            <text lines="1" class="text_13">车辆类型</text>
+          </view>
+          <view class="text-wrapper_10">
+            <text lines="1" class="text_14">颜色</text>
+          </view>
+          <view class="text-wrapper_11">
+            <text lines="1" class="text_15">座位</text>
+          </view>
+          <view class="text-wrapper_12">
+            <text lines="1" class="text_16">燃油类型</text>
+          </view>
+          <view class="text-wrapper_13">
+            <text lines="1" class="text_17">归属方</text>
+          </view>
+        </view>
+      </view>
+      <text lines="1" class="text_18">车辆类型</text>
+      <view class="section_4">
+        <view class="text-wrapper_14">
+          <text lines="1" class="text_19">超跑</text>
+        </view>
+        <view class="text-wrapper_15">
+          <text lines="1" class="text_20">小跑</text>
+        </view>
+        <view class="text-wrapper_16">
+          <text lines="1" class="text_21">敞篷</text>
+        </view>
+      </view>
+      <view class="section_5">
+        <view class="text-wrapper_17">
+          <text lines="1" class="text_22">轿车</text>
+        </view>
+        <view class="text-wrapper_18">
+          <text lines="1" class="text_23">SUV</text>
+        </view>
+        <view class="text-wrapper_19">
+          <text lines="1" class="text_24">商务</text>
+        </view>
+      </view>
+      <view class="text-wrapper_20">
+        <text lines="1" class="text_25">皮卡</text>
+      </view>
+      <text lines="1" class="text_26">颜色</text>
+      <view class="section_6">
+        <view class="text-wrapper_21">
+          <text lines="1" class="text_27">蓝</text>
+        </view>
+        <view class="text-wrapper_22">
+          <text lines="1" class="text_28">黄</text>
+        </view>
+        <view class="text-wrapper_23">
+          <text lines="1" class="text_29">红</text>
+        </view>
+      </view>
+      <view class="section_7">
+        <view class="text-wrapper_24">
+          <text lines="1" class="text_30">白</text>
+        </view>
+        <view class="text-wrapper_25">
+          <text lines="1" class="text_31">粉</text>
+        </view>
+        <view class="text-wrapper_26">
+          <text lines="1" class="text_32">绿</text>
+        </view>
+      </view>
+      <view class="section_8">
+        <view class="text-wrapper_27">
+          <text lines="1" class="text_33">紫</text>
+        </view>
+        <view class="text-wrapper_28">
+          <text lines="1" class="text_34">黑</text>
+        </view>
+        <view class="text-wrapper_29">
+          <text lines="1" class="text_35">棕</text>
+        </view>
+      </view>
+      <view class="section_9"></view>
+      <view class="section_10">
+        <view class="box_1">
+          <view class="text-wrapper_30">
+            <text lines="1" class="text_36">清空</text>
+          </view>
+          <view class="text-wrapper_31">
+            <text lines="1" class="text_37">查看筛选结果</text>
+          </view>
+        </view>
+        <image src="../../images/lanhu_gengduoshaixuan/FigmaDDSSlicePNGa672e7ae48608f81b1bd2194ae4cb037.png" class="image_1"></image>
+      </view>
+    </view>
+  </view>
+</view>
