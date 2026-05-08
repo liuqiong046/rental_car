@@ -23,8 +23,9 @@ import AdminAccountPanel from '../components/admin-rbac/AdminAccountPanel.vue'
 import AdminOrganizationPanel from '../components/admin-rbac/AdminOrganizationPanel.vue'
 import AdminRolePanel from '../components/admin-rbac/AdminRolePanel.vue'
 import { formatDataScope } from '../components/admin-rbac/permissionOptions'
+import AdminVehicleInventoryPanel from '../components/AdminVehicleInventoryPanel.vue'
 import { useSessionStore } from '../stores/session'
-type SectionKey = 'roles' | 'accounts' | 'organizations'
+type SectionKey = 'roles' | 'accounts' | 'organizations' | 'vehicles'
 const router = useRouter()
 const session = useSessionStore()
 const activeSection = ref<SectionKey>('roles')
@@ -61,11 +62,18 @@ const summaryCards = computed(() => [
     label: '组织架构',
     value: organizations.value.length,
     description: '总部、运营中心、车行与岗位归属'
+  },
+  {
+    key: 'vehicles' as SectionKey,
+    label: '车辆供给',
+    value: 'WF-P0-06',
+    description: '车型库、车辆资料和价格日历'
   }
 ])
 const sectionTitle = computed(() => {
   if (activeSection.value === 'accounts') return '员工账号'
   if (activeSection.value === 'organizations') return '组织架构'
+  if (activeSection.value === 'vehicles') return '车辆供给'
   return '岗位权限'
 })
 const sectionDescription = computed(() => {
@@ -74,6 +82,9 @@ const sectionDescription = computed(() => {
   }
   if (activeSection.value === 'organizations') {
     return '组织用于承载总部、运营中心、车行和岗位的数据边界。'
+  }
+  if (activeSection.value === 'vehicles') {
+    return '维护车型、车辆来源、状态和价格日历，供 C 端列表、确认订单和批发调车读取。'
   }
   return '岗位统一维护菜单、按钮和基础数据范围，供后续模块直接复用。'
 })
@@ -202,10 +213,10 @@ onMounted(() => void loadData())
   <main class="rbac-shell" v-loading="loading">
     <section class="rbac-hero">
       <div class="rbac-hero__copy">
-        <p class="rbac-hero__eyebrow">WF-P0-03 · 权限中台</p>
-        <h1>PC 后台登录、组织、账号与权限</h1>
+        <p class="rbac-hero__eyebrow">WF-P0-03 / WF-P0-06 · 管理后台</p>
+        <h1>组织权限与车辆供给</h1>
         <p class="rbac-hero__summary">
-          当前页面只保留组织、岗位和账号权限，不扩展到城市、车辆、订单、财务和日志模块。
+          当前后台已恢复车辆供给入口，继续保持订单、财务、日志等模块由各自 WF 任务接入。
         </p>
         <div class="rbac-hero__meta">
           <span>{{ session.actor?.display_name }}</span>
@@ -249,7 +260,7 @@ onMounted(() => void loadData())
       <article class="rbac-guide">
         <span>任务边界</span>
         <strong>只做 WF-P0-03</strong>
-        <p>后续业务模块入口将在对应 WF 任务完成后再挂回后台导航。</p>
+        <p>车辆供给已由 WF-P0-06 接入；订单、财务、日志仍等待对应任务。</p>
       </article>
     </section>
     <section class="rbac-content">
@@ -260,7 +271,7 @@ onMounted(() => void loadData())
         </div>
         <p class="rbac-content__summary">{{ sectionDescription }}</p>
       </header>
-      <!-- TODO(WF-P0-05/WF-P0-07/WF-P0-11/WF-P0-12): 后续任务完成后，再把业务模块入口重新挂回后台导航。 -->
+      <!-- TODO(WF-P0-07/WF-P0-11/WF-P0-12/WF-P0-18/WF-P0-19): 后续任务完成后，再把订单、财务和日志入口挂回后台导航。 -->
       <AdminRolePanel
         v-if="activeSection === 'roles'"
         :roles="roles"
@@ -281,11 +292,12 @@ onMounted(() => void loadData())
         :on-reset-password="handleResetPassword"
       />
       <AdminOrganizationPanel
-        v-else
+        v-else-if="activeSection === 'organizations'"
         :organizations="organizations"
         :on-create="handleCreateOrganization"
         :on-save="handleSaveOrganization"
       />
+      <AdminVehicleInventoryPanel v-else :token="session.token" />
     </section>
   </main>
 </template>

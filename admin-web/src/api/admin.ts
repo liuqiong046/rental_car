@@ -75,6 +75,7 @@ export type CityConfig = {
 }
 
 export type VehicleModel = {
+  model_id: string
   brand: string
   series: string
   model_name: string
@@ -105,8 +106,12 @@ export type VehicleDetail = {
   model: VehicleModel
   plate_mask: string
   color: string
+  mileage_km: number
+  daily_mileage_limit: number
   image_url: string
   source: string
+  dealer_id?: string | null
+  hosted_owner?: string | null
   review_status: string
   listing_status: string
   maintenance: boolean
@@ -115,6 +120,7 @@ export type VehicleDetail = {
   available: boolean
   unavailable_reason?: string | null
   today_price?: PriceCalendarEntry | null
+  price_calendar: PriceCalendarEntry[]
 }
 
 export type IdentitySubmission = {
@@ -336,6 +342,61 @@ export function fetchVehicles(token: string) {
   return request<ListResponse<VehicleDetail>>('/api/v1/vehicles/admin/items', token)
 }
 
+export function fetchVehicleModels(token: string) {
+  return request<ListResponse<VehicleModel>>('/api/v1/vehicles/admin/models', token)
+}
+
+export function createVehicleModel(token: string, payload: Omit<VehicleModel, 'model_id'>) {
+  return request<VehicleModel>('/api/v1/vehicles/admin/models', token, {
+    method: 'POST',
+    body: JSON.stringify(payload)
+  })
+}
+
+export function updateVehicleModel(token: string, modelId: string, payload: Partial<Omit<VehicleModel, 'model_id'>>) {
+  return request<VehicleModel>(`/api/v1/vehicles/admin/models/${modelId}`, token, {
+    method: 'PATCH',
+    body: JSON.stringify(payload)
+  })
+}
+
+export function deleteVehicleModel(token: string, modelId: string) {
+  return request<void>(`/api/v1/vehicles/admin/models/${modelId}`, token, { method: 'DELETE' })
+}
+
+export type VehicleWritePayload = {
+  city_code: string
+  model_id: string
+  plate_mask: string
+  color: string
+  mileage_km: number
+  daily_mileage_limit: number
+  image_url: string
+  source: VehicleDetail['source']
+  dealer_id?: string | null
+  hosted_owner?: string | null
+  review_status?: VehicleDetail['review_status']
+  listing_status?: VehicleDetail['listing_status']
+}
+
+export function createVehicle(token: string, payload: VehicleWritePayload) {
+  return request<VehicleDetail>('/api/v1/vehicles/admin/items', token, {
+    method: 'POST',
+    body: JSON.stringify(payload)
+  })
+}
+
+export function updateVehicle(token: string, vehicleId: string, payload: Partial<VehicleWritePayload>) {
+  return request<VehicleDetail>(`/api/v1/vehicles/admin/items/${vehicleId}`, token, {
+    method: 'PATCH',
+    body: JSON.stringify(payload)
+  })
+}
+
+export function deleteVehicle(token: string, vehicleId: string) {
+  return request<void>(`/api/v1/vehicles/admin/items/${vehicleId}`, token, { method: 'DELETE' })
+}
+
 export function updateVehicleStatus(
   token: string,
   vehicleId: string,
@@ -347,12 +408,35 @@ export function updateVehicleStatus(
   })
 }
 
+export function fetchVehiclePrices(token: string, vehicleId: string) {
+  return request<ListResponse<PriceCalendarEntry>>(`/api/v1/vehicles/admin/items/${vehicleId}/prices`, token)
+}
+
 export function upsertVehiclePrice(
   token: string,
   vehicleId: string,
   payload: Omit<PriceCalendarEntry, 'vehicle_id' | 'updated_at'>
 ) {
   return request<PriceCalendarEntry>(`/api/v1/vehicles/admin/items/${vehicleId}/prices`, token, {
+    method: 'PUT',
+    body: JSON.stringify(payload)
+  })
+}
+
+export function upsertVehiclePricesBatch(
+  token: string,
+  vehicleId: string,
+  payload: {
+    start_date: string
+    days: number
+    base_price: number
+    customer_price: number
+    wholesale_price: number
+    rentable: boolean
+    available_periods: string[]
+  }
+) {
+  return request<ListResponse<PriceCalendarEntry>>(`/api/v1/vehicles/admin/items/${vehicleId}/prices/batch`, token, {
     method: 'PUT',
     body: JSON.stringify(payload)
   })
